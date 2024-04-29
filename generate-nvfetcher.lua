@@ -1,6 +1,19 @@
 #!/usr/bin/env -S nvim -l
 local parsers = require("nvim-treesitter.parsers").list
 
+parsers.blade = {
+	install_info = {
+		url = "https://github.com/EmranMR/tree-sitter-blade",
+		files = { "src/parser.c" },
+	},
+}
+parsers.norg_meta = {
+	install_info = {
+		url = "https://github.com/nvim-neorg/tree-sitter-norg-meta",
+		files = { "src/parser.c" },
+	},
+}
+
 local keys = {}
 for lang, _ in pairs(parsers) do
 	table.insert(keys, lang)

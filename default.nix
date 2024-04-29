@@ -43,8 +43,7 @@ let
     in
     ''
       ln -sf ${grammar}/parser ./parser/${name}.so
-      if [[ -d ${grammar}/queries ]]; then
-        rm -rf ./queries/${name}
+      if [[ -d ${grammar}/queries ]] && [[ ! -d ./queries/${name} ]]; then
         ln -sf ${grammar}/queries ./queries/${name}
       fi
     ''
@@ -58,18 +57,24 @@ let
     inherit (nv.nvim-treesitter) pname version src;
     postPatch = lib.concatStrings linkCommands;
 
-    passthru.tests.check-queries = runCommand "check-queries" { nativeBuildInputs = [ neovim ]; } ''
-      touch $out
-      export HOME=$(mktemp -d)
-      ln -s ${nvim-treesitter}/CONTRIBUTING.md .
+    passthru.tests.check-queries =
+      runCommand "check-queries"
+        {
+          nativeBuildInputs = [ neovim ];
+          env.CI = true;
+        }
+        ''
+          touch $out
+          export HOME=$(mktemp -d)
+          ln -s ${nvim-treesitter}/CONTRIBUTING.md .
 
-      nvim --headless "+luafile ${nvim-treesitter}/scripts/check-queries.lua" | tee log
+          nvim --headless "+luafile ${nvim-treesitter}/scripts/check-queries.lua" | tee log
 
-      if grep -q Warning log; then
-        echo "Error: warnings were emitted by the check"
-        exit 1
-      fi
-    '';
+          if grep -q Warning log || grep -q Error log; then
+            echo "Error: warnings were emitted by the check"
+            exit 1
+          fi
+        '';
   };
 in
 nvim-treesitter
