@@ -4,7 +4,7 @@
   inputs.nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
 
   outputs =
-    { nixpkgs, ... }:
+    { self, nixpkgs }:
     let
       systems = [
         "aarch64-darwin"
@@ -27,8 +27,14 @@
         };
       });
 
+      overlays.default = final: prev: {
+        vimPlugins = prev.vimPlugins // {
+          nvim-treesitter = self.packages.${prev.hostPlatform.system}.default;
+        };
+      };
+
       packages = eachSystem (pkgs: {
-        nvim-treesitter = pkgs.callPackage ./default.nix { };
+        default = pkgs.callPackage ./default.nix { };
       });
 
       formatter = eachSystem (pkgs: pkgs.nixfmt-rfc-style);
