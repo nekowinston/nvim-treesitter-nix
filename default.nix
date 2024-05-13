@@ -15,6 +15,7 @@
 }:
 let
   nv = callPackage ./_sources/generated.nix { };
+  grammarOverrides = callPackage ./grammar-overrides.nix { };
 
   # get all grammars from the nvfetcher output
   allGrammars = builtins.map (name: lib.removePrefix "treesitter-grammar-" name) (
@@ -35,12 +36,15 @@ let
     let
       nvgrammar = nv."treesitter-grammar-${name}";
     in
-    tree-sitter.buildGrammar {
-      inherit (nvgrammar) src version;
-      language = name;
-      generate = lib.hasAttr "generate" nvgrammar;
-      location = nvgrammar.location or null;
-    }
+    tree-sitter.buildGrammar (
+      {
+        inherit (nvgrammar) src version;
+        language = name;
+        generate = lib.hasAttr "generate" nvgrammar;
+        location = nvgrammar.location or null;
+      }
+      // grammarOverrides.${name} or { }
+    )
   ) grammarsToBuild;
 
   linkCommands = builtins.map (
