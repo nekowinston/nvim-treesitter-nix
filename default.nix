@@ -20,6 +20,7 @@ let
   allGrammars = builtins.map (name: lib.removePrefix "treesitter-grammar-" name) (
     (builtins.attrNames (
       builtins.removeAttrs nv [
+        "nvim-treesitter"
         "override"
         "overrideDerivation"
       ]
