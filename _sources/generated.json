@@ -3000,6 +3000,25 @@
         },
         "version": "14e6da1627aaef21d2b2aa0c37d04269766dcc1d"
     },
+    "treesitter-grammar-nu": {
+        "cargoLocks": null,
+        "date": "2024-04-20",
+        "extract": null,
+        "name": "treesitter-grammar-nu",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "a58513279e98dc3ff9ed149e3b4310cbb7e11068",
+            "sha256": "sha256-LCY/DM0GqWpJJgwjZEPOadEElrFc+nsKX2eSqBTidwM=",
+            "type": "git",
+            "url": "https://github.com/nushell/tree-sitter-nu"
+        },
+        "version": "a58513279e98dc3ff9ed149e3b4310cbb7e11068"
+    },
     "treesitter-grammar-objc": {
         "cargoLocks": null,
         "date": "2023-08-13",

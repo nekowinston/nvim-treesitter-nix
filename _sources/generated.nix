@@ -2051,6 +2051,19 @@
     };
     date = "2023-08-31";
   };
+  treesitter-grammar-nu = {
+    pname = "treesitter-grammar-nu";
+    version = "a58513279e98dc3ff9ed149e3b4310cbb7e11068";
+    src = fetchgit {
+      url = "https://github.com/nushell/tree-sitter-nu";
+      rev = "a58513279e98dc3ff9ed149e3b4310cbb7e11068";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "sha256-LCY/DM0GqWpJJgwjZEPOadEElrFc+nsKX2eSqBTidwM=";
+    };
+    date = "2024-04-20";
+  };
   treesitter-grammar-objc = {
     pname = "treesitter-grammar-objc";
     version = "62e61b6f5c0289c376d61a8c91faf6435cde9012";

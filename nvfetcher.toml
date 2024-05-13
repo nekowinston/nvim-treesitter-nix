@@ -644,6 +644,10 @@ src.git = "https://github.com/nvim-neorg/tree-sitter-norg-meta"
 fetch.git = "https://github.com/amaanq/tree-sitter-nqc"
 src.git = "https://github.com/amaanq/tree-sitter-nqc"
 
+[treesitter-grammar-nu]
+fetch.git = "https://github.com/nushell/tree-sitter-nu"
+src.git = "https://github.com/nushell/tree-sitter-nu"
+
 [treesitter-grammar-objc]
 fetch.git = "https://github.com/amaanq/tree-sitter-objc"
 src.git = "https://github.com/amaanq/tree-sitter-objc"

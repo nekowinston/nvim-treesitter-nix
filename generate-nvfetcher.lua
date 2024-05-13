@@ -7,6 +7,12 @@ parsers.blade = {
 		files = { "src/parser.c" },
 	},
 }
+parsers.nu = {
+	install_info = {
+		url = "https://github.com/nushell/tree-sitter-nu",
+		files = { "src/parser.c" },
+	},
+}
 parsers.norg_meta = {
 	install_info = {
 		url = "https://github.com/nvim-neorg/tree-sitter-norg-meta",
