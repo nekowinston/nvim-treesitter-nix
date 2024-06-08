@@ -28,7 +28,7 @@ let
     ))
   );
 
-  grammarsToBuild = if grammars == [ ] then allGrammars else lib.intersectLists grammars allGrammars;
+  grammarsToBuild = lib.intersectLists grammars allGrammars;
 
   # build each Grammar 
   treesitterGrammars = builtins.map (
