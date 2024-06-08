@@ -16,10 +16,7 @@
     in
     {
       devShells = eachSystem (pkgs: {
-        default = pkgs.mkShellNoCC { packages = with pkgs; [ nvfetcher ]; };
-
-        # shell used for updating the nvfetcher TOML from the latest neovim-treesitter
-        generate-nvfetcher = pkgs.mkShellNoCC {
+        default = pkgs.mkShellNoCC {
           packages = with pkgs; [
             nvfetcher
             (pkgs.callPackage ./neovim.nix { })

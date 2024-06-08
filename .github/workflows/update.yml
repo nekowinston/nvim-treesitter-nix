@@ -16,13 +16,13 @@ jobs:
 
       - name: "Generating & running nvfetcher"
         run: |
-          nix flake update
-          nix develop .#generate-nvfetcher --command bash -c \
-            nvfetcher -f '^nvim-treesitter$' && \
-            echo "Updating nvfetcher.toml..." && \
-            nvim -l ./generate-nvfetcher.lua && \
-            echo "Fetching new plugin versions..." && \
-            nvfetcher
+          #!/usr/bin/env nix
+          #!nix develop . --command bash
+          nvfetcher -f '^nvim-treesitter$'
+          echo 'Updating nvfetcher.toml...'
+          nvim -l ./generate-nvfetcher.lua
+          echo 'Fetching new plugin versions...'
+          nvfetcher
 
       - name: "Commit changes"
         uses: "EndBug/add-and-commit@v9"
