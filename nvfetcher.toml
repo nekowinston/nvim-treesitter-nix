@@ -72,6 +72,10 @@ src.git = "https://github.com/EmranMR/tree-sitter-blade"
 fetch.git = "https://gitlab.com/gabmus/tree-sitter-blueprint.git"
 src.git = "https://gitlab.com/gabmus/tree-sitter-blueprint.git"
 
+[treesitter-grammar-bp]
+fetch.git = "https://github.com/ambroisie/tree-sitter-bp"
+src.git = "https://github.com/ambroisie/tree-sitter-bp"
+
 [treesitter-grammar-c]
 fetch.git = "https://github.com/tree-sitter/tree-sitter-c"
 src.git = "https://github.com/tree-sitter/tree-sitter-c"
@@ -443,6 +447,10 @@ src.git = "https://github.com/cathaysia/tree-sitter-idl"
 [treesitter-grammar-ini]
 fetch.git = "https://github.com/justinmk/tree-sitter-ini"
 src.git = "https://github.com/justinmk/tree-sitter-ini"
+
+[treesitter-grammar-inko]
+fetch.git = "https://github.com/inko-lang/tree-sitter-inko"
+src.git = "https://github.com/inko-lang/tree-sitter-inko"
 
 [treesitter-grammar-ispc]
 fetch.git = "https://github.com/fab4100/tree-sitter-ispc"
@@ -987,6 +995,10 @@ src.git = "https://gitlab.com/xasc/tree-sitter-t32.git"
 fetch.git = "https://github.com/amaanq/tree-sitter-tablegen"
 src.git = "https://github.com/amaanq/tree-sitter-tablegen"
 
+[treesitter-grammar-tact]
+fetch.git = "https://github.com/tact-lang/tree-sitter-tact"
+src.git = "https://github.com/tact-lang/tree-sitter-tact"
+
 [treesitter-grammar-tcl]
 fetch.git = "https://github.com/tree-sitter-grammars/tree-sitter-tcl"
 src.git = "https://github.com/tree-sitter-grammars/tree-sitter-tcl"
@@ -1032,8 +1044,8 @@ fetch.git = "https://github.com/arnarg/tree-sitter-todotxt.git"
 src.git = "https://github.com/arnarg/tree-sitter-todotxt.git"
 
 [treesitter-grammar-toml]
-fetch.git = "https://github.com/ikatyang/tree-sitter-toml"
-src.git = "https://github.com/ikatyang/tree-sitter-toml"
+fetch.git = "https://github.com/tree-sitter-grammars/tree-sitter-toml"
+src.git = "https://github.com/tree-sitter-grammars/tree-sitter-toml"
 
 [treesitter-grammar-tsv]
 fetch.git = "https://github.com/amaanq/tree-sitter-csv"
@@ -1060,6 +1072,10 @@ fetch.git = "https://github.com/tree-sitter/tree-sitter-typescript"
 src.git = "https://github.com/tree-sitter/tree-sitter-typescript"
 [treesitter-grammar-typescript.passthru]
 location = "typescript"
+
+[treesitter-grammar-typespec]
+fetch.git = "https://github.com/happenslol/tree-sitter-typespec"
+src.git = "https://github.com/happenslol/tree-sitter-typespec"
 
 [treesitter-grammar-typoscript]
 fetch.git = "https://github.com/Teddytrombone/tree-sitter-typoscript"
