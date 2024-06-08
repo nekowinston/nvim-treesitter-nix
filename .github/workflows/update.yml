@@ -20,7 +20,7 @@ jobs:
           nix develop .#generate-nvfetcher --command bash -c \
             nvfetcher -f '^nvim-treesitter$' && \
             echo "Updating nvfetcher.toml..." && \
-            ./generate-nvfetcher.lua && \
+            nvim -l ./generate-nvfetcher.lua && \
             echo "Fetching new plugin versions..." && \
             nvfetcher
 
