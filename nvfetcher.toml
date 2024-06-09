@@ -818,6 +818,10 @@ src.git = "https://github.com/r-lib/tree-sitter-r"
 fetch.git = "https://github.com/6cdh/tree-sitter-racket"
 src.git = "https://github.com/6cdh/tree-sitter-racket"
 
+[treesitter-grammar-ralph]
+fetch.git = "https://github.com/alephium/tree-sitter-ralph"
+src.git = "https://github.com/alephium/tree-sitter-ralph"
+
 [treesitter-grammar-rasi]
 fetch.git = "https://github.com/Fymyte/tree-sitter-rasi"
 src.git = "https://github.com/Fymyte/tree-sitter-rasi"
