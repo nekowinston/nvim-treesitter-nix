@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "3fc41e145c1e171b93b5d91cd1ed877edc28b1fe";
+    version = "b47dde81a0a4b9b62e9a73a71ff0df2202323dd9";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "3fc41e145c1e171b93b5d91cd1ed877edc28b1fe";
+      rev = "b47dde81a0a4b9b62e9a73a71ff0df2202323dd9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-tsaFxLjsIrD+uVQoclcc4ds0IbtHnR0LNewVAHR7yDY=";
+      sha256 = "sha256-8J5rEVBxqMuV/k0qjt/kvDluARB4raAZbsuhKfL1M/w=";
     };
-    date = "2024-06-09";
+    date = "2024-06-10";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -590,16 +590,16 @@
   };
   treesitter-grammar-doxygen = {
     pname = "treesitter-grammar-doxygen";
-    version = "4a30eba5d047d6a8c5b005202b4848c0b33d76ca";
+    version = "ccd998f378c3f9345ea4eeb223f56d7b84d16687";
     src = fetchgit {
       url = "https://github.com/amaanq/tree-sitter-doxygen";
-      rev = "4a30eba5d047d6a8c5b005202b4848c0b33d76ca";
+      rev = "ccd998f378c3f9345ea4eeb223f56d7b84d16687";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-yR2JtWYdy84z38Idx84qIuUPoBMiSj/7TVw0J1+g/U8=";
+      sha256 = "sha256-Yh6FaRvWmeqnSnBgOojWbs1wJaeEoNJlvSEqgzjGh7o=";
     };
-    date = "2024-04-27";
+    date = "2024-06-09";
   };
   treesitter-grammar-dtd = {
     pname = "treesitter-grammar-dtd";
