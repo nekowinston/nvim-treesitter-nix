@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "9a7ad2ff7a7ea81016aca2fc89c9b2c1a5365421";
+    version = "f29c2d9867004151f9417f2f19b068fb973c29cc";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "9a7ad2ff7a7ea81016aca2fc89c9b2c1a5365421";
+      rev = "f29c2d9867004151f9417f2f19b068fb973c29cc";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-7QLrIu3bN6vjEUZsdP6+DyciF7N/BWtPDcU8rISMVwo=";
+      sha256 = "sha256-njepGhVimXXn9+4ZqomY87GxLOt5YofAwmmi+u+rSHQ=";
     };
-    date = "2024-06-10";
+    date = "2024-06-12";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -1738,16 +1738,16 @@
   };
   treesitter-grammar-liquid = {
     pname = "treesitter-grammar-liquid";
-    version = "293369818da219d97327908aab33707b04b63fd9";
+    version = "0419ac4868585320eee8615c90b864a1b04ef433";
     src = fetchgit {
       url = "https://github.com/hankthetank27/tree-sitter-liquid";
-      rev = "293369818da219d97327908aab33707b04b63fd9";
+      rev = "0419ac4868585320eee8615c90b864a1b04ef433";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-RmpVKvQfk4IQuE3KOTL3nbBS7LSpBlvMpl5JDAAKb5Q=";
+      sha256 = "sha256-1FPDsQSPM86NvMrmxIOVnIC65bUOFtKEwRuAtMDbw6M=";
     };
-    date = "2024-03-29";
+    date = "2024-06-11";
   };
   treesitter-grammar-liquidsoap = {
     pname = "treesitter-grammar-liquidsoap";

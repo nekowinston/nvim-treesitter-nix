@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2024-06-10",
+        "date": "2024-06-12",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "9a7ad2ff7a7ea81016aca2fc89c9b2c1a5365421",
-            "sha256": "sha256-7QLrIu3bN6vjEUZsdP6+DyciF7N/BWtPDcU8rISMVwo=",
+            "rev": "f29c2d9867004151f9417f2f19b068fb973c29cc",
+            "sha256": "sha256-njepGhVimXXn9+4ZqomY87GxLOt5YofAwmmi+u+rSHQ=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "9a7ad2ff7a7ea81016aca2fc89c9b2c1a5365421"
+        "version": "f29c2d9867004151f9417f2f19b068fb973c29cc"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -2540,7 +2540,7 @@
     },
     "treesitter-grammar-liquid": {
         "cargoLocks": null,
-        "date": "2024-03-29",
+        "date": "2024-06-11",
         "extract": null,
         "name": "treesitter-grammar-liquid",
         "passthru": null,
@@ -2550,12 +2550,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "293369818da219d97327908aab33707b04b63fd9",
-            "sha256": "sha256-RmpVKvQfk4IQuE3KOTL3nbBS7LSpBlvMpl5JDAAKb5Q=",
+            "rev": "0419ac4868585320eee8615c90b864a1b04ef433",
+            "sha256": "sha256-1FPDsQSPM86NvMrmxIOVnIC65bUOFtKEwRuAtMDbw6M=",
             "type": "git",
             "url": "https://github.com/hankthetank27/tree-sitter-liquid"
         },
-        "version": "293369818da219d97327908aab33707b04b63fd9"
+        "version": "0419ac4868585320eee8615c90b864a1b04ef433"
     },
     "treesitter-grammar-liquidsoap": {
         "cargoLocks": null,
