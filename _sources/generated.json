@@ -2044,7 +2044,7 @@
     },
     "treesitter-grammar-hyprlang": {
         "cargoLocks": null,
-        "date": "2024-03-25",
+        "date": "2024-06-15",
         "extract": null,
         "name": "treesitter-grammar-hyprlang",
         "passthru": null,
@@ -2054,12 +2054,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "e5da7d0aa44403153e0394d87d9edea4e5bd6609",
-            "sha256": "sha256-jKp880I0XkApB3aFINAPfwn1txuMwalh4NrLUHan3H4=",
+            "rev": "9c3dffd29c23a6f042571b08fcaf6387639b05c4",
+            "sha256": "sha256-InX2NdFDQYWl9C1B0uG+bozEw4RDyYo5wSiasTbZH2Y=",
             "type": "git",
             "url": "https://github.com/luckasRanarison/tree-sitter-hyprlang"
         },
-        "version": "e5da7d0aa44403153e0394d87d9edea4e5bd6609"
+        "version": "9c3dffd29c23a6f042571b08fcaf6387639b05c4"
     },
     "treesitter-grammar-idl": {
         "cargoLocks": null,
@@ -3736,7 +3736,7 @@
     },
     "treesitter-grammar-r": {
         "cargoLocks": null,
-        "date": "2024-06-13",
+        "date": "2024-06-14",
         "extract": null,
         "name": "treesitter-grammar-r",
         "passthru": null,
@@ -3746,12 +3746,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "bc0afcdb6839dbaa7fcef8b293f83a8583181c5d",
-            "sha256": "sha256-7wpU/4SA0U4Yqw/AN9F+WnQ++lM2HOtIRoRDV399xnk=",
+            "rev": "93be93a7e0fce0ad3f9be444906a1ff544603ee3",
+            "sha256": "sha256-Ya+UKGBZYYCLlwUUQ2lRb9eRCzIVx9etHCrkN7Y6KyU=",
             "type": "git",
             "url": "https://github.com/r-lib/tree-sitter-r"
         },
-        "version": "bc0afcdb6839dbaa7fcef8b293f83a8583181c5d"
+        "version": "93be93a7e0fce0ad3f9be444906a1ff544603ee3"
     },
     "treesitter-grammar-racket": {
         "cargoLocks": null,
@@ -5086,7 +5086,7 @@
     },
     "treesitter-grammar-v": {
         "cargoLocks": null,
-        "date": "2024-04-20",
+        "date": "2024-06-14",
         "extract": null,
         "name": "treesitter-grammar-v",
         "passthru": {
@@ -5098,12 +5098,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "7e11a6f8f369df935664fadd2f0c99d90fe3226f",
-            "sha256": "sha256-zCXfYW8NCsdqKKEMkZUudpCEQM4bLePyCGFS0w86DY0=",
+            "rev": "359cc2cc08a536f845b10c4ff55850ea1eece0f9",
+            "sha256": "sha256-7yC9SmgXn/pcfNJqu1EJkxbpjkmunfYO1MJJg/bEiOQ=",
             "type": "git",
             "url": "https://github.com/vlang/v-analyzer"
         },
-        "version": "7e11a6f8f369df935664fadd2f0c99d90fe3226f"
+        "version": "359cc2cc08a536f845b10c4ff55850ea1eece0f9"
     },
     "treesitter-grammar-vala": {
         "cargoLocks": null,
