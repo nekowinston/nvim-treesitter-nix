@@ -859,8 +859,8 @@ fetch.git = "https://github.com/Hubro/tree-sitter-robot"
 src.git = "https://github.com/Hubro/tree-sitter-robot"
 
 [treesitter-grammar-roc]
-fetch.git = "https://github.com/nat-418/tree-sitter-roc"
-src.git = "https://github.com/nat-418/tree-sitter-roc"
+fetch.git = "https://github.com/faldor20/tree-sitter-roc"
+src.git = "https://github.com/faldor20/tree-sitter-roc"
 
 [treesitter-grammar-ron]
 fetch.git = "https://github.com/amaanq/tree-sitter-ron"
