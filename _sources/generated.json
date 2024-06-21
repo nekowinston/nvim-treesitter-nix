@@ -3964,7 +3964,7 @@
     },
     "treesitter-grammar-roc": {
         "cargoLocks": null,
-        "date": "2024-05-22",
+        "date": "2024-06-21",
         "extract": null,
         "name": "treesitter-grammar-roc",
         "passthru": null,
@@ -3974,12 +3974,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "df46a85abda9f948d38f5d4e3684cec49c42fef2",
-            "sha256": "sha256-4E9ZnMizo+1wnnkYSPNKMkTTyDKRJT+JqtUWoJH45aA=",
+            "rev": "a662513450e163dc2056603b1f426b4787aac0fd",
+            "sha256": "sha256-jNkA1e2Jk0zwgGIPA3VbHTJxvnpQChA13DiW7/d80jA=",
             "type": "git",
             "url": "https://github.com/faldor20/tree-sitter-roc"
         },
-        "version": "df46a85abda9f948d38f5d4e3684cec49c42fef2"
+        "version": "a662513450e163dc2056603b1f426b4787aac0fd"
     },
     "treesitter-grammar-ron": {
         "cargoLocks": null,
@@ -4021,7 +4021,7 @@
     },
     "treesitter-grammar-ruby": {
         "cargoLocks": null,
-        "date": "2024-05-23",
+        "date": "2024-06-20",
         "extract": null,
         "name": "treesitter-grammar-ruby",
         "passthru": null,
@@ -4031,12 +4031,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "dc2d7d6b50f9975bc3c35bbec0ba11b2617b736b",
-            "sha256": "sha256-HV/hJwftBTCj9WomIcLB6n0LcQRHAzlQsJBNOxu6XJo=",
+            "rev": "0ffe457fb6aabf064f173fd30ea356845cef2513",
+            "sha256": "sha256-E46Y++kaipMWZwyfQ40tWj3CTIP25XQ90x2FsQaQ63s=",
             "type": "git",
             "url": "https://github.com/tree-sitter/tree-sitter-ruby"
         },
-        "version": "dc2d7d6b50f9975bc3c35bbec0ba11b2617b736b"
+        "version": "0ffe457fb6aabf064f173fd30ea356845cef2513"
     },
     "treesitter-grammar-rust": {
         "cargoLocks": null,
