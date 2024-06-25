@@ -991,6 +991,10 @@ src.git = "https://github.com/RaafatTurki/tree-sitter-sxhkdrc"
 fetch.git = "https://github.com/ok-ryoko/tree-sitter-systemtap"
 src.git = "https://github.com/ok-ryoko/tree-sitter-systemtap"
 
+[treesitter-grammar-systemverilog]
+fetch.git = "https://github.com/zhangwwpeng/tree-sitter-systemverilog"
+src.git = "https://github.com/zhangwwpeng/tree-sitter-systemverilog"
+
 [treesitter-grammar-t32]
 fetch.git = "https://gitlab.com/xasc/tree-sitter-t32.git"
 src.git = "https://gitlab.com/xasc/tree-sitter-t32.git"
