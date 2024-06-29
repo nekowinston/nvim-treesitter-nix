@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "cf7baac35aa5c103b960bcb3f15c690a4aa5c6f1";
+    version = "fa19150d0057b22dde98746680162b9a7ab61d1e";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "cf7baac35aa5c103b960bcb3f15c690a4aa5c6f1";
+      rev = "fa19150d0057b22dde98746680162b9a7ab61d1e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-v0zlq9zJyUI6TSpJLIq+nJ0chEDhc/GoxTG7D58gySA=";
+      sha256 = "sha256-TG81UbybkrwHiFXP5cQAxcHkSn346OgcaeinBqVYaEk=";
     };
-    date = "2024-06-28";
+    date = "2024-06-29";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -3195,16 +3195,16 @@
   };
   treesitter-grammar-templ = {
     pname = "treesitter-grammar-templ";
-    version = "cf84ea53e2e2531f23009d676ac206090c1e2392";
+    version = "a4f14aa248b84df73cc1c00bf06edac8d7c96acd";
     src = fetchgit {
       url = "https://github.com/vrischmann/tree-sitter-templ";
-      rev = "cf84ea53e2e2531f23009d676ac206090c1e2392";
+      rev = "a4f14aa248b84df73cc1c00bf06edac8d7c96acd";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-CQ11t4beqkjhtZktrawuavgQPSFzbwJrU/aSbPsqBPA=";
+      sha256 = "sha256-O5eKY9twQJp0qHjIs6juEY0VtOYXAdnlzlomh9YNndI=";
     };
-    date = "2024-05-23";
+    date = "2024-06-28";
   };
   treesitter-grammar-terraform = {
     pname = "treesitter-grammar-terraform";
@@ -3722,15 +3722,15 @@
   };
   treesitter-grammar-zig = {
     pname = "treesitter-grammar-zig";
-    version = "7c5a29b721d409be8842017351bf007d7e384401";
+    version = "2bac4cc6c697d46a193905fef6d003bfa0bfabfd";
     src = fetchgit {
       url = "https://github.com/maxxnino/tree-sitter-zig";
-      rev = "7c5a29b721d409be8842017351bf007d7e384401";
+      rev = "2bac4cc6c697d46a193905fef6d003bfa0bfabfd";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-UXJCh8GvXzn+sssTrIsLViXD3TiBZhLFABYCKM+fNMQ=";
+      sha256 = "sha256-IK9kCajZGwEiASa6Mv0oxuz85+QmI3S7Rl9lgHkApMc=";
     };
-    date = "2024-06-14";
+    date = "2024-06-28";
   };
 }
