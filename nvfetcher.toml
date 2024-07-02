@@ -858,6 +858,10 @@ src.git = "https://github.com/bamonroe/tree-sitter-rnoweb"
 fetch.git = "https://github.com/Hubro/tree-sitter-robot"
 src.git = "https://github.com/Hubro/tree-sitter-robot"
 
+[treesitter-grammar-robots]
+fetch.git = "https://github.com/opa-oz/tree-sitter-robots-txt"
+src.git = "https://github.com/opa-oz/tree-sitter-robots-txt"
+
 [treesitter-grammar-roc]
 fetch.git = "https://github.com/faldor20/tree-sitter-roc"
 src.git = "https://github.com/faldor20/tree-sitter-roc"
