@@ -752,6 +752,18 @@ src.git = "https://github.com/ObserverOfTime/tree-sitter-printf"
 fetch.git = "https://github.com/victorhqc/tree-sitter-prisma"
 src.git = "https://github.com/victorhqc/tree-sitter-prisma"
 
+[treesitter-grammar-problog]
+fetch.git = "https://codeberg.org/foxy/tree-sitter-prolog"
+src.git = "https://codeberg.org/foxy/tree-sitter-prolog"
+[treesitter-grammar-problog.passthru]
+location = "grammars/problog"
+
+[treesitter-grammar-prolog]
+fetch.git = "https://codeberg.org/foxy/tree-sitter-prolog"
+src.git = "https://codeberg.org/foxy/tree-sitter-prolog"
+[treesitter-grammar-prolog.passthru]
+location = "grammars/prolog"
+
 [treesitter-grammar-promql]
 fetch.git = "https://github.com/MichaHoffmann/tree-sitter-promql"
 src.git = "https://github.com/MichaHoffmann/tree-sitter-promql"
