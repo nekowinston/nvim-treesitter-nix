@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "acc1708b962e12cc1d671cd530782727801804c3";
+    version = "f7c05e3e0510df7c742d455c802e27b6ee7ab384";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "acc1708b962e12cc1d671cd530782727801804c3";
+      rev = "f7c05e3e0510df7c742d455c802e27b6ee7ab384";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Fvb4XepLLNQE5QCqC+pBfqMbPPhQainmMQVwq0Qglt8=";
+      sha256 = "sha256-SHtima6bGRZkjssnQbigThEHKK4HgZYdfT/NmcGf0mc=";
     };
-    date = "2024-07-04";
+    date = "2024-07-05";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -1490,16 +1490,16 @@
   };
   treesitter-grammar-javascript = {
     pname = "treesitter-grammar-javascript";
-    version = "391a8fcc48a11f63bf18ec9885f6f069e760949a";
+    version = "12e45374422f6051648717be62f0ffc40a279ee2";
     src = fetchgit {
       url = "https://github.com/tree-sitter/tree-sitter-javascript";
-      rev = "391a8fcc48a11f63bf18ec9885f6f069e760949a";
+      rev = "12e45374422f6051648717be62f0ffc40a279ee2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-GOIhkoiiUhkTpUhDm/sfLtsNhOrVoGx2uiXEteruT2g=";
+      sha256 = "sha256-KBEJFpOIP4MFbkxcIF2HsHvwblTdb2UuisKMn4Pnm1w=";
     };
-    date = "2024-05-31";
+    date = "2024-07-04";
   };
   treesitter-grammar-jq = {
     pname = "treesitter-grammar-jq";
@@ -2372,7 +2372,7 @@
     pname = "treesitter-grammar-problog";
     version = "d8bc22c007825d3af3d62b4326f9d8f9ca529974";
     src = fetchgit {
-      url = "https://codeberg.org/foxy/tree-sitter-prolog";
+      url = "https://github.com/foxyseta/tree-sitter-prolog";
       rev = "d8bc22c007825d3af3d62b4326f9d8f9ca529974";
       fetchSubmodules = false;
       deepClone = false;
@@ -2386,7 +2386,7 @@
     pname = "treesitter-grammar-prolog";
     version = "d8bc22c007825d3af3d62b4326f9d8f9ca529974";
     src = fetchgit {
-      url = "https://codeberg.org/foxy/tree-sitter-prolog";
+      url = "https://github.com/foxyseta/tree-sitter-prolog";
       rev = "d8bc22c007825d3af3d62b4326f9d8f9ca529974";
       fetchSubmodules = false;
       deepClone = false;
@@ -2989,7 +2989,7 @@
     pname = "treesitter-grammar-sparql";
     version = "d853661ca680d8ff7f8d800182d5782b61d0dd58";
     src = fetchgit {
-      url = "https://github.com/BonaBeavis/tree-sitter-sparql";
+      url = "https://github.com/GordianDziwis/tree-sitter-sparql";
       rev = "d853661ca680d8ff7f8d800182d5782b61d0dd58";
       fetchSubmodules = false;
       deepClone = false;
@@ -3384,7 +3384,7 @@
     pname = "treesitter-grammar-turtle";
     version = "7f789ea7ef765080f71a298fc96b7c957fa24422";
     src = fetchgit {
-      url = "https://github.com/BonaBeavis/tree-sitter-turtle";
+      url = "https://github.com/GordianDziwis/tree-sitter-turtle";
       rev = "7f789ea7ef765080f71a298fc96b7c957fa24422";
       fetchSubmodules = false;
       deepClone = false;
@@ -3671,16 +3671,16 @@
   };
   treesitter-grammar-wit = {
     pname = "treesitter-grammar-wit";
-    version = "cab94791450524a542324d8cbe8017d69c516d8e";
+    version = "7351db0da11900e7f0c754b3483d39fc6a9d53e8";
     src = fetchgit {
       url = "https://github.com/liamwh/tree-sitter-wit";
-      rev = "cab94791450524a542324d8cbe8017d69c516d8e";
+      rev = "7351db0da11900e7f0c754b3483d39fc6a9d53e8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-R8b+UQmj+JtiIGDsvR5KBTGoX99m0k/HJx2bTGNxRH0=";
+      sha256 = "sha256-A3NlbwLlpmkA0Tj2SapQDb8D8KawPczEknduAWqM/TU=";
     };
-    date = "2024-05-13";
+    date = "2024-07-04";
   };
   treesitter-grammar-xcompose = {
     pname = "treesitter-grammar-xcompose";
