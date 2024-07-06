@@ -202,6 +202,10 @@ src.git = "https://github.com/RubixDev/ebnf"
 [treesitter-grammar-ebnf.passthru]
 location = "crates/tree-sitter-ebnf"
 
+[treesitter-grammar-editorconfig]
+fetch.git = "https://github.com/ValdezFOmar/tree-sitter-editorconfig"
+src.git = "https://github.com/ValdezFOmar/tree-sitter-editorconfig"
+
 [treesitter-grammar-eds]
 fetch.git = "https://github.com/uyha/tree-sitter-eds"
 src.git = "https://github.com/uyha/tree-sitter-eds"
