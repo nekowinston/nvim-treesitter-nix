@@ -69,8 +69,8 @@ fetch.git = "https://github.com/EmranMR/tree-sitter-blade"
 src.git = "https://github.com/EmranMR/tree-sitter-blade"
 
 [treesitter-grammar-blueprint]
-fetch.git = "https://gitlab.com/gabmus/tree-sitter-blueprint.git"
-src.git = "https://gitlab.com/gabmus/tree-sitter-blueprint.git"
+fetch.git = "https://gitlab.com/gabmus/tree-sitter-blueprint"
+src.git = "https://gitlab.com/gabmus/tree-sitter-blueprint"
 
 [treesitter-grammar-bp]
 fetch.git = "https://github.com/ambroisie/tree-sitter-bp"
@@ -283,8 +283,8 @@ fetch.git = "https://github.com/amaanq/tree-sitter-func"
 src.git = "https://github.com/amaanq/tree-sitter-func"
 
 [treesitter-grammar-fusion]
-fetch.git = "https://gitlab.com/jirgn/tree-sitter-fusion.git"
-src.git = "https://gitlab.com/jirgn/tree-sitter-fusion.git"
+fetch.git = "https://gitlab.com/jirgn/tree-sitter-fusion"
+src.git = "https://gitlab.com/jirgn/tree-sitter-fusion"
 
 [treesitter-grammar-gdscript]
 fetch.git = "https://github.com/PrestonKnopp/tree-sitter-gdscript"
@@ -337,6 +337,10 @@ src.git = "https://github.com/dpezto/tree-sitter-gnuplot"
 [treesitter-grammar-go]
 fetch.git = "https://github.com/tree-sitter/tree-sitter-go"
 src.git = "https://github.com/tree-sitter/tree-sitter-go"
+
+[treesitter-grammar-goctl]
+fetch.git = "https://github.com/chaozwn/tree-sitter-goctl"
+src.git = "https://github.com/chaozwn/tree-sitter-goctl"
 
 [treesitter-grammar-godot_resource]
 fetch.git = "https://github.com/PrestonKnopp/tree-sitter-godot-resource"
@@ -489,8 +493,8 @@ fetch.git = "https://github.com/Joakker/tree-sitter-json5"
 src.git = "https://github.com/Joakker/tree-sitter-json5"
 
 [treesitter-grammar-jsonc]
-fetch.git = "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc.git"
-src.git = "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc.git"
+fetch.git = "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc"
+src.git = "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc"
 
 [treesitter-grammar-jsonnet]
 fetch.git = "https://github.com/sourcegraph/tree-sitter-jsonnet"
@@ -695,8 +699,8 @@ fetch.git = "https://github.com/milisims/tree-sitter-org"
 src.git = "https://github.com/milisims/tree-sitter-org"
 
 [treesitter-grammar-pascal]
-fetch.git = "https://github.com/Isopod/tree-sitter-pascal.git"
-src.git = "https://github.com/Isopod/tree-sitter-pascal.git"
+fetch.git = "https://github.com/Isopod/tree-sitter-pascal"
+src.git = "https://github.com/Isopod/tree-sitter-pascal"
 
 [treesitter-grammar-passwd]
 fetch.git = "https://github.com/ath3/tree-sitter-passwd"
@@ -1016,8 +1020,8 @@ fetch.git = "https://github.com/zhangwwpeng/tree-sitter-systemverilog"
 src.git = "https://github.com/zhangwwpeng/tree-sitter-systemverilog"
 
 [treesitter-grammar-t32]
-fetch.git = "https://gitlab.com/xasc/tree-sitter-t32.git"
-src.git = "https://gitlab.com/xasc/tree-sitter-t32.git"
+fetch.git = "https://gitlab.com/xasc/tree-sitter-t32"
+src.git = "https://gitlab.com/xasc/tree-sitter-t32"
 
 [treesitter-grammar-tablegen]
 fetch.git = "https://github.com/amaanq/tree-sitter-tablegen"
@@ -1068,8 +1072,8 @@ fetch.git = "https://github.com/Freed-Wu/tree-sitter-tmux"
 src.git = "https://github.com/Freed-Wu/tree-sitter-tmux"
 
 [treesitter-grammar-todotxt]
-fetch.git = "https://github.com/arnarg/tree-sitter-todotxt.git"
-src.git = "https://github.com/arnarg/tree-sitter-todotxt.git"
+fetch.git = "https://github.com/arnarg/tree-sitter-todotxt"
+src.git = "https://github.com/arnarg/tree-sitter-todotxt"
 
 [treesitter-grammar-toml]
 fetch.git = "https://github.com/tree-sitter-grammars/tree-sitter-toml"
