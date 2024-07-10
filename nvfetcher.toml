@@ -69,8 +69,8 @@ fetch.git = "https://github.com/EmranMR/tree-sitter-blade"
 src.git = "https://github.com/EmranMR/tree-sitter-blade"
 
 [treesitter-grammar-blueprint]
-fetch.git = "https://gitlab.com/gabmus/tree-sitter-blueprint"
-src.git = "https://gitlab.com/gabmus/tree-sitter-blueprint"
+fetch.git = "https://gitlab.com/gabmus/tree-sitter-blueprint.git"
+src.git = "https://gitlab.com/gabmus/tree-sitter-blueprint.git"
 
 [treesitter-grammar-bp]
 fetch.git = "https://github.com/ambroisie/tree-sitter-bp"
@@ -283,8 +283,8 @@ fetch.git = "https://github.com/amaanq/tree-sitter-func"
 src.git = "https://github.com/amaanq/tree-sitter-func"
 
 [treesitter-grammar-fusion]
-fetch.git = "https://gitlab.com/jirgn/tree-sitter-fusion"
-src.git = "https://gitlab.com/jirgn/tree-sitter-fusion"
+fetch.git = "https://gitlab.com/jirgn/tree-sitter-fusion.git"
+src.git = "https://gitlab.com/jirgn/tree-sitter-fusion.git"
 
 [treesitter-grammar-gdscript]
 fetch.git = "https://github.com/PrestonKnopp/tree-sitter-gdscript"
@@ -493,8 +493,8 @@ fetch.git = "https://github.com/Joakker/tree-sitter-json5"
 src.git = "https://github.com/Joakker/tree-sitter-json5"
 
 [treesitter-grammar-jsonc]
-fetch.git = "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc"
-src.git = "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc"
+fetch.git = "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc.git"
+src.git = "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc.git"
 
 [treesitter-grammar-jsonnet]
 fetch.git = "https://github.com/sourcegraph/tree-sitter-jsonnet"
@@ -1020,8 +1020,8 @@ fetch.git = "https://github.com/zhangwwpeng/tree-sitter-systemverilog"
 src.git = "https://github.com/zhangwwpeng/tree-sitter-systemverilog"
 
 [treesitter-grammar-t32]
-fetch.git = "https://gitlab.com/xasc/tree-sitter-t32"
-src.git = "https://gitlab.com/xasc/tree-sitter-t32"
+fetch.git = "https://gitlab.com/xasc/tree-sitter-t32.git"
+src.git = "https://gitlab.com/xasc/tree-sitter-t32.git"
 
 [treesitter-grammar-tablegen]
 fetch.git = "https://github.com/amaanq/tree-sitter-tablegen"

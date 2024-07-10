@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "53c79ddc28b0df3263d629f5e20c9283b05841ca",
-            "sha256": "sha256-SRlvKgSIu1KD4q9VP6vsVCA1f3/La+YeLRO3/+5LFYQ=",
+            "rev": "c1ad655b6a0c83ab48e55240f367e2bc0c15af31",
+            "sha256": "sha256-/i74QlTAYfpKs02C4qqWasPLpIPcIpS+BRGw/t9JlGE=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "53c79ddc28b0df3263d629f5e20c9283b05841ca"
+        "version": "c1ad655b6a0c83ab48e55240f367e2bc0c15af31"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -339,7 +339,7 @@
             "rev": "60ba73739c6083c693d86a1a7cf039c07eb4ed59",
             "sha256": "sha256-ojm6OKgriKUqUcRBf8WgHv+BvPjUuYOaabC8VXE+Kwk=",
             "type": "git",
-            "url": "https://gitlab.com/gabmus/tree-sitter-blueprint"
+            "url": "https://gitlab.com/gabmus/tree-sitter-blueprint.git"
         },
         "version": "60ba73739c6083c693d86a1a7cf039c07eb4ed59"
     },
@@ -1333,7 +1333,7 @@
             "rev": "19db2f47ba4c3a0f6238d4ae0e2abfca16e61dd6",
             "sha256": "sha256-195q39pZYipT0G08kQlwnDE28ODjAz2/Sq1tzpEGFmU=",
             "type": "git",
-            "url": "https://gitlab.com/jirgn/tree-sitter-fusion"
+            "url": "https://gitlab.com/jirgn/tree-sitter-fusion.git"
         },
         "version": "19db2f47ba4c3a0f6238d4ae0e2abfca16e61dd6"
     },
@@ -2101,7 +2101,7 @@
     },
     "treesitter-grammar-idl": {
         "cargoLocks": null,
-        "date": "2024-07-07",
+        "date": "2024-07-09",
         "extract": null,
         "name": "treesitter-grammar-idl",
         "passthru": null,
@@ -2111,12 +2111,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "443308c0f32af6681e5b0a09bb7071f3c0c85d74",
-            "sha256": "sha256-XrDmReWs4+ViEPjowbyRL5F2yjpjGcgdTA5gTcX5wp4=",
+            "rev": "995d917f120ef428a086d15935d20ab2fb8c345c",
+            "sha256": "sha256-oPfwPi0p49nuw5YD1fdW6iS4yP/xLJp2ACaMcJBC7rQ=",
             "type": "git",
             "url": "https://github.com/cathaysia/tree-sitter-idl"
         },
-        "version": "443308c0f32af6681e5b0a09bb7071f3c0c85d74"
+        "version": "995d917f120ef428a086d15935d20ab2fb8c345c"
     },
     "treesitter-grammar-ini": {
         "cargoLocks": null,
@@ -2323,7 +2323,7 @@
             "rev": "02b01653c8a1c198ae7287d566efa86a135b30d5",
             "sha256": "sha256-iWc2ePRiQnZ0FEdMAaAwa3iYt/SY0bEjQrZyqE9EhlU=",
             "type": "git",
-            "url": "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc"
+            "url": "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc.git"
         },
         "version": "02b01653c8a1c198ae7287d566efa86a135b30d5"
     },
@@ -4601,7 +4601,7 @@
     },
     "treesitter-grammar-swift": {
         "cargoLocks": null,
-        "date": "2024-06-25",
+        "date": "2024-07-09",
         "extract": null,
         "name": "treesitter-grammar-swift",
         "passthru": {
@@ -4613,12 +4613,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "631f1e66bfbf55791b7a9ed23fa6dc90ee55550a",
-            "sha256": "sha256-/nMRcZc5fWUJ+GpVnlERHjtahXGh6NwrNNQPkNM5Y9E=",
+            "rev": "6248145bd1c221f75feb3460e59de57f81fda58f",
+            "sha256": "sha256-/l9CMB5ypA2C9yvYPDkDXutJIrSdSwbJuh4Pb4i2Sjc=",
             "type": "git",
             "url": "https://github.com/alex-pinkus/tree-sitter-swift"
         },
-        "version": "631f1e66bfbf55791b7a9ed23fa6dc90ee55550a"
+        "version": "6248145bd1c221f75feb3460e59de57f81fda58f"
     },
     "treesitter-grammar-sxhkdrc": {
         "cargoLocks": null,
@@ -4692,7 +4692,7 @@
             "rev": "6182836f4128725f1e74ce986840d7317021a015",
             "sha256": "sha256-w9X/CL5X6Lwr4/GGVQcMZ1O2HfJmdNiVjRQKGZHrRqg=",
             "type": "git",
-            "url": "https://gitlab.com/xasc/tree-sitter-t32"
+            "url": "https://gitlab.com/xasc/tree-sitter-t32.git"
         },
         "version": "6182836f4128725f1e74ce986840d7317021a015"
     },
