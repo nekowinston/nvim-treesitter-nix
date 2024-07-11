@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "c1ad655b6a0c83ab48e55240f367e2bc0c15af31";
+    version = "4068e1c0966eee10bc8937b54f8cf8f68b76961f";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "c1ad655b6a0c83ab48e55240f367e2bc0c15af31";
+      rev = "4068e1c0966eee10bc8937b54f8cf8f68b76961f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-/i74QlTAYfpKs02C4qqWasPLpIPcIpS+BRGw/t9JlGE=";
+      sha256 = "sha256-kqXRuRUhQRHg4R4++EtygDXJFnQp3jgZabN78e5Bnkg=";
     };
-    date = "2024-07-09";
+    date = "2024-07-10";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -1438,16 +1438,16 @@
   };
   treesitter-grammar-idl = {
     pname = "treesitter-grammar-idl";
-    version = "995d917f120ef428a086d15935d20ab2fb8c345c";
+    version = "d29229e8c4debff1085fa34d1ba96f83349fa933";
     src = fetchgit {
       url = "https://github.com/cathaysia/tree-sitter-idl";
-      rev = "995d917f120ef428a086d15935d20ab2fb8c345c";
+      rev = "d29229e8c4debff1085fa34d1ba96f83349fa933";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-oPfwPi0p49nuw5YD1fdW6iS4yP/xLJp2ACaMcJBC7rQ=";
+      sha256 = "sha256-a/oRxiYZNGL7HFveiGirv+L+IEsLWLuE2Gc/z7cVN+k=";
     };
-    date = "2024-07-09";
+    date = "2024-07-11";
   };
   treesitter-grammar-ini = {
     pname = "treesitter-grammar-ini";
@@ -2854,17 +2854,17 @@
   };
   treesitter-grammar-scfg = {
     pname = "treesitter-grammar-scfg";
-    version = "6deae0cbb458c849a4d1e2985093e9c9c32d7fd0";
+    version = "a5512800ea0220da4abbae61b8aea8423d1549aa";
     src = fetchgit {
       url = "https://git.sr.ht/~rockorager/tree-sitter-scfg";
-      rev = "6deae0cbb458c849a4d1e2985093e9c9c32d7fd0";
+      rev = "a5512800ea0220da4abbae61b8aea8423d1549aa";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-2ubRvjpvRJEBZXpM7ZIkWAwSZARCzP/klydQ6IVpCSk=";
+      sha256 = "sha256-Je6taNzniyd1c+2NRCF7TOvnpeW4qhYYhdAEcgpDOAA=";
     };
     generate = "true";
-    date = "2023-07-25";
+    date = "2024-07-10";
   };
   treesitter-grammar-scheme = {
     pname = "treesitter-grammar-scheme";
