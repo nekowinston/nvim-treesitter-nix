@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "972aa544efb56e2f2f53c5f3c2537e43467dd5cb";
+    version = "7f4ac678770175cdf0d42c015f4a5b6e18b6cb33";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "972aa544efb56e2f2f53c5f3c2537e43467dd5cb";
+      rev = "7f4ac678770175cdf0d42c015f4a5b6e18b6cb33";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Ry6kB5JXEWjCYi8DYaeVia3MByA7/7Me37gUZbdu/eI=";
+      sha256 = "sha256-l2niYYNNlGoqHioXOQd0vPmGWDSRHwFckSeAJZjOxS0=";
     };
-    date = "2024-07-12";
+    date = "2024-07-13";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";

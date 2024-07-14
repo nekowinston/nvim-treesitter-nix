@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2024-07-12",
+        "date": "2024-07-13",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "972aa544efb56e2f2f53c5f3c2537e43467dd5cb",
-            "sha256": "sha256-Ry6kB5JXEWjCYi8DYaeVia3MByA7/7Me37gUZbdu/eI=",
+            "rev": "7f4ac678770175cdf0d42c015f4a5b6e18b6cb33",
+            "sha256": "sha256-l2niYYNNlGoqHioXOQd0vPmGWDSRHwFckSeAJZjOxS0=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "972aa544efb56e2f2f53c5f3c2537e43467dd5cb"
+        "version": "7f4ac678770175cdf0d42c015f4a5b6e18b6cb33"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
