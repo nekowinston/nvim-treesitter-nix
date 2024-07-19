@@ -628,6 +628,10 @@ src.git = "https://github.com/neomutt/tree-sitter-muttrc"
 fetch.git = "https://github.com/naclsn/tree-sitter-nasm"
 src.git = "https://github.com/naclsn/tree-sitter-nasm"
 
+[treesitter-grammar-nginx]
+fetch.git = "https://github.com/opa-oz/tree-sitter-nginx"
+src.git = "https://github.com/opa-oz/tree-sitter-nginx"
+
 [treesitter-grammar-nickel]
 fetch.git = "https://github.com/nickel-lang/tree-sitter-nickel"
 src.git = "https://github.com/nickel-lang/tree-sitter-nickel"
@@ -1156,6 +1160,10 @@ src.git = "https://github.com/ventojs/tree-sitter-vento"
 [treesitter-grammar-verilog]
 fetch.git = "https://github.com/tree-sitter/tree-sitter-verilog"
 src.git = "https://github.com/tree-sitter/tree-sitter-verilog"
+
+[treesitter-grammar-vhdl]
+fetch.git = "https://github.com/jpt13653903/tree-sitter-vhdl"
+src.git = "https://github.com/jpt13653903/tree-sitter-vhdl"
 
 [treesitter-grammar-vhs]
 fetch.git = "https://github.com/charmbracelet/tree-sitter-vhs"
