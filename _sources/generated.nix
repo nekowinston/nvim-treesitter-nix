@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "667b9dbbfa2d0071c5677c429ddcf89fb931b53f";
+    version = "2883d0c03f4d0f80bbc1eacff61675cde7ed255b";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "667b9dbbfa2d0071c5677c429ddcf89fb931b53f";
+      rev = "2883d0c03f4d0f80bbc1eacff61675cde7ed255b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-UZyIy1krdrCFqO6EIihSc9a14f7RCw3b9NBfYclruqg=";
+      sha256 = "sha256-1/WtVDxXZHb5M8/oxGUYtQ5nX/2oqcCMReopoFj5+84=";
     };
-    date = "2024-07-20";
+    date = "2024-07-21";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -1438,16 +1438,16 @@
   };
   treesitter-grammar-idl = {
     pname = "treesitter-grammar-idl";
-    version = "be067aa6146d88ac7b6276f72fc22a681f744ccb";
+    version = "3e6c8bbdb5b3485f8a50d951040a6d80c70a97b0";
     src = fetchgit {
       url = "https://github.com/cathaysia/tree-sitter-idl";
-      rev = "be067aa6146d88ac7b6276f72fc22a681f744ccb";
+      rev = "3e6c8bbdb5b3485f8a50d951040a6d80c70a97b0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-DHRq9JRYzxe0mrgZnqG+hyKyIcLZ8VstmiwIJoDMK9w=";
+      sha256 = "sha256-njm1XC94WbOaOobyQaCrJFbDOhNYjmRib9DtKKchE1w=";
     };
-    date = "2024-07-19";
+    date = "2024-07-22";
   };
   treesitter-grammar-ini = {
     pname = "treesitter-grammar-ini";
