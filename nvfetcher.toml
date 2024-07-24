@@ -756,6 +756,10 @@ src.git = "https://github.com/ObserverOfTime/tree-sitter-poe-filter"
 fetch.git = "https://github.com/amaanq/tree-sitter-pony"
 src.git = "https://github.com/amaanq/tree-sitter-pony"
 
+[treesitter-grammar-powershell]
+fetch.git = "https://github.com/airbus-cert/tree-sitter-powershell"
+src.git = "https://github.com/airbus-cert/tree-sitter-powershell"
+
 [treesitter-grammar-printf]
 fetch.git = "https://github.com/ObserverOfTime/tree-sitter-printf"
 src.git = "https://github.com/ObserverOfTime/tree-sitter-printf"
