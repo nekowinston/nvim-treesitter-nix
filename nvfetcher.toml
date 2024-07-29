@@ -878,6 +878,10 @@ src.git = "https://github.com/FallenAngel97/tree-sitter-rego"
 fetch.git = "https://github.com/ObserverOfTime/tree-sitter-requirements"
 src.git = "https://github.com/ObserverOfTime/tree-sitter-requirements"
 
+[treesitter-grammar-rescript]
+fetch.git = "https://github.com/rescript-lang/tree-sitter-rescript"
+src.git = "https://github.com/rescript-lang/tree-sitter-rescript"
+
 [treesitter-grammar-rnoweb]
 fetch.git = "https://github.com/bamonroe/tree-sitter-rnoweb"
 src.git = "https://github.com/bamonroe/tree-sitter-rnoweb"
