@@ -1185,6 +1185,10 @@ src.git = "https://github.com/neovim/tree-sitter-vim"
 fetch.git = "https://github.com/neovim/tree-sitter-vimdoc"
 src.git = "https://github.com/neovim/tree-sitter-vimdoc"
 
+[treesitter-grammar-vrl]
+fetch.git = "https://github.com/belltoy/tree-sitter-vrl"
+src.git = "https://github.com/belltoy/tree-sitter-vrl"
+
 [treesitter-grammar-vue]
 fetch.git = "https://github.com/tree-sitter-grammars/tree-sitter-vue"
 src.git = "https://github.com/tree-sitter-grammars/tree-sitter-vue"

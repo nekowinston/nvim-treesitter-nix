@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "8e569bc4b5eee3ef011c948f92493fda2e2a6a32";
+    version = "c67881c265059f44fe22aa212ad7ea2bfc36bee8";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "8e569bc4b5eee3ef011c948f92493fda2e2a6a32";
+      rev = "c67881c265059f44fe22aa212ad7ea2bfc36bee8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-CJCHRzShJOdUMO8nUrD+oCxRstbG4r4ExZziIrxS4O4=";
+      sha256 = "sha256-OnKk+rCn5r3vxv8xhmcKWGR9NuBTqAEDj+Kacomlrqg=";
     };
-    date = "2024-07-31";
+    date = "2024-08-01";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -1112,16 +1112,16 @@
   };
   treesitter-grammar-gomod = {
     pname = "treesitter-grammar-gomod";
-    version = "bbe2fe3be4b87e06a613e685250f473d2267f430";
+    version = "1f55029bacd0a6a11f6eb894c4312d429dcf735c";
     src = fetchgit {
       url = "https://github.com/camdencheek/tree-sitter-go-mod";
-      rev = "bbe2fe3be4b87e06a613e685250f473d2267f430";
+      rev = "1f55029bacd0a6a11f6eb894c4312d429dcf735c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-OPtqXe6OMC9c5dgFH8Msj+6DU01LvLKVbCzGLj0PnLI=";
+      sha256 = "sha256-/sjC117YAFniFws4F/8+Q5Wrd4l4v4nBUaO9IdkixSE=";
     };
-    date = "2024-01-16";
+    date = "2024-07-31";
   };
   treesitter-grammar-gosum = {
     pname = "treesitter-grammar-gosum";
@@ -1190,16 +1190,16 @@
   };
   treesitter-grammar-groovy = {
     pname = "treesitter-grammar-groovy";
-    version = "391229139d9f79879ccc84cb271889c9240c28a1";
+    version = "105ee343682b7eee86b38ec6858a269e16474a72";
     src = fetchgit {
       url = "https://github.com/murtaza64/tree-sitter-groovy";
-      rev = "391229139d9f79879ccc84cb271889c9240c28a1";
+      rev = "105ee343682b7eee86b38ec6858a269e16474a72";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-AtA6249CHaOYQGgYfaECFESmJi9Wq+iFC58rHSh5x9M=";
+      sha256 = "sha256-HYb3TXMSC+Zfss+vqgdSxsB35tqPmc6GNMWuFof9e5g=";
     };
-    date = "2024-07-26";
+    date = "2024-07-31";
   };
   treesitter-grammar-gstlaunch = {
     pname = "treesitter-grammar-gstlaunch";
@@ -2383,16 +2383,16 @@
   };
   treesitter-grammar-powershell = {
     pname = "treesitter-grammar-powershell";
-    version = "804d86fd4ad286bd0cc1c1f0f7b28bd7af6755ad";
+    version = "fc15514b2f1dbba9c58528d15a3708f89eda6a01";
     src = fetchgit {
       url = "https://github.com/airbus-cert/tree-sitter-powershell";
-      rev = "804d86fd4ad286bd0cc1c1f0f7b28bd7af6755ad";
+      rev = "fc15514b2f1dbba9c58528d15a3708f89eda6a01";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-W+v+Gj1KViIF+8wd9auy448hyxz0Uam5FpIpdjCzF/k=";
+      sha256 = "sha256-StVnRNM0HPevLSRDIDr+Sakjo+NqXYWPPUFjI29Cowo=";
     };
-    date = "2024-06-10";
+    date = "2024-07-31";
   };
   treesitter-grammar-printf = {
     pname = "treesitter-grammar-printf";
@@ -2815,16 +2815,16 @@
   };
   treesitter-grammar-roc = {
     pname = "treesitter-grammar-roc";
-    version = "6ea64b6434a45472bd87b0772fd84a017de0a557";
+    version = "ef46edd0c03ea30a22f7e92bc68628fb7231dc8a";
     src = fetchgit {
       url = "https://github.com/faldor20/tree-sitter-roc";
-      rev = "6ea64b6434a45472bd87b0772fd84a017de0a557";
+      rev = "ef46edd0c03ea30a22f7e92bc68628fb7231dc8a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-lmrRGSwCg2QCaEbbDeHOHo3KcIq5slpQv2zb32L9n2M=";
+      sha256 = "sha256-H76cnMlBT1Z/9WXAdoVslImkyy38uCqum9qEnH+Ics8=";
     };
-    date = "2024-06-26";
+    date = "2024-07-31";
   };
   treesitter-grammar-ron = {
     pname = "treesitter-grammar-ron";
@@ -3694,6 +3694,19 @@
       sha256 = "sha256-v+XSWGm2Wdn9/rxNFMqXYACkGn6AvxZdxkClLuKnWGU=";
     };
     date = "2024-06-08";
+  };
+  treesitter-grammar-vrl = {
+    pname = "treesitter-grammar-vrl";
+    version = "274b3ce63f72aa8ffea18e7fc280d3062d28f0ba";
+    src = fetchgit {
+      url = "https://github.com/belltoy/tree-sitter-vrl";
+      rev = "274b3ce63f72aa8ffea18e7fc280d3062d28f0ba";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "sha256-R+wuG8UkvGA11uTiiUAdzzgjRv1ik4W+qh3YwIREUd4=";
+    };
+    date = "2024-07-31";
   };
   treesitter-grammar-vue = {
     pname = "treesitter-grammar-vue";
