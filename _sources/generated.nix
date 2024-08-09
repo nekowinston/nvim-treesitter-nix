@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "2e01c7104c0983467ee1b9f569e0874b8d2b44c6";
+    version = "3d1f5e7df8d9981ec0bcf4aa635c0cc0a7ee89d9";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "2e01c7104c0983467ee1b9f569e0874b8d2b44c6";
+      rev = "3d1f5e7df8d9981ec0bcf4aa635c0cc0a7ee89d9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-4XAjRZtxakoVCgH0jOelzTvmuGpPI7MpJv73c4FCdOY=";
+      sha256 = "sha256-RE9urKUyIjfBGF7DZNxf9DkpGJRx176nQqM6sg2s3KE=";
     };
-    date = "2024-08-08";
+    date = "2024-08-09";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -2880,14 +2880,14 @@
   };
   treesitter-grammar-scala = {
     pname = "treesitter-grammar-scala";
-    version = "ed890fe79420866047ceeeedfd533081dfeb4e73";
+    version = "be7184df70dd3b5790becfb2c93ba796b2797781";
     src = fetchgit {
       url = "https://github.com/tree-sitter/tree-sitter-scala";
-      rev = "ed890fe79420866047ceeeedfd533081dfeb4e73";
+      rev = "be7184df70dd3b5790becfb2c93ba796b2797781";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-xOYgFQXEW/7Q8Jds5r4uW5ao8BmOW8kPGNnutZ/0C/I=";
+      sha256 = "sha256-Zw+HRmLmfJY1SpAuTl1fcRSxIkRs1/LcBKoyjHXHIpk=";
     };
     date = "2024-08-08";
   };
