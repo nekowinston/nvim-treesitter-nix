@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2024-08-10",
+        "date": "2024-08-11",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "c8f8dd15516e7f8663de2b715797e0c2758ab921",
-            "sha256": "sha256-IsbLlxa3cubG8K9oySYlZFCwqd87oNOnnCyNxwexB7A=",
+            "rev": "079af15600ceaca92e6ce96e40d37955307aa11e",
+            "sha256": "sha256-TYp6eWYxiEXoI2oEg8EFJposx6yE+BMNlxUp2+z67x0=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "c8f8dd15516e7f8663de2b715797e0c2758ab921"
+        "version": "079af15600ceaca92e6ce96e40d37955307aa11e"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -77,7 +77,7 @@
     },
     "treesitter-grammar-apex": {
         "cargoLocks": null,
-        "date": "2024-08-09",
+        "date": "2024-08-10",
         "extract": null,
         "name": "treesitter-grammar-apex",
         "passthru": {
@@ -89,12 +89,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "c47a639e1a0e5407ee39a8761ec1accebe6dacfc",
-            "sha256": "sha256-S2tMTV0+Au8zxDdyNQ3p8afLI01QoOlVUDqOJqv18Fc=",
+            "rev": "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78",
+            "sha256": "sha256-t2ujJTS0NW3bCQBGOrQZxFdcyS4pxzJwKU87AT/xn7U=",
             "type": "git",
             "url": "https://github.com/aheber/tree-sitter-sfapex"
         },
-        "version": "c47a639e1a0e5407ee39a8761ec1accebe6dacfc"
+        "version": "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78"
     },
     "treesitter-grammar-arduino": {
         "cargoLocks": null,
@@ -708,7 +708,7 @@
     },
     "treesitter-grammar-dart": {
         "cargoLocks": null,
-        "date": "2024-04-28",
+        "date": "2024-08-10",
         "extract": null,
         "name": "treesitter-grammar-dart",
         "passthru": null,
@@ -718,12 +718,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "ac0bb849ccd1a923963af47573b5e396736ff582",
-            "sha256": "sha256-yEI0a+YlEdjlmSTWZFdVUr7lwuK4wNsE9WycOkXzoG4=",
+            "rev": "cf72df5d4a623ca705e81bf9e9d264e1fe9d5da0",
+            "sha256": "sha256-e1Ouk9WgRVuO3y1XJnIcFnFvh4YrzoF6k2Us8jHPE0M=",
             "type": "git",
             "url": "https://github.com/UserNobody14/tree-sitter-dart"
         },
-        "version": "ac0bb849ccd1a923963af47573b5e396736ff582"
+        "version": "cf72df5d4a623ca705e81bf9e9d264e1fe9d5da0"
     },
     "treesitter-grammar-devicetree": {
         "cargoLocks": null,
@@ -3021,7 +3021,7 @@
     },
     "treesitter-grammar-nix": {
         "cargoLocks": null,
-        "date": "2024-08-07",
+        "date": "2024-08-11",
         "extract": null,
         "name": "treesitter-grammar-nix",
         "passthru": null,
@@ -3031,12 +3031,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "486bb0337ee94575f53367b53bffeaea99063f2c",
-            "sha256": "sha256-3a1q/F8gtfIb6nCKwHSS2r5ZHagNsmlSyjD6Iij4W50=",
+            "rev": "80b9318aa0e05d9539c7adb74f4aee5cf650a25e",
+            "sha256": "sha256-++vlrVeyG8gi0RcLVHm8UXyLe4dPAsqNubQv+TaIN0c=",
             "type": "git",
             "url": "https://github.com/cstrahan/tree-sitter-nix"
         },
-        "version": "486bb0337ee94575f53367b53bffeaea99063f2c"
+        "version": "80b9318aa0e05d9539c7adb74f4aee5cf650a25e"
     },
     "treesitter-grammar-norg": {
         "cargoLocks": null,
@@ -4407,7 +4407,7 @@
     },
     "treesitter-grammar-soql": {
         "cargoLocks": null,
-        "date": "2024-08-09",
+        "date": "2024-08-10",
         "extract": null,
         "name": "treesitter-grammar-soql",
         "passthru": {
@@ -4419,16 +4419,16 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "c47a639e1a0e5407ee39a8761ec1accebe6dacfc",
-            "sha256": "sha256-S2tMTV0+Au8zxDdyNQ3p8afLI01QoOlVUDqOJqv18Fc=",
+            "rev": "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78",
+            "sha256": "sha256-t2ujJTS0NW3bCQBGOrQZxFdcyS4pxzJwKU87AT/xn7U=",
             "type": "git",
             "url": "https://github.com/aheber/tree-sitter-sfapex"
         },
-        "version": "c47a639e1a0e5407ee39a8761ec1accebe6dacfc"
+        "version": "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78"
     },
     "treesitter-grammar-sosl": {
         "cargoLocks": null,
-        "date": "2024-08-09",
+        "date": "2024-08-10",
         "extract": null,
         "name": "treesitter-grammar-sosl",
         "passthru": {
@@ -4440,12 +4440,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "c47a639e1a0e5407ee39a8761ec1accebe6dacfc",
-            "sha256": "sha256-S2tMTV0+Au8zxDdyNQ3p8afLI01QoOlVUDqOJqv18Fc=",
+            "rev": "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78",
+            "sha256": "sha256-t2ujJTS0NW3bCQBGOrQZxFdcyS4pxzJwKU87AT/xn7U=",
             "type": "git",
             "url": "https://github.com/aheber/tree-sitter-sfapex"
         },
-        "version": "c47a639e1a0e5407ee39a8761ec1accebe6dacfc"
+        "version": "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78"
     },
     "treesitter-grammar-sourcepawn": {
         "cargoLocks": null,
