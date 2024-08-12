@@ -3,14 +3,14 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "079af15600ceaca92e6ce96e40d37955307aa11e";
+    version = "e5a05ba5e298cc1e1dad8eb8095b8d4d89a7f793";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "079af15600ceaca92e6ce96e40d37955307aa11e";
+      rev = "e5a05ba5e298cc1e1dad8eb8095b8d4d89a7f793";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-TYp6eWYxiEXoI2oEg8EFJposx6yE+BMNlxUp2+z67x0=";
+      sha256 = "sha256-aqeUVzm3I5a/s+1Zf97lnsPrQjzqNrz1Rdr+g2PcLys=";
     };
     date = "2024-08-11";
   };
@@ -2880,16 +2880,16 @@
   };
   treesitter-grammar-scala = {
     pname = "treesitter-grammar-scala";
-    version = "be7184df70dd3b5790becfb2c93ba796b2797781";
+    version = "9a4a2b3932f1856ad4e7d9c149f54a23e13b5fc0";
     src = fetchgit {
       url = "https://github.com/tree-sitter/tree-sitter-scala";
-      rev = "be7184df70dd3b5790becfb2c93ba796b2797781";
+      rev = "9a4a2b3932f1856ad4e7d9c149f54a23e13b5fc0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Zw+HRmLmfJY1SpAuTl1fcRSxIkRs1/LcBKoyjHXHIpk=";
+      sha256 = "sha256-mmhFGA8skuLtW9essF+xDZI5hoko3si1YbmJaKhVuhw=";
     };
-    date = "2024-08-08";
+    date = "2024-08-12";
   };
   treesitter-grammar-scfg = {
     pname = "treesitter-grammar-scfg";
@@ -2930,6 +2930,20 @@
       sha256 = "sha256-BFtMT6eccBWUyq6b8UXRAbB1R1XD3CrrFf1DM3aUI5c=";
     };
     date = "2022-02-03";
+  };
+  treesitter-grammar-sflog = {
+    pname = "treesitter-grammar-sflog";
+    version = "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78";
+    src = fetchgit {
+      url = "https://github.com/aheber/tree-sitter-sfapex";
+      rev = "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "sha256-t2ujJTS0NW3bCQBGOrQZxFdcyS4pxzJwKU87AT/xn7U=";
+    };
+    location = "sflog";
+    date = "2024-08-10";
   };
   treesitter-grammar-slang = {
     pname = "treesitter-grammar-slang";

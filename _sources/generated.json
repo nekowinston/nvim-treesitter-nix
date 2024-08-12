@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "079af15600ceaca92e6ce96e40d37955307aa11e",
-            "sha256": "sha256-TYp6eWYxiEXoI2oEg8EFJposx6yE+BMNlxUp2+z67x0=",
+            "rev": "e5a05ba5e298cc1e1dad8eb8095b8d4d89a7f793",
+            "sha256": "sha256-aqeUVzm3I5a/s+1Zf97lnsPrQjzqNrz1Rdr+g2PcLys=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "079af15600ceaca92e6ce96e40d37955307aa11e"
+        "version": "e5a05ba5e298cc1e1dad8eb8095b8d4d89a7f793"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -4215,7 +4215,7 @@
     },
     "treesitter-grammar-scala": {
         "cargoLocks": null,
-        "date": "2024-08-08",
+        "date": "2024-08-12",
         "extract": null,
         "name": "treesitter-grammar-scala",
         "passthru": null,
@@ -4225,12 +4225,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "be7184df70dd3b5790becfb2c93ba796b2797781",
-            "sha256": "sha256-Zw+HRmLmfJY1SpAuTl1fcRSxIkRs1/LcBKoyjHXHIpk=",
+            "rev": "9a4a2b3932f1856ad4e7d9c149f54a23e13b5fc0",
+            "sha256": "sha256-mmhFGA8skuLtW9essF+xDZI5hoko3si1YbmJaKhVuhw=",
             "type": "git",
             "url": "https://github.com/tree-sitter/tree-sitter-scala"
         },
-        "version": "be7184df70dd3b5790becfb2c93ba796b2797781"
+        "version": "9a4a2b3932f1856ad4e7d9c149f54a23e13b5fc0"
     },
     "treesitter-grammar-scfg": {
         "cargoLocks": null,
@@ -4290,6 +4290,27 @@
             "url": "https://github.com/serenadeai/tree-sitter-scss"
         },
         "version": "c478c6868648eff49eb04a4df90d703dc45b312a"
+    },
+    "treesitter-grammar-sflog": {
+        "cargoLocks": null,
+        "date": "2024-08-10",
+        "extract": null,
+        "name": "treesitter-grammar-sflog",
+        "passthru": {
+            "location": "sflog"
+        },
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78",
+            "sha256": "sha256-t2ujJTS0NW3bCQBGOrQZxFdcyS4pxzJwKU87AT/xn7U=",
+            "type": "git",
+            "url": "https://github.com/aheber/tree-sitter-sfapex"
+        },
+        "version": "9fe5d1fbfd75c11ba48a32db27ac0ed5da57ec78"
     },
     "treesitter-grammar-slang": {
         "cargoLocks": null,

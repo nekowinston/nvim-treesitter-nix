@@ -932,6 +932,12 @@ src.git = "https://github.com/6cdh/tree-sitter-scheme"
 fetch.git = "https://github.com/serenadeai/tree-sitter-scss"
 src.git = "https://github.com/serenadeai/tree-sitter-scss"
 
+[treesitter-grammar-sflog]
+fetch.git = "https://github.com/aheber/tree-sitter-sfapex"
+src.git = "https://github.com/aheber/tree-sitter-sfapex"
+[treesitter-grammar-sflog.passthru]
+location = "sflog"
+
 [treesitter-grammar-slang]
 fetch.git = "https://github.com/theHamsta/tree-sitter-slang"
 src.git = "https://github.com/theHamsta/tree-sitter-slang"
