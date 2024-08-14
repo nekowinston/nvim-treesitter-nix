@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "047ce49ccf9a2dce22e1cf3843bef3b5682a8144";
+    version = "db92f60ed0c50e747155d685e977b18327f20b3a";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "047ce49ccf9a2dce22e1cf3843bef3b5682a8144";
+      rev = "db92f60ed0c50e747155d685e977b18327f20b3a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-pl3vARFOcid4DALDIJXCQgr+IPli7vKKAE6Yo1U45lo=";
+      sha256 = "sha256-fYj/kKaKVcz/383p8S5moj8YBTC5vyCG2AdNqHDpeSE=";
     };
-    date = "2024-08-13";
+    date = "2024-08-14";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -42,16 +42,16 @@
   };
   treesitter-grammar-angular = {
     pname = "treesitter-grammar-angular";
-    version = "31182d43b062a350d4bd2449f2fc0d5654972be9";
+    version = "660e6c4d0d533da8a1d4faa1bb0870f8ccbdbf92";
     src = fetchgit {
       url = "https://github.com/dlvandenberg/tree-sitter-angular";
-      rev = "31182d43b062a350d4bd2449f2fc0d5654972be9";
+      rev = "660e6c4d0d533da8a1d4faa1bb0870f8ccbdbf92";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-E+MrOQJIUsAGPMIIM43gROs1yIiokCHXJB2pmWGe0i0=";
+      sha256 = "sha256-lxdqqcw9cEX4M4AqLEY9mWexdDLoOrtCumtdgBQoQOo=";
     };
-    date = "2024-07-18";
+    date = "2024-08-13";
   };
   treesitter-grammar-apex = {
     pname = "treesitter-grammar-apex";
