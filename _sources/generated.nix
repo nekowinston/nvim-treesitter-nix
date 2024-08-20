@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "ec8776ed9ef56ffe7a61e67b64d5d6b6aba2c631";
+    version = "cfd2095e66e49ea0dfbef6b41be2efd0ba6cc4ee";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "ec8776ed9ef56ffe7a61e67b64d5d6b6aba2c631";
+      rev = "cfd2095e66e49ea0dfbef6b41be2efd0ba6cc4ee";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-fQ8Y4MwTVN1UPdpNxE4NTCnUXCAbXeYlPUXsR4TKw68=";
+      sha256 = "sha256-DIiwebxcQsdjYPlwbsd0JhrG4eG3x53UiV3HBm3ZknI=";
     };
-    date = "2024-08-18";
+    date = "2024-08-20";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -1190,16 +1190,16 @@
   };
   treesitter-grammar-groovy = {
     pname = "treesitter-grammar-groovy";
-    version = "6b91d508bee2e7679fcdac5312644fc5e5cfacb8";
+    version = "171b3b7412bc93284fc0dad0a7a7bbbbd1b51289";
     src = fetchgit {
       url = "https://github.com/murtaza64/tree-sitter-groovy";
-      rev = "6b91d508bee2e7679fcdac5312644fc5e5cfacb8";
+      rev = "171b3b7412bc93284fc0dad0a7a7bbbbd1b51289";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-sB7MEdcIspAXatp4GIUUybsKNfRlso701imHtpWVtxY=";
+      sha256 = "sha256-7DCBeN3swG+0EvA1wFewzF9gXfx9Sq2g+X7K4MH/a6A=";
     };
-    date = "2024-08-12";
+    date = "2024-08-19";
   };
   treesitter-grammar-gstlaunch = {
     pname = "treesitter-grammar-gstlaunch";
@@ -1909,16 +1909,16 @@
   };
   treesitter-grammar-matlab = {
     pname = "treesitter-grammar-matlab";
-    version = "ad1c471f30ba754578d4b2e27a4c4ec662a10e6f";
+    version = "e770bddc7bfc938f24d06dd98dcbfe3469fcece4";
     src = fetchgit {
       url = "https://github.com/acristoffers/tree-sitter-matlab";
-      rev = "ad1c471f30ba754578d4b2e27a4c4ec662a10e6f";
+      rev = "e770bddc7bfc938f24d06dd98dcbfe3469fcece4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-sFha1EVf01wpIdot+lvFfrMffz5uJdIShdjOSlJSmMg=";
+      sha256 = "sha256-6vCGo5Qrv58y7JqgsdK2ItwtjCb4bx/Y5tt6ZyXHzEc=";
     };
-    date = "2024-08-15";
+    date = "2024-08-19";
   };
   treesitter-grammar-menhir = {
     pname = "treesitter-grammar-menhir";
