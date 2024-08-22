@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2024-08-21",
+        "date": "2024-08-22",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "0fd6d324828952eaa4596d0d3d8043acc401bc05",
-            "sha256": "sha256-bcQNXpwbj6a9MnozmnDlg85ARCFraUo22XL6tF/LvtQ=",
+            "rev": "6ed65c3a1d0ebc1813a0fcec3d930c149dcf00aa",
+            "sha256": "sha256-m1FobMdUoLwBQ3PTFX0/26oKfEApqb/FV79ZhK6zO4A=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "0fd6d324828952eaa4596d0d3d8043acc401bc05"
+        "version": "6ed65c3a1d0ebc1813a0fcec3d930c149dcf00aa"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -3312,7 +3312,7 @@
     },
     "treesitter-grammar-perl": {
         "cargoLocks": null,
-        "date": "2024-08-03",
+        "date": "2024-08-21",
         "extract": null,
         "name": "treesitter-grammar-perl",
         "passthru": null,
@@ -3322,12 +3322,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "3a21d9cb2a20a062c17f8f53d5983fd473c4673c",
-            "sha256": "sha256-cBF3wvAl5PJCzjlTn1wx9+Q81xsitKW3+TwD0yAoWM4=",
+            "rev": "18f855fcac9a2aa055ffb9f1a0b29d2db3e2f514",
+            "sha256": "sha256-zfPzX1ZK9aWd6bz8DsjjxsZ7clPC3tIlCHw0Jr0OvC0=",
             "type": "git",
             "url": "https://github.com/tree-sitter-perl/tree-sitter-perl"
         },
-        "version": "3a21d9cb2a20a062c17f8f53d5983fd473c4673c"
+        "version": "18f855fcac9a2aa055ffb9f1a0b29d2db3e2f514"
     },
     "treesitter-grammar-php": {
         "cargoLocks": null,
