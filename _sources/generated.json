@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2024-08-27",
+        "date": "2024-08-29",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "2eb50352c039009cf046f43241b649b162ee5148",
-            "sha256": "sha256-ENNAdMtjNIuaAwrKCJAQp3aod7yqAE1yC4t5Bp23NmU=",
+            "rev": "585860a1865853d2c287c8ef534297da8115818e",
+            "sha256": "sha256-cYpPXuZpvEOEnJlDucCh/E8Dx0Gl479yrECon/nwpCg=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "2eb50352c039009cf046f43241b649b162ee5148"
+        "version": "585860a1865853d2c287c8ef534297da8115818e"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -58,7 +58,7 @@
     },
     "treesitter-grammar-angular": {
         "cargoLocks": null,
-        "date": "2024-08-22",
+        "date": "2024-08-28",
         "extract": null,
         "name": "treesitter-grammar-angular",
         "passthru": null,
@@ -68,12 +68,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "c2d1f6d4c5f1993afce7f984ca2675af8d67457c",
-            "sha256": "sha256-ws1P/MXvjmhovKK/pMf46GPRVsHijDciYcQCQRoD9ss=",
+            "rev": "c473dbc54ca27f95d8928cfdb2a1a79300e16951",
+            "sha256": "sha256-TEdHRcZKXeEbRPfyUJ9rZ6+OFZn24OvArSo4C31Pyl4=",
             "type": "git",
             "url": "https://github.com/dlvandenberg/tree-sitter-angular"
         },
-        "version": "c2d1f6d4c5f1993afce7f984ca2675af8d67457c"
+        "version": "c473dbc54ca27f95d8928cfdb2a1a79300e16951"
     },
     "treesitter-grammar-apex": {
         "cargoLocks": null,
@@ -2867,7 +2867,7 @@
     },
     "treesitter-grammar-mlir": {
         "cargoLocks": null,
-        "date": "2024-08-26",
+        "date": "2024-08-28",
         "extract": null,
         "name": "treesitter-grammar-mlir",
         "passthru": {
@@ -2879,12 +2879,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "fd8cbd544bdff4acdfe1da63b403b5c591059aeb",
-            "sha256": "sha256-V5kDEeX/lGr14L78CmxlswFdx5YZIRk4JfP2KHKlpOk=",
+            "rev": "02af5a1a1cfa69a094e3136b10dfb602f968232e",
+            "sha256": "sha256-zCv47UvUIzdoJwQwKMrFyR1eMdU6ScSGfODdXomBapY=",
             "type": "git",
             "url": "https://github.com/artagnon/tree-sitter-mlir"
         },
-        "version": "fd8cbd544bdff4acdfe1da63b403b5c591059aeb"
+        "version": "02af5a1a1cfa69a094e3136b10dfb602f968232e"
     },
     "treesitter-grammar-muttrc": {
         "cargoLocks": null,
