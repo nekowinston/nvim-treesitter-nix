@@ -1243,6 +1243,6 @@ fetch.git = "https://github.com/Freed-Wu/tree-sitter-zathurarc"
 src.git = "https://github.com/Freed-Wu/tree-sitter-zathurarc"
 
 [treesitter-grammar-zig]
-fetch.git = "https://github.com/maxxnino/tree-sitter-zig"
-src.git = "https://github.com/maxxnino/tree-sitter-zig"
+fetch.git = "https://github.com/tree-sitter-grammars/tree-sitter-zig"
+src.git = "https://github.com/tree-sitter-grammars/tree-sitter-zig"
 
