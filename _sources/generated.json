@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "64cc1ef764a0b137a642d05cacdfe1126124fb35",
-            "sha256": "sha256-O8N9XkZ/4+3Zsc7d9320Js/k0/o7rSZEAP9vFjyv3Jo=",
+            "rev": "749df308870381979dc098063973f6ace9968ef6",
+            "sha256": "sha256-oo4U8PzLCkw4HYEw83/n0Xfry8QqO7D2ZkpiUHo/rN0=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "64cc1ef764a0b137a642d05cacdfe1126124fb35"
+        "version": "749df308870381979dc098063973f6ace9968ef6"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -30,10 +30,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "briot",
+            "repo": "tree-sitter-ada",
             "rev": "e8e2515465cc2d7c444498e68bdb9f1d86767f95",
             "sha256": "sha256-qfuVoh3R418F1FMN6CTXNnCaAk5gQj5lI/NoaJgnkW8=",
-            "type": "git",
-            "url": "https://github.com/briot/tree-sitter-ada"
+            "type": "github"
         },
         "version": "e8e2515465cc2d7c444498e68bdb9f1d86767f95"
     },
@@ -49,10 +50,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-agda",
             "rev": "d3dc807692e6bca671d4491b3bf5c67eeca8c016",
             "sha256": "sha256-2HBndaridTSSpYgCnpc6buLWWusmQPzsQjwAD9PkrCE=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-agda"
+            "type": "github"
         },
         "version": "d3dc807692e6bca671d4491b3bf5c67eeca8c016"
     },
@@ -68,10 +70,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "dlvandenberg",
+            "repo": "tree-sitter-angular",
             "rev": "c473dbc54ca27f95d8928cfdb2a1a79300e16951",
             "sha256": "sha256-TEdHRcZKXeEbRPfyUJ9rZ6+OFZn24OvArSo4C31Pyl4=",
-            "type": "git",
-            "url": "https://github.com/dlvandenberg/tree-sitter-angular"
+            "type": "github"
         },
         "version": "c473dbc54ca27f95d8928cfdb2a1a79300e16951"
     },
@@ -89,10 +92,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "aheber",
+            "repo": "tree-sitter-sfapex",
             "rev": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
             "sha256": "sha256-OEaeH+iVWOtDKVBAAbFPN96uyKlcuDHIObsk6SP78SY=",
-            "type": "git",
-            "url": "https://github.com/aheber/tree-sitter-sfapex"
+            "type": "github"
         },
         "version": "602cc4b050ef1e14a69acc2ea094968bf928fa59"
     },
@@ -108,10 +112,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ObserverOfTime",
+            "repo": "tree-sitter-arduino",
             "rev": "afb34b2c65f507932c5c6ddbf0d5a9ca6a772f2f",
             "sha256": "sha256-iccyGSsbNDhvkrT20/bqx9s5tkghl6DONzJz5UEtTJ8=",
-            "type": "git",
-            "url": "https://github.com/ObserverOfTime/tree-sitter-arduino"
+            "type": "github"
         },
         "version": "afb34b2c65f507932c5c6ddbf0d5a9ca6a772f2f"
     },
@@ -127,10 +132,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "RubixDev",
+            "repo": "tree-sitter-asm",
             "rev": "55b2b913f1e71136027d6fce8212e760c64f3532",
             "sha256": "sha256-DJhnC+kbKK6ibmg7DgkSCbZoTBnH7q7yYfSxI/flsHE=",
-            "type": "git",
-            "url": "https://github.com/RubixDev/tree-sitter-asm"
+            "type": "github"
         },
         "version": "55b2b913f1e71136027d6fce8212e760c64f3532"
     },
@@ -146,10 +152,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "virchau13",
+            "repo": "tree-sitter-astro",
             "rev": "4be180759ec13651f72bacee65fa477c64222a1a",
             "sha256": "sha256-qc9InFEQgeFfFReJuQd8WjTNK4fFMEaWcqQUcGxxuBI=",
-            "type": "git",
-            "url": "https://github.com/virchau13/tree-sitter-astro"
+            "type": "github"
         },
         "version": "4be180759ec13651f72bacee65fa477c64222a1a"
     },
@@ -165,10 +172,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "mleonidas",
+            "repo": "tree-sitter-authzed",
             "rev": "1dec7e1af96c56924e3322cd85fdce15d0a31d00",
             "sha256": "sha256-qPSQF95DO7WByVy9YXEOus3q3U4QfWuUFbJGVXd4EtQ=",
-            "type": "git",
-            "url": "https://github.com/mleonidas/tree-sitter-authzed"
+            "type": "github"
         },
         "version": "1dec7e1af96c56924e3322cd85fdce15d0a31d00"
     },
@@ -184,10 +192,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Beaglefoot",
+            "repo": "tree-sitter-awk",
             "rev": "ba7472152d79a8c916550c80fdbfd5724d07a0c9",
             "sha256": "sha256-ywrd9wCdrQ9UZPXvB8fUkelFaZzHxL+hDAPSecMueFs=",
-            "type": "git",
-            "url": "https://github.com/Beaglefoot/tree-sitter-awk"
+            "type": "github"
         },
         "version": "ba7472152d79a8c916550c80fdbfd5724d07a0c9"
     },
@@ -203,10 +212,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-bash",
             "rev": "2fbd860f802802ca76a6661ce025b3a3bca2d3ed",
             "sha256": "sha256-rCuQbnQAOnQWKYreNH80nlL+0A1qbWbjMvtczcoWPrY=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-bash"
+            "type": "github"
         },
         "version": "2fbd860f802802ca76a6661ce025b3a3bca2d3ed"
     },
@@ -222,10 +232,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "vito",
+            "repo": "tree-sitter-bass",
             "rev": "28dc7059722be090d04cd751aed915b2fee2f89a",
             "sha256": "sha256-NKu60BbTKLsYQRtfEoqGQUKERJFnmZNVJE6HBz/BRIM=",
-            "type": "git",
-            "url": "https://github.com/vito/tree-sitter-bass"
+            "type": "github"
         },
         "version": "28dc7059722be090d04cd751aed915b2fee2f89a"
     },
@@ -241,10 +252,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "polarmutex",
+            "repo": "tree-sitter-beancount",
             "rev": "01c0da29e0fc7130420a09d939ecc524e09b6ba6",
             "sha256": "sha256-obIGlAXe+Y1vffXTGgFRpiqof+F9bSRLq9NJGZcvhVE=",
-            "type": "git",
-            "url": "https://github.com/polarmutex/tree-sitter-beancount"
+            "type": "github"
         },
         "version": "01c0da29e0fc7130420a09d939ecc524e09b6ba6"
     },
@@ -260,10 +272,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "latex-lsp",
+            "repo": "tree-sitter-bibtex",
             "rev": "ccfd77db0ed799b6c22c214fe9d2937f47bc8b34",
             "sha256": "sha256-wgduSxlpbJy/ITenBLfj5lhziUM1BApX6MjXhWcb7lQ=",
-            "type": "git",
-            "url": "https://github.com/latex-lsp/tree-sitter-bibtex"
+            "type": "github"
         },
         "version": "ccfd77db0ed799b6c22c214fe9d2937f47bc8b34"
     },
@@ -279,10 +292,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-bicep",
             "rev": "0092c7d1bd6bb22ce0a6f78497d50ea2b87f19c0",
             "sha256": "sha256-jj1ccJQOX8oBx1XVKzI53B1sveq5kNADc2DB8bJhsf4=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-bicep"
+            "type": "github"
         },
         "version": "0092c7d1bd6bb22ce0a6f78497d50ea2b87f19c0"
     },
@@ -298,10 +312,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-bitbake",
             "rev": "a5d04fdb5a69a02b8fa8eb5525a60dfb5309b73b",
             "sha256": "sha256-SzHFNIeR6ukWXKkLd2Trg9zuKLMwNAolXGPIDBDaFRg=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-bitbake"
+            "type": "github"
         },
         "version": "a5d04fdb5a69a02b8fa8eb5525a60dfb5309b73b"
     },
@@ -317,10 +332,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "EmranMR",
+            "repo": "tree-sitter-blade",
             "rev": "dead019eeabe612da7fb325caf72fdc7c744d19a",
             "sha256": "sha256-RW6W6CqBQZfAC5C1aGg3GLi+xThh2e33l65++3+uhMw=",
-            "type": "git",
-            "url": "https://github.com/EmranMR/tree-sitter-blade"
+            "type": "github"
         },
         "version": "dead019eeabe612da7fb325caf72fdc7c744d19a"
     },
@@ -355,10 +371,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ambroisie",
+            "repo": "tree-sitter-bp",
             "rev": "4e60cf3c2e613625c06f6f85540b3631e2d06cd3",
             "sha256": "sha256-E8xL93rZx5I1RWXduBZdfVnogmha6TFQz4KerNWrpTI=",
-            "type": "git",
-            "url": "https://github.com/ambroisie/tree-sitter-bp"
+            "type": "github"
         },
         "version": "4e60cf3c2e613625c06f6f85540b3631e2d06cd3"
     },
@@ -374,10 +391,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-c",
             "rev": "927da1f210ebb24b7f109230a61a55b428875985",
             "sha256": "sha256-3U7cnTeqB/ypCV3rLsq13rCuRwZE8PXhVD6KETkuawg=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-c"
+            "type": "github"
         },
         "version": "927da1f210ebb24b7f109230a61a55b428875985"
     },
@@ -393,10 +411,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-c-sharp",
             "rev": "31a64b28292aac6adf44071e449fa03fb80eaf4e",
             "sha256": "sha256-WBOA6CIW56RuiHhwiuP9R+K2kK6Chfx05TP3mdjMxo0=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-c-sharp"
+            "type": "github"
         },
         "version": "31a64b28292aac6adf44071e449fa03fb80eaf4e"
     },
@@ -412,10 +431,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-cairo",
             "rev": "6238f609bea233040fe927858156dee5515a0745",
             "sha256": "sha256-QjCt3sRINrNbaxtNwj43+g7D3xYmuh0BIAo6wWQ/54g=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-cairo"
+            "type": "github"
         },
         "version": "6238f609bea233040fe927858156dee5515a0745"
     },
@@ -431,10 +451,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-capnp",
             "rev": "7b0883c03e5edd34ef7bcf703194204299d7099f",
             "sha256": "sha256-WKrZuOMxmdGlvUI9y8JgwCNMdJ8MULucMhkmW8JCiXM=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-capnp"
+            "type": "github"
         },
         "version": "7b0883c03e5edd34ef7bcf703194204299d7099f"
     },
@@ -450,10 +471,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ObserverOfTime",
+            "repo": "tree-sitter-chatito",
             "rev": "a461f20dedb43905febb12c1635bc7d2e43e96f0",
             "sha256": "sha256-nAdyG068usqGr9OI/bZXiNfSkIg/+L6KTcylZVNNc+o=",
-            "type": "git",
-            "url": "https://github.com/ObserverOfTime/tree-sitter-chatito"
+            "type": "github"
         },
         "version": "a461f20dedb43905febb12c1635bc7d2e43e96f0"
     },
@@ -469,10 +491,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "sogaiu",
+            "repo": "tree-sitter-clojure",
             "rev": "f4236d4da8aa92bc105d9c118746474c608e6af7",
             "sha256": "sha256-UlK6D/xnuPFL/Cu5W7hBMQ/zbodFwrS1CeJDjVpZFpo=",
-            "type": "git",
-            "url": "https://github.com/sogaiu/tree-sitter-clojure"
+            "type": "github"
         },
         "version": "f4236d4da8aa92bc105d9c118746474c608e6af7"
     },
@@ -488,10 +511,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "uyha",
+            "repo": "tree-sitter-cmake",
             "rev": "69d7a8b0f7493b0dbb07d54e8fea96c5421e8a71",
             "sha256": "sha256-WyWKf/cqMPClo8xwech3xm4if4Tu9TwA9YstBIEjkoI=",
-            "type": "git",
-            "url": "https://github.com/uyha/tree-sitter-cmake"
+            "type": "github"
         },
         "version": "69d7a8b0f7493b0dbb07d54e8fea96c5421e8a71"
     },
@@ -507,10 +531,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "stsewd",
+            "repo": "tree-sitter-comment",
             "rev": "3555706cef8b98d3e4c7379d7260548ff03ad363",
             "sha256": "sha256-7iY7D7wz+rYRWhi+429a2pcF0mUMBCnnecIssxlqvt0=",
-            "type": "git",
-            "url": "https://github.com/stsewd/tree-sitter-comment"
+            "type": "github"
         },
         "version": "3555706cef8b98d3e4c7379d7260548ff03ad363"
     },
@@ -526,10 +551,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "theHamsta",
+            "repo": "tree-sitter-commonlisp",
             "rev": "bf2a65b1c119898a1a17389e07f2a399c05cdc0c",
             "sha256": "sha256-dCrHrNfJoHfOt3sS2fUqbrw4snHMu+MoPumLYTGfoho=",
-            "type": "git",
-            "url": "https://github.com/theHamsta/tree-sitter-commonlisp"
+            "type": "github"
         },
         "version": "bf2a65b1c119898a1a17389e07f2a399c05cdc0c"
     },
@@ -545,10 +571,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "addcninblue",
+            "repo": "tree-sitter-cooklang",
             "rev": "4ebe237c1cf64cf3826fc249e9ec0988fe07e58e",
             "sha256": "sha256-VB3BxSrhIbD8TytfOJx7IhTwl/aWasB8t3xnrO34rQE=",
-            "type": "git",
-            "url": "https://github.com/addcninblue/tree-sitter-cooklang"
+            "type": "github"
         },
         "version": "4ebe237c1cf64cf3826fc249e9ec0988fe07e58e"
     },
@@ -564,10 +591,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "jakestanger",
+            "repo": "tree-sitter-corn",
             "rev": "464654742cbfd3a3de560aba120998f1d5dfa844",
             "sha256": "sha256-fI7S+TkI2ofQ/Hal4CJ2HAaeQrjOju1rgJvyc6P3t9k=",
-            "type": "git",
-            "url": "https://github.com/jakestanger/tree-sitter-corn"
+            "type": "github"
         },
         "version": "464654742cbfd3a3de560aba120998f1d5dfa844"
     },
@@ -583,10 +611,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-cpon",
             "rev": "594289eadfec719198e560f9d7fd243c4db678d5",
             "sha256": "sha256-Nr+98yrDkOS5Yh/EFmBWV9Yhv2tPfHGb4pPlLUwc+k8=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-cpon"
+            "type": "github"
         },
         "version": "594289eadfec719198e560f9d7fd243c4db678d5"
     },
@@ -602,10 +631,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-cpp",
             "rev": "b1a4e2b25148f3cfcb5f241cbc4c49f001a6fb35",
             "sha256": "sha256-m5yTbCEMoLLnL3BucTaVk1P7C/Ifu/ZMUrXZcSFMn2U=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-cpp"
+            "type": "github"
         },
         "version": "b1a4e2b25148f3cfcb5f241cbc4c49f001a6fb35"
     },
@@ -621,10 +651,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-css",
             "rev": "9af0bdd9d225edee12f489cfa8284e248321959b",
             "sha256": "sha256-8lSMBT35chVYlsHC1jOhDAq3S2/NfQuHoeIYb2rAOSs=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-css"
+            "type": "github"
         },
         "version": "9af0bdd9d225edee12f489cfa8284e248321959b"
     },
@@ -642,10 +673,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-csv",
             "rev": "7eb7297823605392d2bbcc4c09b1cd18d6fa9529",
             "sha256": "sha256-5VL7uREH0lloAWo9rdJXsjDsWxgL6fngWJSmi4fM7UQ=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-csv"
+            "type": "github"
         },
         "version": "7eb7297823605392d2bbcc4c09b1cd18d6fa9529"
     },
@@ -661,10 +693,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "theHamsta",
+            "repo": "tree-sitter-cuda",
             "rev": "8812343a1f8496fc219f3d07a270f9c1d6ba3391",
             "sha256": "sha256-w2jrfcwsy6ViDajAM4yUdSHpwugZEvNrOXrCFjucQL4=",
-            "type": "git",
-            "url": "https://github.com/theHamsta/tree-sitter-cuda"
+            "type": "github"
         },
         "version": "8812343a1f8496fc219f3d07a270f9c1d6ba3391"
     },
@@ -680,10 +713,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "eonpatapon",
+            "repo": "tree-sitter-cue",
             "rev": "8a5f273bfa281c66354da562f2307c2d394b6c81",
             "sha256": "sha256-uV7Tl41PCU+8uJa693km5xvysvbptbT7LvGyYIelspk=",
-            "type": "git",
-            "url": "https://github.com/eonpatapon/tree-sitter-cue"
+            "type": "github"
         },
         "version": "8a5f273bfa281c66354da562f2307c2d394b6c81"
     },
@@ -699,10 +733,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "gdamore",
+            "repo": "tree-sitter-d",
             "rev": "ac584585a15c4cacd6cda8e6bfe7cb1ca7b3898e",
             "sha256": "sha256-+6+9x+5pyjv252X3XzpN2CnrUXVzMvaCrCPVhhjEELo=",
-            "type": "git",
-            "url": "https://github.com/gdamore/tree-sitter-d"
+            "type": "github"
         },
         "version": "ac584585a15c4cacd6cda8e6bfe7cb1ca7b3898e"
     },
@@ -718,10 +753,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "UserNobody14",
+            "repo": "tree-sitter-dart",
             "rev": "cf72df5d4a623ca705e81bf9e9d264e1fe9d5da0",
             "sha256": "sha256-e1Ouk9WgRVuO3y1XJnIcFnFvh4YrzoF6k2Us8jHPE0M=",
-            "type": "git",
-            "url": "https://github.com/UserNobody14/tree-sitter-dart"
+            "type": "github"
         },
         "version": "cf72df5d4a623ca705e81bf9e9d264e1fe9d5da0"
     },
@@ -737,10 +773,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "joelspadin",
+            "repo": "tree-sitter-devicetree",
             "rev": "296b3c294a8bcfca6673296d99f9cd37049b8026",
             "sha256": "sha256-im3RhkaeG7cDd0FwkJzjrUZXjrpHR4q6sQH2waMumOI=",
-            "type": "git",
-            "url": "https://github.com/joelspadin/tree-sitter-devicetree"
+            "type": "github"
         },
         "version": "296b3c294a8bcfca6673296d99f9cd37049b8026"
     },
@@ -756,10 +793,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "jbellerb",
+            "repo": "tree-sitter-dhall",
             "rev": "affb6ee38d629c9296749767ab832d69bb0d9ea8",
             "sha256": "sha256-q9OkKmp0Nor+YkFc8pBVAOoXoWzwjjzg9lBUKAUnjmQ=",
-            "type": "git",
-            "url": "https://github.com/jbellerb/tree-sitter-dhall"
+            "type": "github"
         },
         "version": "affb6ee38d629c9296749767ab832d69bb0d9ea8"
     },
@@ -775,10 +813,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "the-mikedavis",
+            "repo": "tree-sitter-diff",
             "rev": "19dd5aa52fe339a1d974768a09ee2537303e8ca5",
             "sha256": "sha256-pS+xTdJWhb0pmWecmlnQb6PwkAUTG5Sry3Jf7zWseU0=",
-            "type": "git",
-            "url": "https://github.com/the-mikedavis/tree-sitter-diff"
+            "type": "github"
         },
         "version": "19dd5aa52fe339a1d974768a09ee2537303e8ca5"
     },
@@ -794,10 +833,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ColinKennedy",
+            "repo": "tree-sitter-disassembly",
             "rev": "0229c0211dba909c5d45129ac784a3f4d49c243a",
             "sha256": "sha256-IM3HzOhJmbb334PZ8q+r2EMi5Bv/rLoy+llPN0aghr8=",
-            "type": "git",
-            "url": "https://github.com/ColinKennedy/tree-sitter-disassembly"
+            "type": "github"
         },
         "version": "0229c0211dba909c5d45129ac784a3f4d49c243a"
     },
@@ -813,10 +853,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "treeman",
+            "repo": "tree-sitter-djot",
             "rev": "886601b67d1f4690173a4925c214343c30704d32",
             "sha256": "sha256-uh41umECO8mIgML4JV5yz2iaNy6h5uLQWodcXvhI/MM=",
-            "type": "git",
-            "url": "https://github.com/treeman/tree-sitter-djot"
+            "type": "github"
         },
         "version": "886601b67d1f4690173a4925c214343c30704d32"
     },
@@ -832,10 +873,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "camdencheek",
+            "repo": "tree-sitter-dockerfile",
             "rev": "087daa20438a6cc01fa5e6fe6906d77c869d19fe",
             "sha256": "sha256-uDRDq6MYYV8nh6FDsQN3tdyZywEg8A224bfWrgFGvFs=",
-            "type": "git",
-            "url": "https://github.com/camdencheek/tree-sitter-dockerfile"
+            "type": "github"
         },
         "version": "087daa20438a6cc01fa5e6fe6906d77c869d19fe"
     },
@@ -851,10 +893,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "rydesun",
+            "repo": "tree-sitter-dot",
             "rev": "9ab85550c896d8b294d9b9ca1e30698736f08cea",
             "sha256": "sha256-w4DInIT7mkTvQ6Hmi8yaAww6ktyNgRz0tPfBLGnOawQ=",
-            "type": "git",
-            "url": "https://github.com/rydesun/tree-sitter-dot"
+            "type": "github"
         },
         "version": "9ab85550c896d8b294d9b9ca1e30698736f08cea"
     },
@@ -870,10 +913,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-doxygen",
             "rev": "ccd998f378c3f9345ea4eeb223f56d7b84d16687",
             "sha256": "sha256-Yh6FaRvWmeqnSnBgOojWbs1wJaeEoNJlvSEqgzjGh7o=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-doxygen"
+            "type": "github"
         },
         "version": "ccd998f378c3f9345ea4eeb223f56d7b84d16687"
     },
@@ -891,10 +935,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter-grammars",
+            "repo": "tree-sitter-xml",
             "rev": "809266ed1694d64dedc168a18893cc254e3edf7e",
             "sha256": "sha256-Kxmk9v2oTTYtoLQ2n0LyNziouG56ZSgcirS8JukUmZE=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
+            "type": "github"
         },
         "version": "809266ed1694d64dedc168a18893cc254e3edf7e"
     },
@@ -910,10 +955,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "glehmann",
+            "repo": "tree-sitter-earthfile",
             "rev": "b0a9bc5737340a9b80b489fe9ae93d7b2fe78cd7",
             "sha256": "sha256-dIpoLqfIb+vsxe2DszOAKztL+YTDAVGlNccYhYe170U=",
-            "type": "git",
-            "url": "https://github.com/glehmann/tree-sitter-earthfile"
+            "type": "github"
         },
         "version": "b0a9bc5737340a9b80b489fe9ae93d7b2fe78cd7"
     },
@@ -931,10 +977,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "RubixDev",
+            "repo": "ebnf",
             "rev": "8e635b0b723c620774dfb8abf382a7f531894b40",
             "sha256": "sha256-Cch6WCYq9bsWGypzDGapxBLJ0ZB432uAl6YjEjBJ5yg=",
-            "type": "git",
-            "url": "https://github.com/RubixDev/ebnf"
+            "type": "github"
         },
         "version": "8e635b0b723c620774dfb8abf382a7f531894b40"
     },
@@ -950,10 +997,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ValdezFOmar",
+            "repo": "tree-sitter-editorconfig",
             "rev": "faf014c607f912ff666b20183d32a03dcfc3111d",
             "sha256": "sha256-gkbPpwe/FNeZuZEWOxchccWOk1erRMU8jabWoIFl2AY=",
-            "type": "git",
-            "url": "https://github.com/ValdezFOmar/tree-sitter-editorconfig"
+            "type": "github"
         },
         "version": "faf014c607f912ff666b20183d32a03dcfc3111d"
     },
@@ -969,10 +1017,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "uyha",
+            "repo": "tree-sitter-eds",
             "rev": "0ad62cb635c2f4353359a88dec9e3a57bbf9f66d",
             "sha256": "sha256-dbREFx/P6PMHSwoAaEBKSqRolPTFrLDBhMfZKPsvxbc=",
-            "type": "git",
-            "url": "https://github.com/uyha/tree-sitter-eds"
+            "type": "github"
         },
         "version": "0ad62cb635c2f4353359a88dec9e3a57bbf9f66d"
     },
@@ -988,10 +1037,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "connorlay",
+            "repo": "tree-sitter-eex",
             "rev": "f742f2fe327463335e8671a87c0b9b396905d1d1",
             "sha256": "sha256-UPq62MkfGFh9m/UskoB9uBDIYOcotITCJXDyrbg/wKY=",
-            "type": "git",
-            "url": "https://github.com/connorlay/tree-sitter-eex"
+            "type": "github"
         },
         "version": "f742f2fe327463335e8671a87c0b9b396905d1d1"
     },
@@ -1007,10 +1057,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "elixir-lang",
+            "repo": "tree-sitter-elixir",
             "rev": "c7ae8b77e2749826dcf23df6514f08fdd68c66a3",
             "sha256": "sha256-1B3jVMJs1WNU3K7t42mv9Ab85KEaa8vn8zURksNts+E=",
-            "type": "git",
-            "url": "https://github.com/elixir-lang/tree-sitter-elixir"
+            "type": "github"
         },
         "version": "c7ae8b77e2749826dcf23df6514f08fdd68c66a3"
     },
@@ -1026,10 +1077,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "elm-tooling",
+            "repo": "tree-sitter-elm",
             "rev": "09dbf221d7491dc8d8839616b27c21b9c025c457",
             "sha256": "sha256-Bq2oWtqEAsKyV0iHNKC+hXW4fh4yUwbfUhPtZWg5pug=",
-            "type": "git",
-            "url": "https://github.com/elm-tooling/tree-sitter-elm"
+            "type": "github"
         },
         "version": "09dbf221d7491dc8d8839616b27c21b9c025c457"
     },
@@ -1045,10 +1097,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "glapa-grossklag",
+            "repo": "tree-sitter-elsa",
             "rev": "0a66b2b3f3c1915e67ad2ef9f7dbd2a84820d9d7",
             "sha256": "sha256-zahi5hOXzad6R1+mqmYBFfn2X+SejQUIQzbabgCIJ8w=",
-            "type": "git",
-            "url": "https://github.com/glapa-grossklag/tree-sitter-elsa"
+            "type": "github"
         },
         "version": "0a66b2b3f3c1915e67ad2ef9f7dbd2a84820d9d7"
     },
@@ -1064,10 +1117,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "elves",
+            "repo": "tree-sitter-elvish",
             "rev": "5e7210d945425b77f82cbaebc5af4dd3e1ad40f5",
             "sha256": "sha256-POuQA2Ihi+qDYQ5Pv7hBAzHpPu/FcnuYscW4ItDOCZg=",
-            "type": "git",
-            "url": "https://github.com/elves/tree-sitter-elvish"
+            "type": "github"
         },
         "version": "5e7210d945425b77f82cbaebc5af4dd3e1ad40f5"
     },
@@ -1083,10 +1137,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-embedded-template",
             "rev": "ffbf64942c334933ee7982e144557b6efb76d0b9",
             "sha256": "sha256-7P/BiNl2xC9L7aEnlYhnCCUmrn9uQ+nPr+umq6ec43U=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-embedded-template"
+            "type": "github"
         },
         "version": "ffbf64942c334933ee7982e144557b6efb76d0b9"
     },
@@ -1102,10 +1157,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "WhatsApp",
+            "repo": "tree-sitter-erlang",
             "rev": "0b5a0dcfcedd9b397252cb5568cc55ab1905b1a9",
             "sha256": "sha256-eWCL5XGq1AVmxcya1mAeh+IenMw7A/RIUsFF7Udt31I=",
-            "type": "git",
-            "url": "https://github.com/WhatsApp/tree-sitter-erlang"
+            "type": "github"
         },
         "version": "0b5a0dcfcedd9b397252cb5568cc55ab1905b1a9"
     },
@@ -1121,10 +1177,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "FacilityApi",
+            "repo": "tree-sitter-facility",
             "rev": "2d037f2f2bf668737f72e6be6eda4b7918b68d86",
             "sha256": "sha256-NyYymlCPqbi4GA+FI/M5MiQUr6tkJTNPO8Pvcy02lqI=",
-            "type": "git",
-            "url": "https://github.com/FacilityApi/tree-sitter-facility"
+            "type": "github"
         },
         "version": "2d037f2f2bf668737f72e6be6eda4b7918b68d86"
     },
@@ -1140,10 +1197,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "khiner",
+            "repo": "tree-sitter-faust",
             "rev": "f3b9274514b5f9bf6b0dd4a01c30f9cc15c58bc4",
             "sha256": "sha256-JwR8LCEptgQmEG/ruK5ukIGCNtvKJw5bobZ0WXF1ulY=",
-            "type": "git",
-            "url": "https://github.com/khiner/tree-sitter-faust"
+            "type": "github"
         },
         "version": "f3b9274514b5f9bf6b0dd4a01c30f9cc15c58bc4"
     },
@@ -1159,10 +1217,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "alexmozaidze",
+            "repo": "tree-sitter-fennel",
             "rev": "cfbfa478dc2dbef267ee94ae4323d9c886f45e94",
             "sha256": "sha256-0LusII7BPGFQTyEkxZi6h9HUDF0eHvGwA4fiQE2h3YQ=",
-            "type": "git",
-            "url": "https://github.com/alexmozaidze/tree-sitter-fennel"
+            "type": "github"
         },
         "version": "cfbfa478dc2dbef267ee94ae4323d9c886f45e94"
     },
@@ -1178,10 +1237,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "google",
+            "repo": "tree-sitter-fidl",
             "rev": "0a8910f293268e27ff554357c229ba172b0eaed2",
             "sha256": "sha256-QFAkxQo2w/+OR7nZn9ldBk2yHOd23kzciAcQvIZ5hrY=",
-            "type": "git",
-            "url": "https://github.com/google/tree-sitter-fidl"
+            "type": "github"
         },
         "version": "0a8910f293268e27ff554357c229ba172b0eaed2"
     },
@@ -1197,10 +1257,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-firrtl",
             "rev": "8503d3a0fe0f9e427863cb0055699ff2d29ae5f5",
             "sha256": "sha256-I2EMcm6bTMRODmxOOOiv+U0fhm6yoNhjCyuINfTUtlY=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-firrtl"
+            "type": "github"
         },
         "version": "8503d3a0fe0f9e427863cb0055699ff2d29ae5f5"
     },
@@ -1216,10 +1277,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ram02z",
+            "repo": "tree-sitter-fish",
             "rev": "a78aef9abc395c600c38a037ac779afc7e3cc9e0",
             "sha256": "sha256-D7s3ZsHQeGf+pYdbXvi5GMFqbkgajBuqTQwvjnjnrVo=",
-            "type": "git",
-            "url": "https://github.com/ram02z/tree-sitter-fish"
+            "type": "github"
         },
         "version": "a78aef9abc395c600c38a037ac779afc7e3cc9e0"
     },
@@ -1235,10 +1297,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "FoamScience",
+            "repo": "tree-sitter-foam",
             "rev": "04664b40c0dadb7ef37028acf3422c63271d377b",
             "sha256": "sha256-cIeYuYti/rzMivwRU//zzhMXJsTOMBveLK2zB4qRWGI=",
-            "type": "git",
-            "url": "https://github.com/FoamScience/tree-sitter-foam"
+            "type": "github"
         },
         "version": "04664b40c0dadb7ef37028acf3422c63271d377b"
     },
@@ -1254,10 +1317,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "AlexanderBrevig",
+            "repo": "tree-sitter-forth",
             "rev": "90189238385cf636b9ee99ce548b9e5b5e569d48",
             "sha256": "sha256-vySBDu9cMnubu4+7/sBttNxg1S4/MxWUKpjwEa14Rws=",
-            "type": "git",
-            "url": "https://github.com/AlexanderBrevig/tree-sitter-forth"
+            "type": "github"
         },
         "version": "90189238385cf636b9ee99ce548b9e5b5e569d48"
     },
@@ -1273,10 +1337,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "stadelmanma",
+            "repo": "tree-sitter-fortran",
             "rev": "8f842945abefb76b9a68c0835619b37060b8f098",
             "sha256": "sha256-7nVAFWegMr/oShjSLaq9DESvaguPEK/bCCFu0Ru1QPQ=",
-            "type": "git",
-            "url": "https://github.com/stadelmanma/tree-sitter-fortran"
+            "type": "github"
         },
         "version": "8f842945abefb76b9a68c0835619b37060b8f098"
     },
@@ -1292,10 +1357,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "mgramigna",
+            "repo": "tree-sitter-fsh",
             "rev": "fad2e175099a45efbc98f000cc196d3674cc45e0",
             "sha256": "sha256-91r1FCQTocDkhS5Tx0vnFliitMStVzNTpf6BwPyaqVM=",
-            "type": "git",
-            "url": "https://github.com/mgramigna/tree-sitter-fsh"
+            "type": "github"
         },
         "version": "fad2e175099a45efbc98f000cc196d3674cc45e0"
     },
@@ -1311,10 +1377,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-func",
             "rev": "f780ca55e65e7d7360d0229331763e16c452fc98",
             "sha256": "sha256-jM0VJZlfhenAZbhabpgsoRIGny3WSDoimZtwogcvaSI=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-func"
+            "type": "github"
         },
         "version": "f780ca55e65e7d7360d0229331763e16c452fc98"
     },
@@ -1349,10 +1416,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "PrestonKnopp",
+            "repo": "tree-sitter-gdscript",
             "rev": "1f1e782fe2600f50ae57b53876505b8282388d77",
             "sha256": "sha256-HikAZVoOqKRNnEBv/CCqqyt94HbXg2dBq+4GsmUFSIA=",
-            "type": "git",
-            "url": "https://github.com/PrestonKnopp/tree-sitter-gdscript"
+            "type": "github"
         },
         "version": "1f1e782fe2600f50ae57b53876505b8282388d77"
     },
@@ -1368,10 +1436,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "GodOfAvacyn",
+            "repo": "tree-sitter-gdshader",
             "rev": "ffd9f958df13cae04593781d7d2562295a872455",
             "sha256": "sha256-JWlDs0w10TqsPYgZvvaJwAueOciCYaws1Nr8rb0UKy4=",
-            "type": "git",
-            "url": "https://github.com/GodOfAvacyn/tree-sitter-gdshader"
+            "type": "github"
         },
         "version": "ffd9f958df13cae04593781d7d2562295a872455"
     },
@@ -1387,10 +1456,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "the-mikedavis",
+            "repo": "tree-sitter-git-config",
             "rev": "9c2a1b7894e6d9eedfe99805b829b4ecd871375e",
             "sha256": "sha256-O0w0BhhPPwhnKfniAFSPMWfBsZUTrijifAsmFiAncWg=",
-            "type": "git",
-            "url": "https://github.com/the-mikedavis/tree-sitter-git-config"
+            "type": "github"
         },
         "version": "9c2a1b7894e6d9eedfe99805b829b4ecd871375e"
     },
@@ -1406,10 +1476,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "the-mikedavis",
+            "repo": "tree-sitter-git-rebase",
             "rev": "bff4b66b44b020d918d67e2828eada1974a966aa",
             "sha256": "sha256-k4C7dJUkvQxIxcaoVmG2cBs/CeYzVqrip2+2mRvHtZc=",
-            "type": "git",
-            "url": "https://github.com/the-mikedavis/tree-sitter-git-rebase"
+            "type": "github"
         },
         "version": "bff4b66b44b020d918d67e2828eada1974a966aa"
     },
@@ -1425,10 +1496,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ObserverOfTime",
+            "repo": "tree-sitter-gitattributes",
             "rev": "41940e199ba5763abea1d21b4f717014b45f01ea",
             "sha256": "sha256-h9RPFI40C4LxjjKZEKkVCnUjNkh6Tgl74msSTpju7ZY=",
-            "type": "git",
-            "url": "https://github.com/ObserverOfTime/tree-sitter-gitattributes"
+            "type": "github"
         },
         "version": "41940e199ba5763abea1d21b4f717014b45f01ea"
     },
@@ -1444,10 +1516,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "gbprod",
+            "repo": "tree-sitter-gitcommit",
             "rev": "aa5c279287f0895a7ebc76a06e55ac3e4b2df7c7",
             "sha256": "sha256-TjHaogOnerLUvCxEOBkqfc4ZtKmgmpU8vQyDmaDsO3Y=",
-            "type": "git",
-            "url": "https://github.com/gbprod/tree-sitter-gitcommit"
+            "type": "github"
         },
         "version": "aa5c279287f0895a7ebc76a06e55ac3e4b2df7c7"
     },
@@ -1463,10 +1536,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "shunsambongi",
+            "repo": "tree-sitter-gitignore",
             "rev": "f4685bf11ac466dd278449bcfe5fd014e94aa504",
             "sha256": "sha256-MjoY1tlVZgN6JqoTjhhg0zSdHzc8yplMr8824sfIKp8=",
-            "type": "git",
-            "url": "https://github.com/shunsambongi/tree-sitter-gitignore"
+            "type": "github"
         },
         "version": "f4685bf11ac466dd278449bcfe5fd014e94aa504"
     },
@@ -1482,10 +1556,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "gleam-lang",
+            "repo": "tree-sitter-gleam",
             "rev": "426e67087fd62be5f4533581b5916b2cf010fb5b",
             "sha256": "sha256-SI3/gUksiRgUpCabsll6g0mUcm5iiNMTzxlxQxCujpY=",
-            "type": "git",
-            "url": "https://github.com/gleam-lang/tree-sitter-gleam"
+            "type": "github"
         },
         "version": "426e67087fd62be5f4533581b5916b2cf010fb5b"
     },
@@ -1501,10 +1576,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "alexlafroscia",
+            "repo": "tree-sitter-glimmer",
             "rev": "da605af8c5999b43e6839b575eae5e6cafabb06f",
             "sha256": "sha256-2ofCBhp/Trj5ivZpMGFm6dvAGic+w8Tl0osRk+IRLL4=",
-            "type": "git",
-            "url": "https://github.com/alexlafroscia/tree-sitter-glimmer"
+            "type": "github"
         },
         "version": "da605af8c5999b43e6839b575eae5e6cafabb06f"
     },
@@ -1520,10 +1596,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "theHamsta",
+            "repo": "tree-sitter-glsl",
             "rev": "ddc3137a2d775aca93084ff997fa13cc1691058a",
             "sha256": "sha256-q1xL3/4W442z1wjYL0HQNdz4sPZqqEijyLSvECHugXw=",
-            "type": "git",
-            "url": "https://github.com/theHamsta/tree-sitter-glsl"
+            "type": "github"
         },
         "version": "ddc3137a2d775aca93084ff997fa13cc1691058a"
     },
@@ -1539,10 +1616,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-gn",
             "rev": "bc06955bc1e3c9ff8e9b2b2a55b38b94da923c05",
             "sha256": "sha256-Sn6He4YRrKJe4QvGiaauquYBVQol0lWeIuOwkdUEzkQ=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-gn"
+            "type": "github"
         },
         "version": "bc06955bc1e3c9ff8e9b2b2a55b38b94da923c05"
     },
@@ -1558,10 +1636,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "dpezto",
+            "repo": "tree-sitter-gnuplot",
             "rev": "3c895f5d9c0b3a3c7e02383766b462c21913c000",
             "sha256": "sha256-szpXAHOcQjdk9mN87V69Jjdgj0aP/q7uRVza0yaK/uw=",
-            "type": "git",
-            "url": "https://github.com/dpezto/tree-sitter-gnuplot"
+            "type": "github"
         },
         "version": "3c895f5d9c0b3a3c7e02383766b462c21913c000"
     },
@@ -1577,10 +1656,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-go",
             "rev": "6204b7308a32e991a8daed2e9895a90be55a510a",
             "sha256": "sha256-SHfO1KqBsb5PdwaK1F1+/Dyww1zwlb4GMbMgxYmklp8=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-go"
+            "type": "github"
         },
         "version": "6204b7308a32e991a8daed2e9895a90be55a510a"
     },
@@ -1596,10 +1676,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "chaozwn",
+            "repo": "tree-sitter-goctl",
             "rev": "49c43532689fe1f53e8b9e009d0521cab02c432b",
             "sha256": "sha256-HYPj95Kg+C5Ax++Z83yUnhrf2iIVTuwOBhVVLlYQaGs=",
-            "type": "git",
-            "url": "https://github.com/chaozwn/tree-sitter-goctl"
+            "type": "github"
         },
         "version": "49c43532689fe1f53e8b9e009d0521cab02c432b"
     },
@@ -1615,10 +1696,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "PrestonKnopp",
+            "repo": "tree-sitter-godot-resource",
             "rev": "2ffb90de47417018651fc3b970e5f6b67214dc9d",
             "sha256": "sha256-wdxCfG48fzswUg4q2pgI4q7jK7ZimpKo4+dRnZsZJ6U=",
-            "type": "git",
-            "url": "https://github.com/PrestonKnopp/tree-sitter-godot-resource"
+            "type": "github"
         },
         "version": "2ffb90de47417018651fc3b970e5f6b67214dc9d"
     },
@@ -1634,10 +1716,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "camdencheek",
+            "repo": "tree-sitter-go-mod",
             "rev": "1f55029bacd0a6a11f6eb894c4312d429dcf735c",
             "sha256": "sha256-/sjC117YAFniFws4F/8+Q5Wrd4l4v4nBUaO9IdkixSE=",
-            "type": "git",
-            "url": "https://github.com/camdencheek/tree-sitter-go-mod"
+            "type": "github"
         },
         "version": "1f55029bacd0a6a11f6eb894c4312d429dcf735c"
     },
@@ -1653,10 +1736,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-go-sum",
             "rev": "e2ac513b2240c7ff1069ae33b2df29ce90777c11",
             "sha256": "sha256-2foA2sd5PQpmeX8OhXrW/dxoJaEyxDXzPWh+UD0dgzQ=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-go-sum"
+            "type": "github"
         },
         "version": "e2ac513b2240c7ff1069ae33b2df29ce90777c11"
     },
@@ -1672,10 +1756,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ngalaiko",
+            "repo": "tree-sitter-go-template",
             "rev": "fd9e1c6647e5e9b23918d00d1e48710d0f703e19",
             "sha256": "sha256-DGeaKT1uqvXiYwL4g5kZNX6f5TwLPbb5qbhI4amdl98=",
-            "type": "git",
-            "url": "https://github.com/ngalaiko/tree-sitter-go-template"
+            "type": "github"
         },
         "version": "fd9e1c6647e5e9b23918d00d1e48710d0f703e19"
     },
@@ -1691,10 +1776,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "omertuc",
+            "repo": "tree-sitter-go-work",
             "rev": "949a8a470559543857a62102c84700d291fc984c",
             "sha256": "sha256-Tode7W05xaOKKD5QOp3rayFgLEOiMJUeGpVsIrizxto=",
-            "type": "git",
-            "url": "https://github.com/omertuc/tree-sitter-go-work"
+            "type": "github"
         },
         "version": "949a8a470559543857a62102c84700d291fc984c"
     },
@@ -1710,10 +1796,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ObserverOfTime",
+            "repo": "tree-sitter-gpg-config",
             "rev": "f99323fb8f3f10b6c69db0c2f6d0a14bd7330675",
             "sha256": "sha256-VJXXpHVMKUNaslsjoKR6XsaUJ8C+0MyidXtRPRywnpg=",
-            "type": "git",
-            "url": "https://github.com/ObserverOfTime/tree-sitter-gpg-config"
+            "type": "github"
         },
         "version": "f99323fb8f3f10b6c69db0c2f6d0a14bd7330675"
     },
@@ -1729,10 +1816,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "bkegley",
+            "repo": "tree-sitter-graphql",
             "rev": "5e66e961eee421786bdda8495ed1db045e06b5fe",
             "sha256": "sha256-NvE9Rpdp4sALqKSRWJpqxwl6obmqnIIdvrL1nK5peXc=",
-            "type": "git",
-            "url": "https://github.com/bkegley/tree-sitter-graphql"
+            "type": "github"
         },
         "version": "5e66e961eee421786bdda8495ed1db045e06b5fe"
     },
@@ -1748,10 +1836,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "murtaza64",
+            "repo": "tree-sitter-groovy",
             "rev": "171b3b7412bc93284fc0dad0a7a7bbbbd1b51289",
             "sha256": "sha256-7DCBeN3swG+0EvA1wFewzF9gXfx9Sq2g+X7K4MH/a6A=",
-            "type": "git",
-            "url": "https://github.com/murtaza64/tree-sitter-groovy"
+            "type": "github"
         },
         "version": "171b3b7412bc93284fc0dad0a7a7bbbbd1b51289"
     },
@@ -1767,10 +1856,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "theHamsta",
+            "repo": "tree-sitter-gstlaunch",
             "rev": "549aef253fd38a53995cda1bf55c501174372bf7",
             "sha256": "sha256-zNUx/9dxEqyqTXCxEiNnYPzplnR7l9b2L4frYpPOA9M=",
-            "type": "git",
-            "url": "https://github.com/theHamsta/tree-sitter-gstlaunch"
+            "type": "github"
         },
         "version": "549aef253fd38a53995cda1bf55c501174372bf7"
     },
@@ -1786,10 +1876,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "slackhq",
+            "repo": "tree-sitter-hack",
             "rev": "fca1e294f6dce8ec5659233a6a21f5bd0ed5b4f2",
             "sha256": "sha256-XTcsqCvlwbAAi7/TXrYX8wT56Ie+0OW5+eNRMH7XNyk=",
-            "type": "git",
-            "url": "https://github.com/slackhq/tree-sitter-hack"
+            "type": "github"
         },
         "version": "fca1e294f6dce8ec5659233a6a21f5bd0ed5b4f2"
     },
@@ -1805,10 +1896,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-hare",
             "rev": "4af5d82cf9ec39f67cb1db5b7a9269d337406592",
             "sha256": "sha256-QEnE5IQJ60PXb6QjgEE5L4p7Fjy0p+N+dyDTMh3YsRg=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-hare"
+            "type": "github"
         },
         "version": "4af5d82cf9ec39f67cb1db5b7a9269d337406592"
     },
@@ -1824,10 +1916,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-haskell",
             "rev": "a50070d5bb5bd5c1281740a6102ecf1f4b0c4f19",
             "sha256": "sha256-huO0Ly9JYQbT64o/AjdZrE9vghQ5vT+/iQl50o4TJ0I=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-haskell"
+            "type": "github"
         },
         "version": "a50070d5bb5bd5c1281740a6102ecf1f4b0c4f19"
     },
@@ -1843,10 +1936,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "MercuryTechnologies",
+            "repo": "tree-sitter-haskell-persistent",
             "rev": "577259b4068b2c281c9ebf94c109bd50a74d5857",
             "sha256": "sha256-ASdkBQ57GfpLF8NXgDzJMB/Marz9p1q03TZkwMgF/eQ=",
-            "type": "git",
-            "url": "https://github.com/MercuryTechnologies/tree-sitter-haskell-persistent"
+            "type": "github"
         },
         "version": "577259b4068b2c281c9ebf94c109bd50a74d5857"
     },
@@ -1862,10 +1956,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "MichaHoffmann",
+            "repo": "tree-sitter-hcl",
             "rev": "9e3ec9848f28d26845ba300fd73c740459b83e9b",
             "sha256": "sha256-HM77BXavgP+H3XwHSqRdLlylmkH+idtuZqLeOV2VUiM=",
-            "type": "git",
-            "url": "https://github.com/MichaHoffmann/tree-sitter-hcl"
+            "type": "github"
         },
         "version": "9e3ec9848f28d26845ba300fd73c740459b83e9b"
     },
@@ -1881,10 +1976,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "connorlay",
+            "repo": "tree-sitter-heex",
             "rev": "6dd0303acf7138dd2b9b432a229e16539581c701",
             "sha256": "sha256-VakMZtWQ/h7dNy5ehk2Bh14a5s878AUgwY3Ipq8tPec=",
-            "type": "git",
-            "url": "https://github.com/connorlay/tree-sitter-heex"
+            "type": "github"
         },
         "version": "6dd0303acf7138dd2b9b432a229e16539581c701"
     },
@@ -1902,10 +1998,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ngalaiko",
+            "repo": "tree-sitter-go-template",
             "rev": "fd9e1c6647e5e9b23918d00d1e48710d0f703e19",
             "sha256": "sha256-DGeaKT1uqvXiYwL4g5kZNX6f5TwLPbb5qbhI4amdl98=",
-            "type": "git",
-            "url": "https://github.com/ngalaiko/tree-sitter-go-template"
+            "type": "github"
         },
         "version": "fd9e1c6647e5e9b23918d00d1e48710d0f703e19"
     },
@@ -1921,10 +2018,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "winston0410",
+            "repo": "tree-sitter-hjson",
             "rev": "02fa3b79b3ff9a296066da6277adfc3f26cbc9e0",
             "sha256": "sha256-NsTf3DR3gHVMYZDmTNvThB5bJcDwTcJ1+3eJhvsiDn8=",
-            "type": "git",
-            "url": "https://github.com/winston0410/tree-sitter-hjson"
+            "type": "github"
         },
         "version": "02fa3b79b3ff9a296066da6277adfc3f26cbc9e0"
     },
@@ -1940,10 +2038,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "theHamsta",
+            "repo": "tree-sitter-hlsl",
             "rev": "5d788a46727c8199a7c63a3c849092e0364375b6",
             "sha256": "sha256-XFwIClPDa/BGQC0PtuDCqZ1H3Ndwn1KqQVweq7oZ7P8=",
-            "type": "git",
-            "url": "https://github.com/theHamsta/tree-sitter-hlsl"
+            "type": "github"
         },
         "version": "5d788a46727c8199a7c63a3c849092e0364375b6"
     },
@@ -1959,10 +2058,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Freed-Wu",
+            "repo": "tree-sitter-hlsplaylist",
             "rev": "3bfda9271e3adb08d35f47a2102fe957009e1c55",
             "sha256": "sha256-BvLT+BbnJgM14a896p39dywYy/4S45xOBtBukYTbW6E=",
-            "type": "git",
-            "url": "https://github.com/Freed-Wu/tree-sitter-hlsplaylist"
+            "type": "github"
         },
         "version": "3bfda9271e3adb08d35f47a2102fe957009e1c55"
     },
@@ -1978,10 +2078,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "antosha417",
+            "repo": "tree-sitter-hocon",
             "rev": "c390f10519ae69fdb03b3e5764f5592fb6924bcc",
             "sha256": "sha256-9Zo3YYoo9mJ4Buyj7ofSrlZURrwstBo0vgzeTq1jMGw=",
-            "type": "git",
-            "url": "https://github.com/antosha417/tree-sitter-hocon"
+            "type": "github"
         },
         "version": "c390f10519ae69fdb03b3e5764f5592fb6924bcc"
     },
@@ -1997,10 +2098,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "urbit-pilled",
+            "repo": "tree-sitter-hoon",
             "rev": "a24c5a39d1d7e993a8bee913c8e8b6a652ca5ae8",
             "sha256": "sha256-jBKgZaZpm81ufN32sRNsCRtZhI5m057J+UY1uQdZK3E=",
-            "type": "git",
-            "url": "https://github.com/urbit-pilled/tree-sitter-hoon"
+            "type": "github"
         },
         "version": "a24c5a39d1d7e993a8bee913c8e8b6a652ca5ae8"
     },
@@ -2016,10 +2118,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-html",
             "rev": "d11201a263d02169d303db903ba0bb13dc59e068",
             "sha256": "sha256-q0PCv0iA51psg7j0g+Z18gDEpkaiwb92CJ05FE+tXl8=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-html"
+            "type": "github"
         },
         "version": "d11201a263d02169d303db903ba0bb13dc59e068"
     },
@@ -2035,16 +2138,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "interdependence",
+            "repo": "tree-sitter-htmldjango",
             "rev": "ea71012d3fe14dd0b69f36be4f96bdfe9155ebae",
             "sha256": "sha256-z4PqUbUXOtqOyPYl2h+bWA0maZJqZd5aZB75og+Ye6A=",
-            "type": "git",
-            "url": "https://github.com/interdependence/tree-sitter-htmldjango"
+            "type": "github"
         },
         "version": "ea71012d3fe14dd0b69f36be4f96bdfe9155ebae"
     },
     "treesitter-grammar-http": {
         "cargoLocks": null,
-        "date": "2024-08-30",
+        "date": "2024-08-31",
         "extract": null,
         "name": "treesitter-grammar-http",
         "passthru": null,
@@ -2054,12 +2158,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f6c917439c41ba97e00827cd748cdefd4851203b",
-            "sha256": "sha256-VPNxhMuyRj75XePYzwqB6EkeyuyiqkGksUalCqB/JFU=",
-            "type": "git",
-            "url": "https://github.com/rest-nvim/tree-sitter-http"
+            "owner": "rest-nvim",
+            "repo": "tree-sitter-http",
+            "rev": "49e1ceefcdcf89abfd4d8f013359cf90c615b1cd",
+            "sha256": "sha256-iMeN3eVaE+Qhlvv1jj/K7WV1bDGz8skyzFPEaapzZPQ=",
+            "type": "github"
         },
-        "version": "f6c917439c41ba97e00827cd748cdefd4851203b"
+        "version": "49e1ceefcdcf89abfd4d8f013359cf90c615b1cd"
     },
     "treesitter-grammar-hurl": {
         "cargoLocks": null,
@@ -2073,10 +2178,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "pfeiferj",
+            "repo": "tree-sitter-hurl",
             "rev": "fba6ed8db3a009b9e7d656511931b181a3ee5b08",
             "sha256": "sha256-JWFEk1R19YIeDNm3LkBmdL+mmfhtBDhHfg6GESwruU0=",
-            "type": "git",
-            "url": "https://github.com/pfeiferj/tree-sitter-hurl"
+            "type": "github"
         },
         "version": "fba6ed8db3a009b9e7d656511931b181a3ee5b08"
     },
@@ -2092,10 +2198,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "luckasRanarison",
+            "repo": "tree-sitter-hyprlang",
             "rev": "6858695eba0e63b9e0fceef081d291eb352abce8",
             "sha256": "sha256-5csAj7k03QEEfkZE/EBmGjqUHPlFss3EWvExT4kaiQg=",
-            "type": "git",
-            "url": "https://github.com/luckasRanarison/tree-sitter-hyprlang"
+            "type": "github"
         },
         "version": "6858695eba0e63b9e0fceef081d291eb352abce8"
     },
@@ -2111,10 +2218,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "cathaysia",
+            "repo": "tree-sitter-idl",
             "rev": "5573b295410201ed22771776b34d636900eba368",
             "sha256": "sha256-Pf9Wtmza6bKQsZ54EzVhSnUFkEcHuTgPGNZuH8jh42o=",
-            "type": "git",
-            "url": "https://github.com/cathaysia/tree-sitter-idl"
+            "type": "github"
         },
         "version": "5573b295410201ed22771776b34d636900eba368"
     },
@@ -2130,10 +2238,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "justinmk",
+            "repo": "tree-sitter-ini",
             "rev": "fc37e95b8d9651c60d81cccbcbbc55867dbb0afd",
             "sha256": "sha256-FTs1O87hS30wMYnZ7qwKRnv36wepMAEX7MmvR/leZOw=",
-            "type": "git",
-            "url": "https://github.com/justinmk/tree-sitter-ini"
+            "type": "github"
         },
         "version": "fc37e95b8d9651c60d81cccbcbbc55867dbb0afd"
     },
@@ -2149,10 +2258,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "inko-lang",
+            "repo": "tree-sitter-inko",
             "rev": "234c87be1dac20f766ddf6f486a7bde2a4bc5594",
             "sha256": "sha256-7BADt6NjH9chOzCDtJSLjBZaRqeLvOH006q0hI4pZaI=",
-            "type": "git",
-            "url": "https://github.com/inko-lang/tree-sitter-inko"
+            "type": "github"
         },
         "version": "234c87be1dac20f766ddf6f486a7bde2a4bc5594"
     },
@@ -2168,10 +2278,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "fab4100",
+            "repo": "tree-sitter-ispc",
             "rev": "9b2f9aec2106b94b4e099fe75e73ebd8ae707c04",
             "sha256": "sha256-vxe+g7o0gXgB4GjhjkxqLqcLL2+8wqMB3tm1xQFSitI=",
-            "type": "git",
-            "url": "https://github.com/fab4100/tree-sitter-ispc"
+            "type": "github"
         },
         "version": "9b2f9aec2106b94b4e099fe75e73ebd8ae707c04"
     },
@@ -2187,10 +2298,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "sogaiu",
+            "repo": "tree-sitter-janet-simple",
             "rev": "12bfab7db8a5f5b1d774ef84b5831acd34936071",
             "sha256": "sha256-ndxhGmfz0wYxsOeBJv/OJndj3pORQoWpRTfBuMcprhU=",
-            "type": "git",
-            "url": "https://github.com/sogaiu/tree-sitter-janet-simple"
+            "type": "github"
         },
         "version": "12bfab7db8a5f5b1d774ef84b5831acd34936071"
     },
@@ -2206,10 +2318,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-java",
             "rev": "576d8097e495b411f31daaee28cb34c1752ac702",
             "sha256": "sha256-b1DzJrzTywoesxeGf5YSBdtUNBxoKN+Ljo1sv4Arl5I=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-java"
+            "type": "github"
         },
         "version": "576d8097e495b411f31daaee28cb34c1752ac702"
     },
@@ -2225,10 +2338,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-javascript",
             "rev": "15887341e5b57ffdb423aff840aef142b8f53d6d",
             "sha256": "sha256-yinPp1pItrNpK3RhSPZ+ED0Dr5g3OM78kuBWr0Q47x0=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-javascript"
+            "type": "github"
         },
         "version": "15887341e5b57ffdb423aff840aef142b8f53d6d"
     },
@@ -2244,10 +2358,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "flurie",
+            "repo": "tree-sitter-jq",
             "rev": "13990f530e8e6709b7978503da9bc8701d366791",
             "sha256": "sha256-pek2Vg1osMYAdx6DfVdZhuIDb26op3i2cfvMrf5v3xY=",
-            "type": "git",
-            "url": "https://github.com/flurie/tree-sitter-jq"
+            "type": "github"
         },
         "version": "13990f530e8e6709b7978503da9bc8701d366791"
     },
@@ -2263,10 +2378,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-jsdoc",
             "rev": "49fde205b59a1d9792efc21ee0b6d50bbd35ff14",
             "sha256": "sha256-Mfau8071UiotdSS+/W9kQWhKF7BCRI8WtRxss/U0GQw=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-jsdoc"
+            "type": "github"
         },
         "version": "49fde205b59a1d9792efc21ee0b6d50bbd35ff14"
     },
@@ -2282,10 +2398,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-json",
             "rev": "bdd69eb8c8a58a9f54df03de0488d9990179be46",
             "sha256": "sha256-unvOZlcZq7T4RXFNsBT8gXw2CXVWhTWYTHVykT/Hck0=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-json"
+            "type": "github"
         },
         "version": "bdd69eb8c8a58a9f54df03de0488d9990179be46"
     },
@@ -2301,10 +2418,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Joakker",
+            "repo": "tree-sitter-json5",
             "rev": "ab0ba8229d639ec4f3fa5f674c9133477f4b77bd",
             "sha256": "sha256-LaCCjvYnmofOVQ2Nqlzfh3KP3fNG0HBxkOng0gjYY1g=",
-            "type": "git",
-            "url": "https://github.com/Joakker/tree-sitter-json5"
+            "type": "github"
         },
         "version": "ab0ba8229d639ec4f3fa5f674c9133477f4b77bd"
     },
@@ -2339,10 +2457,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "sourcegraph",
+            "repo": "tree-sitter-jsonnet",
             "rev": "ddd075f1939aed8147b7aa67f042eda3fce22790",
             "sha256": "sha256-ODGRkirfUG8DqV6ZcGRjKeCyEtsU0r+ICK0kCG6Xza0=",
-            "type": "git",
-            "url": "https://github.com/sourcegraph/tree-sitter-jsonnet"
+            "type": "github"
         },
         "version": "ddd075f1939aed8147b7aa67f042eda3fce22790"
     },
@@ -2358,10 +2477,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-julia",
             "rev": "a528de39923448e6b809a6b9f686f3472728f202",
             "sha256": "sha256-sJ1f0889tKUEhU3YNneaG4JxEum0O6GfTX1pGee7sFI=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-julia"
+            "type": "github"
         },
         "version": "a528de39923448e6b809a6b9f686f3472728f202"
     },
@@ -2377,10 +2497,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "IndianBoy42",
+            "repo": "tree-sitter-just",
             "rev": "6648ac1c0cdadaec8ee8bcf9a4ca6ace5102cf21",
             "sha256": "sha256-EVISh9r+aJ6Og1UN8bGCLk4kVjS/cEOYyhqHF40ztqg=",
-            "type": "git",
-            "url": "https://github.com/IndianBoy42/tree-sitter-just"
+            "type": "github"
         },
         "version": "6648ac1c0cdadaec8ee8bcf9a4ca6ace5102cf21"
     },
@@ -2396,10 +2517,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-kconfig",
             "rev": "486fea71f61ad9f3fd4072a118402e97fe88d26c",
             "sha256": "sha256-a3uTjtA4KQ8KxEmpva2oHcqp8EwbI5+h9U+qoPSgDd4=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-kconfig"
+            "type": "github"
         },
         "version": "486fea71f61ad9f3fd4072a118402e97fe88d26c"
     },
@@ -2415,10 +2537,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-kdl",
             "rev": "b37e3d58e5c5cf8d739b315d6114e02d42e66664",
             "sha256": "sha256-irx8aMEdZG2WcQVE2c7ahwLjqEoUAOOjvhDDk69a6lE=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-kdl"
+            "type": "github"
         },
         "version": "b37e3d58e5c5cf8d739b315d6114e02d42e66664"
     },
@@ -2434,10 +2557,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "fwcd",
+            "repo": "tree-sitter-kotlin",
             "rev": "7276b93ca6754c21f9630757e753f1b6aec500c1",
             "sha256": "sha256-SmyIjVJHcXDwlKI4ebUaN3KpvPTDo/M725BcfC43x9o=",
-            "type": "git",
-            "url": "https://github.com/fwcd/tree-sitter-kotlin"
+            "type": "github"
         },
         "version": "7276b93ca6754c21f9630757e753f1b6aec500c1"
     },
@@ -2453,10 +2577,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "koto-lang",
+            "repo": "tree-sitter-koto",
             "rev": "d4109879ba1387d19095269a7473bd7d274ab848",
             "sha256": "sha256-PKbxUSlLHBQBhOzQpaGpP24zmfxjRD9rO5I4OIeeL4g=",
-            "type": "git",
-            "url": "https://github.com/koto-lang/tree-sitter-koto"
+            "type": "github"
         },
         "version": "d4109879ba1387d19095269a7473bd7d274ab848"
     },
@@ -2472,10 +2597,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Willem-J-an",
+            "repo": "tree-sitter-kusto",
             "rev": "8353a1296607d6ba33db7c7e312226e5fc83e8ce",
             "sha256": "sha256-CZCvgOtHjCgyzKFdys+ZvSWCj1I1/b2MnaJcdAtm2aY=",
-            "type": "git",
-            "url": "https://github.com/Willem-J-an/tree-sitter-kusto"
+            "type": "github"
         },
         "version": "8353a1296607d6ba33db7c7e312226e5fc83e8ce"
     },
@@ -2491,10 +2617,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "traxys",
+            "repo": "tree-sitter-lalrpop",
             "rev": "854a40e99f7c70258e522bdb8ab584ede6196e2e",
             "sha256": "sha256-rVWmYF26DbPHoNRBv9FKEeacSbgw93PHy/wrQDGzlWk=",
-            "type": "git",
-            "url": "https://github.com/traxys/tree-sitter-lalrpop"
+            "type": "github"
         },
         "version": "854a40e99f7c70258e522bdb8ab584ede6196e2e"
     },
@@ -2512,10 +2639,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "latex-lsp",
+            "repo": "tree-sitter-latex",
             "rev": "90fd9894bebddce79f5b8041e7f82523364a619b",
             "sha256": "sha256-+wUGNYpw2udCrF4+qMD/4TAPkBCB7q/49Qx/k/FQa3U=",
-            "type": "git",
-            "url": "https://github.com/latex-lsp/tree-sitter-latex"
+            "type": "github"
         },
         "version": "90fd9894bebddce79f5b8041e7f82523364a619b"
     },
@@ -2531,10 +2659,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "cbarrete",
+            "repo": "tree-sitter-ledger",
             "rev": "8a841fb20ce683bfbb3469e6ba67f2851cfdf94a",
             "sha256": "sha256-BDMmRRqJXZTgK3yHX+yqgWHGpsMLqzTcQxFYaAWxroo=",
-            "type": "git",
-            "url": "https://github.com/cbarrete/tree-sitter-ledger"
+            "type": "github"
         },
         "version": "8a841fb20ce683bfbb3469e6ba67f2851cfdf94a"
     },
@@ -2550,10 +2679,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "r001",
+            "repo": "tree-sitter-leo",
             "rev": "6ca11a96fc2cab51217e0cf4a2f9ed3ea63e28fb",
             "sha256": "sha256-ye2zzLNZC2ZJqnXtBl7fdSC78kph3rs7j4whIdfDYAE=",
-            "type": "git",
-            "url": "https://github.com/r001/tree-sitter-leo"
+            "type": "github"
         },
         "version": "6ca11a96fc2cab51217e0cf4a2f9ed3ea63e28fb"
     },
@@ -2569,10 +2699,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-linkerscript",
             "rev": "f99011a3554213b654985a4b0a65b3b032ec4621",
             "sha256": "sha256-Do8MIcl5DJo00V4wqIbdVC0to+2YYwfy08QWqSLMkQA=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-linkerscript"
+            "type": "github"
         },
         "version": "f99011a3554213b654985a4b0a65b3b032ec4621"
     },
@@ -2588,10 +2719,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "hankthetank27",
+            "repo": "tree-sitter-liquid",
             "rev": "4c19cc5b2b408de590f83497a90cc941ed59ea06",
             "sha256": "sha256-ie71X3GWFwRXhZJCbiFHWljP3llgxF40HxSTbU0TqQE=",
-            "type": "git",
-            "url": "https://github.com/hankthetank27/tree-sitter-liquid"
+            "type": "github"
         },
         "version": "4c19cc5b2b408de590f83497a90cc941ed59ea06"
     },
@@ -2607,10 +2739,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "savonet",
+            "repo": "tree-sitter-liquidsoap",
             "rev": "14feafa91630afb1ab9988cf9b738b7ea29f3f89",
             "sha256": "sha256-FERYGF9D163b6S/YBwHwkrUM2qRkEKOViSDRa61OjtQ=",
-            "type": "git",
-            "url": "https://github.com/savonet/tree-sitter-liquidsoap"
+            "type": "github"
         },
         "version": "14feafa91630afb1ab9988cf9b738b7ea29f3f89"
     },
@@ -2626,10 +2759,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "benwilliamgraham",
+            "repo": "tree-sitter-llvm",
             "rev": "1b96e58faf558ce057d4dc664b904528aee743cb",
             "sha256": "sha256-9OCiD7Hotl7EYoggX0lArwFvK2OZisBUsX7xv8+Ig+o=",
-            "type": "git",
-            "url": "https://github.com/benwilliamgraham/tree-sitter-llvm"
+            "type": "github"
         },
         "version": "1b96e58faf558ce057d4dc664b904528aee743cb"
     },
@@ -2645,10 +2779,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "MunifTanjim",
+            "repo": "tree-sitter-lua",
             "rev": "a24dab177e58c9c6832f96b9a73102a0cfbced4a",
             "sha256": "sha256-uFaEptW4wPrqgHfB1mYmVltf+4no61L2cPgpsr5qBIU=",
-            "type": "git",
-            "url": "https://github.com/MunifTanjim/tree-sitter-lua"
+            "type": "github"
         },
         "version": "a24dab177e58c9c6832f96b9a73102a0cfbced4a"
     },
@@ -2664,10 +2799,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-luadoc",
             "rev": "873612aadd3f684dd4e631bdf42ea8990c57634e",
             "sha256": "sha256-ttGBB9sn+xd9jWzjNAzpo/lwYVYZGSUGEip4K3PfBP0=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-luadoc"
+            "type": "github"
         },
         "version": "873612aadd3f684dd4e631bdf42ea8990c57634e"
     },
@@ -2683,10 +2819,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-luap",
             "rev": "c134aaec6acf4fa95fe4aa0dc9aba3eacdbbe55a",
             "sha256": "sha256-4mMUHBsdK4U4uhh8GpKlG3p/s3ZCcLX1qATPyTD4Xhg=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-luap"
+            "type": "github"
         },
         "version": "c134aaec6acf4fa95fe4aa0dc9aba3eacdbbe55a"
     },
@@ -2702,10 +2839,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-luau",
             "rev": "fbadc96272f718dba267628ba7b0e694c368cef3",
             "sha256": "sha256-qoKLG9hPyvcpDEssSrsUnr+w6B8qvXXIXLdvoCZhjic=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-luau"
+            "type": "github"
         },
         "version": "fbadc96272f718dba267628ba7b0e694c368cef3"
     },
@@ -2721,10 +2859,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "grahambates",
+            "repo": "tree-sitter-m68k",
             "rev": "e128454c2210c0e0c10b68fe45ddb8fee80182a3",
             "sha256": "sha256-g7SZ/TrTaaeGDNOqId4eom9R/5gOyXcmmhWY4WW0fF4=",
-            "type": "git",
-            "url": "https://github.com/grahambates/tree-sitter-m68k"
+            "type": "github"
         },
         "version": "e128454c2210c0e0c10b68fe45ddb8fee80182a3"
     },
@@ -2740,10 +2879,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "alemuller",
+            "repo": "tree-sitter-make",
             "rev": "a4b9187417d6be349ee5fd4b6e77b4172c6827dd",
             "sha256": "sha256-qQqapnKKH5X8rkxbZG5PjnyxvnpyZHpFVi/CLkIn/x0=",
-            "type": "git",
-            "url": "https://github.com/alemuller/tree-sitter-make"
+            "type": "github"
         },
         "version": "a4b9187417d6be349ee5fd4b6e77b4172c6827dd"
     },
@@ -2761,10 +2901,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "MDeiml",
+            "repo": "tree-sitter-markdown",
             "rev": "7fe453beacecf02c86f7736439f238f5bb8b5c9b",
             "sha256": "sha256-Ai8w5fVtN6NofEGG3VQNd8pNPVijYw6nDzrhedKMOe4=",
-            "type": "git",
-            "url": "https://github.com/MDeiml/tree-sitter-markdown"
+            "type": "github"
         },
         "version": "7fe453beacecf02c86f7736439f238f5bb8b5c9b"
     },
@@ -2782,10 +2923,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "MDeiml",
+            "repo": "tree-sitter-markdown",
             "rev": "7fe453beacecf02c86f7736439f238f5bb8b5c9b",
             "sha256": "sha256-Ai8w5fVtN6NofEGG3VQNd8pNPVijYw6nDzrhedKMOe4=",
-            "type": "git",
-            "url": "https://github.com/MDeiml/tree-sitter-markdown"
+            "type": "github"
         },
         "version": "7fe453beacecf02c86f7736439f238f5bb8b5c9b"
     },
@@ -2801,10 +2943,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "acristoffers",
+            "repo": "tree-sitter-matlab",
             "rev": "306c43ab28b7b8a4976e40ff0a7c26b019ad52df",
             "sha256": "sha256-hueZg7hoZb11+ukrZgK1+da0w9J22jsj1BexlF4USXY=",
-            "type": "git",
-            "url": "https://github.com/acristoffers/tree-sitter-matlab"
+            "type": "github"
         },
         "version": "306c43ab28b7b8a4976e40ff0a7c26b019ad52df"
     },
@@ -2820,10 +2963,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Kerl13",
+            "repo": "tree-sitter-menhir",
             "rev": "be8866a6bcc2b563ab0de895af69daeffa88fe70",
             "sha256": "sha256-CQVEQurf8Ur5xnz+g7e1nck0a32o4oeMOT78thjx8MQ=",
-            "type": "git",
-            "url": "https://github.com/Kerl13/tree-sitter-menhir"
+            "type": "github"
         },
         "version": "be8866a6bcc2b563ab0de895af69daeffa88fe70"
     },
@@ -2839,10 +2983,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "monaqa",
+            "repo": "tree-sitter-mermaid",
             "rev": "90ae195b31933ceb9d079abfa8a3ad0a36fee4cc",
             "sha256": "sha256-Tt1bPqpL59FQzuI8CPljBmQoAfJPUkVC9Xe1GcfXzfE=",
-            "type": "git",
-            "url": "https://github.com/monaqa/tree-sitter-mermaid"
+            "type": "github"
         },
         "version": "90ae195b31933ceb9d079abfa8a3ad0a36fee4cc"
     },
@@ -2858,10 +3003,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Decodetalkers",
+            "repo": "tree-sitter-meson",
             "rev": "bd17c824196ce70800f64ad39cfddd1b17acc13f",
             "sha256": "sha256-+RqhCA+WoE2Lnk9vGiAYcdvl+ovxX5kaJhQ8m9H/fvo=",
-            "type": "git",
-            "url": "https://github.com/Decodetalkers/tree-sitter-meson"
+            "type": "github"
         },
         "version": "bd17c824196ce70800f64ad39cfddd1b17acc13f"
     },
@@ -2879,10 +3025,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "artagnon",
+            "repo": "tree-sitter-mlir",
             "rev": "02af5a1a1cfa69a094e3136b10dfb602f968232e",
             "sha256": "sha256-zCv47UvUIzdoJwQwKMrFyR1eMdU6ScSGfODdXomBapY=",
-            "type": "git",
-            "url": "https://github.com/artagnon/tree-sitter-mlir"
+            "type": "github"
         },
         "version": "02af5a1a1cfa69a094e3136b10dfb602f968232e"
     },
@@ -2898,10 +3045,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "neomutt",
+            "repo": "tree-sitter-muttrc",
             "rev": "173b0ab53a9c07962c9777189c4c70e90f1c1837",
             "sha256": "sha256-zma/oyMFI+r+/616yXV9b4ptC1FNYpHlpqY/Fez++n0=",
-            "type": "git",
-            "url": "https://github.com/neomutt/tree-sitter-muttrc"
+            "type": "github"
         },
         "version": "173b0ab53a9c07962c9777189c4c70e90f1c1837"
     },
@@ -2917,10 +3065,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "naclsn",
+            "repo": "tree-sitter-nasm",
             "rev": "570f3d7be01fffc751237f4cfcf52d04e20532d1",
             "sha256": "sha256-205joaeq4ZSyfgxagPQTsx0zpZwSEpq1VCQoHJ77OL8=",
-            "type": "git",
-            "url": "https://github.com/naclsn/tree-sitter-nasm"
+            "type": "github"
         },
         "version": "570f3d7be01fffc751237f4cfcf52d04e20532d1"
     },
@@ -2936,10 +3085,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "opa-oz",
+            "repo": "tree-sitter-nginx",
             "rev": "281d184b8240b2b22670b8907b57b6d6842db6f3",
             "sha256": "sha256-OsUCCtkaCwiKWKBduk9Ktc65LP1udKcKRmU4TAy8ayE=",
-            "type": "git",
-            "url": "https://github.com/opa-oz/tree-sitter-nginx"
+            "type": "github"
         },
         "version": "281d184b8240b2b22670b8907b57b6d6842db6f3"
     },
@@ -2955,10 +3105,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "nickel-lang",
+            "repo": "tree-sitter-nickel",
             "rev": "88d836a24b3b11c8720874a1a9286b8ae838d30a",
             "sha256": "sha256-IvlUwNO/wLLPuqCZf0NtSxMdDx+4ASYYOobklY/97aQ=",
-            "type": "git",
-            "url": "https://github.com/nickel-lang/tree-sitter-nickel"
+            "type": "github"
         },
         "version": "88d836a24b3b11c8720874a1a9286b8ae838d30a"
     },
@@ -2974,10 +3125,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "alaviss",
+            "repo": "tree-sitter-nim",
             "rev": "897e5d346f0b59ed62b517cfb0f1a845ad8f0ab7",
             "sha256": "sha256-JwR5Og1pGDTHI49rFsnfStrTcZ7hOseK6YyFIVlQ1o4=",
-            "type": "git",
-            "url": "https://github.com/alaviss/tree-sitter-nim"
+            "type": "github"
         },
         "version": "897e5d346f0b59ed62b517cfb0f1a845ad8f0ab7"
     },
@@ -2993,10 +3145,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "aMOPel",
+            "repo": "tree-sitter-nim-format-string",
             "rev": "d45f75022d147cda056e98bfba68222c9c8eca3a",
             "sha256": "sha256-hbM0JIxtZ3e2JUV4jXYO4RIO6r63nf2csvsLeIxkMn0=",
-            "type": "git",
-            "url": "https://github.com/aMOPel/tree-sitter-nim-format-string"
+            "type": "github"
         },
         "version": "d45f75022d147cda056e98bfba68222c9c8eca3a"
     },
@@ -3012,10 +3165,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "alemuller",
+            "repo": "tree-sitter-ninja",
             "rev": "0a95cfdc0745b6ae82f60d3a339b37f19b7b9267",
             "sha256": "sha256-e/LpQUL3UHHko4QvMeT40LCvPZRT7xTGZ9z1Zaboru4=",
-            "type": "git",
-            "url": "https://github.com/alemuller/tree-sitter-ninja"
+            "type": "github"
         },
         "version": "0a95cfdc0745b6ae82f60d3a339b37f19b7b9267"
     },
@@ -3031,10 +3185,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "cstrahan",
+            "repo": "tree-sitter-nix",
             "rev": "537095ddc80cf610fa75a2a0149fe9799b011014",
             "sha256": "sha256-MMaeGnlNTKHjjzZd70OGCO0GOXhbjcL6bvRKpnLmDw0=",
-            "type": "git",
-            "url": "https://github.com/cstrahan/tree-sitter-nix"
+            "type": "github"
         },
         "version": "537095ddc80cf610fa75a2a0149fe9799b011014"
     },
@@ -3050,10 +3205,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "nvim-neorg",
+            "repo": "tree-sitter-norg",
             "rev": "1aab69c95bd9d5e7c0e172ecbe5d29bcf5834612",
             "sha256": "sha256-DxRu3LG/aF2BG4SYOKTj9/WHIryAYuY4THvwKPSmRIs=",
-            "type": "git",
-            "url": "https://github.com/nvim-neorg/tree-sitter-norg"
+            "type": "github"
         },
         "version": "1aab69c95bd9d5e7c0e172ecbe5d29bcf5834612"
     },
@@ -3069,10 +3225,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "nvim-neorg",
+            "repo": "tree-sitter-norg-meta",
             "rev": "6f0510cc516a3af3396a682fbd6655486c2c9d2d",
             "sha256": "sha256-8qSdwHlfnjFuQF4zNdLtU2/tzDRhDZbo9K54Xxgn5+8=",
-            "type": "git",
-            "url": "https://github.com/nvim-neorg/tree-sitter-norg-meta"
+            "type": "github"
         },
         "version": "6f0510cc516a3af3396a682fbd6655486c2c9d2d"
     },
@@ -3088,10 +3245,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-nqc",
             "rev": "14e6da1627aaef21d2b2aa0c37d04269766dcc1d",
             "sha256": "sha256-Gf6410cWLENCgI1uIBVBl4RnRuVCHkWkn6sxusmI6j4=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-nqc"
+            "type": "github"
         },
         "version": "14e6da1627aaef21d2b2aa0c37d04269766dcc1d"
     },
@@ -3107,10 +3265,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "nushell",
+            "repo": "tree-sitter-nu",
             "rev": "0bb9a602d9bc94b66fab96ce51d46a5a227ab76c",
             "sha256": "sha256-A5GiOpITOv3H0wytCv6t43buQ8IzxEXrk3gTlOrO0K0=",
-            "type": "git",
-            "url": "https://github.com/nushell/tree-sitter-nu"
+            "type": "github"
         },
         "version": "0bb9a602d9bc94b66fab96ce51d46a5a227ab76c"
     },
@@ -3126,10 +3285,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-objc",
             "rev": "62e61b6f5c0289c376d61a8c91faf6435cde9012",
             "sha256": "sha256-Q1qAUgoYfpxmhn5XpnCwLBdu2BL2YF2We9bjumR8dNk=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-objc"
+            "type": "github"
         },
         "version": "62e61b6f5c0289c376d61a8c91faf6435cde9012"
     },
@@ -3145,10 +3305,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ColinKennedy",
+            "repo": "tree-sitter-objdump",
             "rev": "28d3b2e25a0b1881d1b47ed1924ca276c7003d45",
             "sha256": "sha256-OPqIhgItghXplQ78Vlwd0G6KtDWTVkaG17RPqx1b5JY=",
-            "type": "git",
-            "url": "https://github.com/ColinKennedy/tree-sitter-objdump"
+            "type": "github"
         },
         "version": "28d3b2e25a0b1881d1b47ed1924ca276c7003d45"
     },
@@ -3166,10 +3327,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-ocaml",
             "rev": "036226e5edb410aec004cc7ac0f4b2014dd04a0e",
             "sha256": "sha256-p8e4xfcGXDzpgheAWG+fSUKCpqEsSrHw9waoTRNnrnI=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-ocaml"
+            "type": "github"
         },
         "version": "036226e5edb410aec004cc7ac0f4b2014dd04a0e"
     },
@@ -3187,10 +3349,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-ocaml",
             "rev": "036226e5edb410aec004cc7ac0f4b2014dd04a0e",
             "sha256": "sha256-p8e4xfcGXDzpgheAWG+fSUKCpqEsSrHw9waoTRNnrnI=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-ocaml"
+            "type": "github"
         },
         "version": "036226e5edb410aec004cc7ac0f4b2014dd04a0e"
     },
@@ -3208,10 +3371,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "atom-ocaml",
+            "repo": "tree-sitter-ocamllex",
             "rev": "4b9898ccbf198602bb0dec9cd67cc1d2c0a4fad2",
             "sha256": "sha256-YhmEE7I7UF83qMuldHqc/fD/no/7YuZd6CaAIaZ1now=",
-            "type": "git",
-            "url": "https://github.com/atom-ocaml/tree-sitter-ocamllex"
+            "type": "github"
         },
         "version": "4b9898ccbf198602bb0dec9cd67cc1d2c0a4fad2"
     },
@@ -3227,10 +3391,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-odin",
             "rev": "d37b8f24f653378b268ec18404e9c14ad355b128",
             "sha256": "sha256-QZn+XgVQXEaMZF4XkMfS4bHf/tQIersI8982JQyiXms=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-odin"
+            "type": "github"
         },
         "version": "d37b8f24f653378b268ec18404e9c14ad355b128"
     },
@@ -3246,10 +3411,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "milisims",
+            "repo": "tree-sitter-org",
             "rev": "64cfbc213f5a83da17632c95382a5a0a2f3357c1",
             "sha256": "sha256-/03eZBbv23W5s/GbDgPgaJV5TyK+/lrWUVeINRS5wtA=",
-            "type": "git",
-            "url": "https://github.com/milisims/tree-sitter-org"
+            "type": "github"
         },
         "version": "64cfbc213f5a83da17632c95382a5a0a2f3357c1"
     },
@@ -3265,10 +3431,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Isopod",
+            "repo": "tree-sitter-pascal",
             "rev": "d0ebabefaea9ac3f6fc3004cf08cd121b66da9e4",
             "sha256": "sha256-T47xDjEbcDLg1IOu2HsIGA7j/CFMCagfV4xKdFYYoec=",
-            "type": "git",
-            "url": "https://github.com/Isopod/tree-sitter-pascal"
+            "type": "github"
         },
         "version": "d0ebabefaea9ac3f6fc3004cf08cd121b66da9e4"
     },
@@ -3284,10 +3451,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ath3",
+            "repo": "tree-sitter-passwd",
             "rev": "20239395eacdc2e0923a7e5683ad3605aee7b716",
             "sha256": "sha256-3UfuyJeblQBKjqZvLYyO3GoCvYJp+DvBwQGkR3pFQQ4=",
-            "type": "git",
-            "url": "https://github.com/ath3/tree-sitter-passwd"
+            "type": "github"
         },
         "version": "20239395eacdc2e0923a7e5683ad3605aee7b716"
     },
@@ -3303,10 +3471,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ObserverOfTime",
+            "repo": "tree-sitter-pem",
             "rev": "217ff2af3f2db15a79ab7e3d21ea1e0c17e71a1a",
             "sha256": "sha256-KGJ9ulGi3gKUJxNXil5Zai4v5/5ImUSMVP3/19ra3A0=",
-            "type": "git",
-            "url": "https://github.com/ObserverOfTime/tree-sitter-pem"
+            "type": "github"
         },
         "version": "217ff2af3f2db15a79ab7e3d21ea1e0c17e71a1a"
     },
@@ -3322,10 +3491,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter-perl",
+            "repo": "tree-sitter-perl",
             "rev": "05d6a22c903ab7d12e93a039332ad6687c8c7b7d",
             "sha256": "sha256-3Ka/yCZcKP0PqAelAMdbKgAjvlwzWsYgXdzYROPic4U=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter-perl/tree-sitter-perl"
+            "type": "github"
         },
         "version": "05d6a22c903ab7d12e93a039332ad6687c8c7b7d"
     },
@@ -3343,10 +3513,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-php",
             "rev": "d13c91bc48aedf7db8240c52503eee694134ec53",
             "sha256": "sha256-dB3DORMFk8T6TqjjOe525SQK2RJ4Pv+fXUJ5W9BRyqk=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-php"
+            "type": "github"
         },
         "version": "d13c91bc48aedf7db8240c52503eee694134ec53"
     },
@@ -3364,10 +3535,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-php",
             "rev": "d13c91bc48aedf7db8240c52503eee694134ec53",
             "sha256": "sha256-dB3DORMFk8T6TqjjOe525SQK2RJ4Pv+fXUJ5W9BRyqk=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-php"
+            "type": "github"
         },
         "version": "d13c91bc48aedf7db8240c52503eee694134ec53"
     },
@@ -3383,10 +3555,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "claytonrcarter",
+            "repo": "tree-sitter-phpdoc",
             "rev": "1d0e255b37477d0ca46f1c9e9268c8fa76c0b3fc",
             "sha256": "sha256-EWj/Av8+Ri7KiC9LzH73ytufjkp3MxBPwfm6mF3IGD8=",
-            "type": "git",
-            "url": "https://github.com/claytonrcarter/tree-sitter-phpdoc"
+            "type": "github"
         },
         "version": "1d0e255b37477d0ca46f1c9e9268c8fa76c0b3fc"
     },
@@ -3402,10 +3575,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "leo60228",
+            "repo": "tree-sitter-pioasm",
             "rev": "924aadaf5dea2a6074d72027b064f939acf32e20",
             "sha256": "sha256-og5DjoyTtKUTp0V4/PpcGb8xwzLeidsb2lq0+QF7u9M=",
-            "type": "git",
-            "url": "https://github.com/leo60228/tree-sitter-pioasm"
+            "type": "github"
         },
         "version": "924aadaf5dea2a6074d72027b064f939acf32e20"
     },
@@ -3421,10 +3595,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "erasin",
+            "repo": "tree-sitter-po",
             "rev": "bd860a0f57f697162bf28e576674be9c1500db5e",
             "sha256": "sha256-/St0VxDTAF872ZlBph1TukRoO0PBIOMT0D11DZ6nSLQ=",
-            "type": "git",
-            "url": "https://github.com/erasin/tree-sitter-po"
+            "type": "github"
         },
         "version": "bd860a0f57f697162bf28e576674be9c1500db5e"
     },
@@ -3440,10 +3615,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter-perl",
+            "repo": "tree-sitter-pod",
             "rev": "0bf8387987c21bf2f8ed41d2575a8f22b139687f",
             "sha256": "sha256-yV2kVAxWxdyIJ3g2oivDc01SAQF0lc7UMT2sfv9lKzI=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter-perl/tree-sitter-pod"
+            "type": "github"
         },
         "version": "0bf8387987c21bf2f8ed41d2575a8f22b139687f"
     },
@@ -3459,10 +3635,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ObserverOfTime",
+            "repo": "tree-sitter-poe-filter",
             "rev": "592476d81f95d2451f2ca107dc872224c76fecdf",
             "sha256": "sha256-dmo/t8gCT7UTlhBvxH4xmliR3Evazv3qsz9EWz7h/gU=",
-            "type": "git",
-            "url": "https://github.com/ObserverOfTime/tree-sitter-poe-filter"
+            "type": "github"
         },
         "version": "592476d81f95d2451f2ca107dc872224c76fecdf"
     },
@@ -3478,10 +3655,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-pony",
             "rev": "73ff874ae4c9e9b45462673cbc0a1e350e2522a7",
             "sha256": "sha256-/9bTbep2AXLoiijeft9amMeFQ6fHXzItjH+bD/w6pDo=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-pony"
+            "type": "github"
         },
         "version": "73ff874ae4c9e9b45462673cbc0a1e350e2522a7"
     },
@@ -3497,10 +3675,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "airbus-cert",
+            "repo": "tree-sitter-powershell",
             "rev": "fc15514b2f1dbba9c58528d15a3708f89eda6a01",
             "sha256": "sha256-StVnRNM0HPevLSRDIDr+Sakjo+NqXYWPPUFjI29Cowo=",
-            "type": "git",
-            "url": "https://github.com/airbus-cert/tree-sitter-powershell"
+            "type": "github"
         },
         "version": "fc15514b2f1dbba9c58528d15a3708f89eda6a01"
     },
@@ -3516,10 +3695,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ObserverOfTime",
+            "repo": "tree-sitter-printf",
             "rev": "0e0aceabbf607ea09e03562f5d8a56f048ddea3d",
             "sha256": "sha256-y/7CDnHpT3D6hL0f+52mReCphn+lvElfQQKJwY4fr9c=",
-            "type": "git",
-            "url": "https://github.com/ObserverOfTime/tree-sitter-printf"
+            "type": "github"
         },
         "version": "0e0aceabbf607ea09e03562f5d8a56f048ddea3d"
     },
@@ -3535,10 +3715,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "victorhqc",
+            "repo": "tree-sitter-prisma",
             "rev": "eca2596a355b1a9952b4f80f8f9caed300a272b5",
             "sha256": "sha256-MOqkM7DCQl1L8Jn9nyw89EoAr0ez4+d39HeKy2cb66c=",
-            "type": "git",
-            "url": "https://github.com/victorhqc/tree-sitter-prisma"
+            "type": "github"
         },
         "version": "eca2596a355b1a9952b4f80f8f9caed300a272b5"
     },
@@ -3556,10 +3737,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "foxyseta",
+            "repo": "tree-sitter-prolog",
             "rev": "93c69d2f84d8a167c0a3f4a8d51ccefe365a4dc8",
             "sha256": "sha256-NWB4PvnVE+L1A7QDKcQtc15YIf8Ik7hKIOUW8XT/pFY=",
-            "type": "git",
-            "url": "https://github.com/foxyseta/tree-sitter-prolog"
+            "type": "github"
         },
         "version": "93c69d2f84d8a167c0a3f4a8d51ccefe365a4dc8"
     },
@@ -3577,10 +3759,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "foxyseta",
+            "repo": "tree-sitter-prolog",
             "rev": "93c69d2f84d8a167c0a3f4a8d51ccefe365a4dc8",
             "sha256": "sha256-NWB4PvnVE+L1A7QDKcQtc15YIf8Ik7hKIOUW8XT/pFY=",
-            "type": "git",
-            "url": "https://github.com/foxyseta/tree-sitter-prolog"
+            "type": "github"
         },
         "version": "93c69d2f84d8a167c0a3f4a8d51ccefe365a4dc8"
     },
@@ -3596,10 +3779,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "MichaHoffmann",
+            "repo": "tree-sitter-promql",
             "rev": "77625d78eebc3ffc44d114a07b2f348dff3061b0",
             "sha256": "sha256-IJbnC03pDfcSAF//Ux+LqqfjtagGSD5Nu46yUo0vT5Q=",
-            "type": "git",
-            "url": "https://github.com/MichaHoffmann/tree-sitter-promql"
+            "type": "github"
         },
         "version": "77625d78eebc3ffc44d114a07b2f348dff3061b0"
     },
@@ -3615,10 +3799,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter-grammars",
+            "repo": "tree-sitter-properties",
             "rev": "9d09f5f200c356c50c4103d36441309fd61b48d1",
             "sha256": "sha256-KrQlLqCH4P5pwm8ql+iVR09khzQuJu2UHXdMT9MZYe8=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter-grammars/tree-sitter-properties"
+            "type": "github"
         },
         "version": "9d09f5f200c356c50c4103d36441309fd61b48d1"
     },
@@ -3634,10 +3819,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "treywood",
+            "repo": "tree-sitter-proto",
             "rev": "e9f6b43f6844bd2189b50a422d4e2094313f6aa3",
             "sha256": "sha256-Ue6w6HWy+NTJt+AKTFfJIUf3HXHTwkUkDk4UdDMSD+U=",
-            "type": "git",
-            "url": "https://github.com/treywood/tree-sitter-proto"
+            "type": "github"
         },
         "version": "e9f6b43f6844bd2189b50a422d4e2094313f6aa3"
     },
@@ -3653,10 +3839,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "PRQL",
+            "repo": "tree-sitter-prql",
             "rev": "09e158cd3650581c0af4c49c2e5b10c4834c8646",
             "sha256": "sha256-bdT7LZ2x7BdUqLJRq4ENJTaIFnciac7l2dCxOSB09CI=",
-            "type": "git",
-            "url": "https://github.com/PRQL/tree-sitter-prql"
+            "type": "github"
         },
         "version": "09e158cd3650581c0af4c49c2e5b10c4834c8646"
     },
@@ -3674,10 +3861,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-csv",
             "rev": "7eb7297823605392d2bbcc4c09b1cd18d6fa9529",
             "sha256": "sha256-5VL7uREH0lloAWo9rdJXsjDsWxgL6fngWJSmi4fM7UQ=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-csv"
+            "type": "github"
         },
         "version": "7eb7297823605392d2bbcc4c09b1cd18d6fa9529"
     },
@@ -3693,10 +3881,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "zealot128",
+            "repo": "tree-sitter-pug",
             "rev": "a7ff31a38908df9b9f34828d21d6ca5e12413e18",
             "sha256": "sha256-WDx2Y1LxuJJuAaeTxfqQrxRXxVd4Cn3niQeherh+5Uc=",
-            "type": "git",
-            "url": "https://github.com/zealot128/tree-sitter-pug"
+            "type": "github"
         },
         "version": "a7ff31a38908df9b9f34828d21d6ca5e12413e18"
     },
@@ -3712,10 +3901,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-puppet",
             "rev": "584522f32495d648b18a53ccb52d988e60de127d",
             "sha256": "sha256-+zMgzyuGerJ8l+i5ZtWnmGr3i4fFiSLD5FssyKESsmI=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-puppet"
+            "type": "github"
         },
         "version": "584522f32495d648b18a53ccb52d988e60de127d"
     },
@@ -3731,10 +3921,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "postsolar",
+            "repo": "tree-sitter-purescript",
             "rev": "daf9b3e2be18b0b2996a1281f7783e0d041d8b80",
             "sha256": "sha256-eY2WF2n0fZUl1zxZZHJVYR8b1FwaAjkCeSeOdSf67m4=",
-            "type": "git",
-            "url": "https://github.com/postsolar/tree-sitter-purescript"
+            "type": "github"
         },
         "version": "daf9b3e2be18b0b2996a1281f7783e0d041d8b80"
     },
@@ -3750,10 +3941,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ObserverOfTime",
+            "repo": "tree-sitter-pymanifest",
             "rev": "be062582956165019d3253794b4d712f66dfeaaa",
             "sha256": "sha256-Kud/E67Sh9F4nc8nzW5UXFHW5+kGftLyFzwLOKLcpL8=",
-            "type": "git",
-            "url": "https://github.com/ObserverOfTime/tree-sitter-pymanifest"
+            "type": "github"
         },
         "version": "be062582956165019d3253794b4d712f66dfeaaa"
     },
@@ -3769,10 +3961,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-python",
             "rev": "346fa42dc2990d2a2736cc60891369d0d3d8e65c",
             "sha256": "sha256-Mg/U7X9uvHEwo06bo0aBmJHbH9wsZ+nKBt0Dpz4o6l0=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-python"
+            "type": "github"
         },
         "version": "346fa42dc2990d2a2736cc60891369d0d3d8e65c"
     },
@@ -3788,10 +3981,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-ql",
             "rev": "42becd6f8f7bae82c818fa3abb1b6ff34b552310",
             "sha256": "sha256-OFqBI9u5Ik6AoG88v7qTVnol5H9O/n1vaZhoxQ7Sj70=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-ql"
+            "type": "github"
         },
         "version": "42becd6f8f7bae82c818fa3abb1b6ff34b552310"
     },
@@ -3807,10 +4001,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Decodetalkers",
+            "repo": "tree-sitter-qmldir",
             "rev": "6b2b5e41734bd6f07ea4c36ac20fb6f14061c841",
             "sha256": "sha256-7ic9Xd+1G0JM25bY0f8N5r6YZx5NV5HrJXXHp6pXvo4=",
-            "type": "git",
-            "url": "https://github.com/Decodetalkers/tree-sitter-qmldir"
+            "type": "github"
         },
         "version": "6b2b5e41734bd6f07ea4c36ac20fb6f14061c841"
     },
@@ -3826,10 +4021,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "yuja",
+            "repo": "tree-sitter-qmljs",
             "rev": "cc4186f15e2829385be33440561fdd17b1c40cf7",
             "sha256": "sha256-g05fmFG/+DiW8VOCfH+8//ksFNYZ8V9RAn7hGJ7Jl6w=",
-            "type": "git",
-            "url": "https://github.com/yuja/tree-sitter-qmljs"
+            "type": "github"
         },
         "version": "cc4186f15e2829385be33440561fdd17b1c40cf7"
     },
@@ -3845,10 +4041,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "nvim-treesitter",
+            "repo": "tree-sitter-query",
             "rev": "f767fb0ac5e711b6d44c5e0c8d1f349687a86ce0",
             "sha256": "sha256-snr0ze1VCaAf448mHkrB9qbWTMvjSlPdVl2VtesMIHI=",
-            "type": "git",
-            "url": "https://github.com/nvim-treesitter/tree-sitter-query"
+            "type": "github"
         },
         "version": "f767fb0ac5e711b6d44c5e0c8d1f349687a86ce0"
     },
@@ -3864,10 +4061,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "r-lib",
+            "repo": "tree-sitter-r",
             "rev": "b1e211f52ad8f8e1e182bbbcc16dcd5e3688eb7d",
             "sha256": "sha256-fgK8UGNaoJf3+lao/q1Vfd+2U/YNgrZu3kbyZ1qOIus=",
-            "type": "git",
-            "url": "https://github.com/r-lib/tree-sitter-r"
+            "type": "github"
         },
         "version": "b1e211f52ad8f8e1e182bbbcc16dcd5e3688eb7d"
     },
@@ -3883,10 +4081,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "6cdh",
+            "repo": "tree-sitter-racket",
             "rev": "171f52a8c0ed635b85cd42d1e36d82f1066a03b4",
             "sha256": "sha256-iuigtcakpqm5vPuxsSV5PR32pwzyPMmldYXaJmzO3d0=",
-            "type": "git",
-            "url": "https://github.com/6cdh/tree-sitter-racket"
+            "type": "github"
         },
         "version": "171f52a8c0ed635b85cd42d1e36d82f1066a03b4"
     },
@@ -3902,10 +4101,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "alephium",
+            "repo": "tree-sitter-ralph",
             "rev": "f6d81bf7a4599c77388035439cf5801cd461ff77",
             "sha256": "sha256-o+h43yMws4utPjqEQCt5swks3KfM3hb4mguclALsUsA=",
-            "type": "git",
-            "url": "https://github.com/alephium/tree-sitter-ralph"
+            "type": "github"
         },
         "version": "f6d81bf7a4599c77388035439cf5801cd461ff77"
     },
@@ -3921,10 +4121,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Fymyte",
+            "repo": "tree-sitter-rasi",
             "rev": "6c9bbcfdf5f0f553d9ebc01750a3aa247a37b8aa",
             "sha256": "sha256-sPrIVgGGaBaXeqHNxjcdJ/S2FvxyV6rD9UPKU/tpspw=",
-            "type": "git",
-            "url": "https://github.com/Fymyte/tree-sitter-rasi"
+            "type": "github"
         },
         "version": "6c9bbcfdf5f0f553d9ebc01750a3aa247a37b8aa"
     },
@@ -3940,10 +4141,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "joker1007",
+            "repo": "tree-sitter-rbs",
             "rev": "8d8e65ac3f77fbc9e15b1cdb9f980a3e0ac3ab99",
             "sha256": "sha256-M72rShapD813gpBbWUIil6UgcnoF1DVTffMSnTpejgg=",
-            "type": "git",
-            "url": "https://github.com/joker1007/tree-sitter-rbs"
+            "type": "github"
         },
         "version": "8d8e65ac3f77fbc9e15b1cdb9f980a3e0ac3ab99"
     },
@@ -3959,10 +4161,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-re2c",
             "rev": "47aa19cf5f7aba2ed30e2b377f7172df76e819a6",
             "sha256": "sha256-Mwnm8kN0xfAdGG00aUYrqPU0zyWbc6QH9Zlgb4on+do=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-re2c"
+            "type": "github"
         },
         "version": "47aa19cf5f7aba2ed30e2b377f7172df76e819a6"
     },
@@ -3978,10 +4181,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ribru17",
+            "repo": "tree-sitter-readline",
             "rev": "3d4768b04d7cfaf40533e12b28672603428b8f31",
             "sha256": "sha256-kky3u5+NGOlxx8RxeMNszG+XJ6D36+z2us9c0nK/Jds=",
-            "type": "git",
-            "url": "https://github.com/ribru17/tree-sitter-readline"
+            "type": "github"
         },
         "version": "3d4768b04d7cfaf40533e12b28672603428b8f31"
     },
@@ -3997,10 +4201,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-regex",
             "rev": "47007f195752d8e57bda80b0b6cdb2d173a9f7d7",
             "sha256": "sha256-X1CEk4nLxXY1a3PHG+4uSDKAXmsJIhd0nVYieTaHOkk=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-regex"
+            "type": "github"
         },
         "version": "47007f195752d8e57bda80b0b6cdb2d173a9f7d7"
     },
@@ -4016,10 +4221,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "FallenAngel97",
+            "repo": "tree-sitter-rego",
             "rev": "20b5a5958c837bc9f74b231022a68a594a313f6d",
             "sha256": "sha256-XwlVsOlxYzB0x+T05iuIp7nFAoQkMByKiHXZ0t5QsjI=",
-            "type": "git",
-            "url": "https://github.com/FallenAngel97/tree-sitter-rego"
+            "type": "github"
         },
         "version": "20b5a5958c837bc9f74b231022a68a594a313f6d"
     },
@@ -4035,10 +4241,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ObserverOfTime",
+            "repo": "tree-sitter-requirements",
             "rev": "5ad9b7581b3334f6ad492847d007f2fac6e6e5f2",
             "sha256": "sha256-L3PF6B+d+v/pjAQGVwkc7hCKrhbAB7u/BdXOpEum08w=",
-            "type": "git",
-            "url": "https://github.com/ObserverOfTime/tree-sitter-requirements"
+            "type": "github"
         },
         "version": "5ad9b7581b3334f6ad492847d007f2fac6e6e5f2"
     },
@@ -4054,10 +4261,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "rescript-lang",
+            "repo": "tree-sitter-rescript",
             "rev": "4606cd81c4c31d1d02390fee530858323410a74c",
             "sha256": "sha256-md3fgW+h99va2Rwxzub7nrsEe64fC52g6NPCaXGAaxg=",
-            "type": "git",
-            "url": "https://github.com/rescript-lang/tree-sitter-rescript"
+            "type": "github"
         },
         "version": "4606cd81c4c31d1d02390fee530858323410a74c"
     },
@@ -4073,10 +4281,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "bamonroe",
+            "repo": "tree-sitter-rnoweb",
             "rev": "1a74dc0ed731ad07db39f063e2c5a6fe528cae7f",
             "sha256": "sha256-sCjSS6iunij2SXHNzQcTq0HKawH9i5h/vQ6yl77opXw=",
-            "type": "git",
-            "url": "https://github.com/bamonroe/tree-sitter-rnoweb"
+            "type": "github"
         },
         "version": "1a74dc0ed731ad07db39f063e2c5a6fe528cae7f"
     },
@@ -4092,10 +4301,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Hubro",
+            "repo": "tree-sitter-robot",
             "rev": "322e4cc65754d2b3fdef4f2f8a71e0762e3d13af",
             "sha256": "sha256-VxWZWFPYkD3odM3TpEgLKsFnN8wB6xoIiXUYqBbpDqw=",
-            "type": "git",
-            "url": "https://github.com/Hubro/tree-sitter-robot"
+            "type": "github"
         },
         "version": "322e4cc65754d2b3fdef4f2f8a71e0762e3d13af"
     },
@@ -4111,10 +4321,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "opa-oz",
+            "repo": "tree-sitter-robots-txt",
             "rev": "8e3a4205b76236bb6dbebdbee5afc262ce38bb62",
             "sha256": "sha256-OePLE85CWbl0hnre4Apq5Ix2GA8juGV2TE891Py4AME=",
-            "type": "git",
-            "url": "https://github.com/opa-oz/tree-sitter-robots-txt"
+            "type": "github"
         },
         "version": "8e3a4205b76236bb6dbebdbee5afc262ce38bb62"
     },
@@ -4130,10 +4341,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "faldor20",
+            "repo": "tree-sitter-roc",
             "rev": "ef46edd0c03ea30a22f7e92bc68628fb7231dc8a",
             "sha256": "sha256-H76cnMlBT1Z/9WXAdoVslImkyy38uCqum9qEnH+Ics8=",
-            "type": "git",
-            "url": "https://github.com/faldor20/tree-sitter-roc"
+            "type": "github"
         },
         "version": "ef46edd0c03ea30a22f7e92bc68628fb7231dc8a"
     },
@@ -4149,10 +4361,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-ron",
             "rev": "78938553b93075e638035f624973083451b29055",
             "sha256": "sha256-Sp0g6AWKHNjyUmL5k3RIU+5KtfICfg3o/DH77XRRyI0=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-ron"
+            "type": "github"
         },
         "version": "78938553b93075e638035f624973083451b29055"
     },
@@ -4168,10 +4381,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "stsewd",
+            "repo": "tree-sitter-rst",
             "rev": "5120f6e59284cb8b85b450bd2db0bd352635ba9f",
             "sha256": "sha256-PI1C0W8fiuIQ2fgHXDelkCa0ng1a32x/9hrA33KoefM=",
-            "type": "git",
-            "url": "https://github.com/stsewd/tree-sitter-rst"
+            "type": "github"
         },
         "version": "5120f6e59284cb8b85b450bd2db0bd352635ba9f"
     },
@@ -4187,10 +4401,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-ruby",
             "rev": "7dbc1e2d0e2d752577655881f73b4573f3fe85d4",
             "sha256": "sha256-koWDvtCiiDeOS5bANAcxwE3lvyPaJ9BI3RtTRxUNc2E=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-ruby"
+            "type": "github"
         },
         "version": "7dbc1e2d0e2d752577655881f73b4573f3fe85d4"
     },
@@ -4206,10 +4421,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-rust",
             "rev": "2b43eafe64470846cdaa0eaae1e287c120ee5f03",
             "sha256": "sha256-5LnzwdP0V/jpdQ8gkUzRE/XMKm2aUl4HtWwbEUU5BMA=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-rust"
+            "type": "github"
         },
         "version": "2b43eafe64470846cdaa0eaae1e287c120ee5f03"
     },
@@ -4225,10 +4441,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-scala",
             "rev": "dd7fe4d7838ca751f5259718658dd309d999855b",
             "sha256": "sha256-W+mtWuU2emb/3nnTtAX2X+vtJfnIQ/dIVtJhLNoSCi0=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-scala"
+            "type": "github"
         },
         "version": "dd7fe4d7838ca751f5259718658dd309d999855b"
     },
@@ -4246,10 +4463,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "rockorager",
+            "repo": "tree-sitter-scfg",
             "rev": "a5512800ea0220da4abbae61b8aea8423d1549aa",
             "sha256": "sha256-Je6taNzniyd1c+2NRCF7TOvnpeW4qhYYhdAEcgpDOAA=",
-            "type": "git",
-            "url": "https://github.com/rockorager/tree-sitter-scfg"
+            "type": "github"
         },
         "version": "a5512800ea0220da4abbae61b8aea8423d1549aa"
     },
@@ -4265,10 +4483,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "6cdh",
+            "repo": "tree-sitter-scheme",
             "rev": "8f9dff3d038f09934db5ea113cebc59c74447743",
             "sha256": "sha256-QECZQVhWntN+3wnIA+U3JesuoLZiSU7pOrsKRdVPLtk=",
-            "type": "git",
-            "url": "https://github.com/6cdh/tree-sitter-scheme"
+            "type": "github"
         },
         "version": "8f9dff3d038f09934db5ea113cebc59c74447743"
     },
@@ -4284,10 +4503,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "serenadeai",
+            "repo": "tree-sitter-scss",
             "rev": "c478c6868648eff49eb04a4df90d703dc45b312a",
             "sha256": "sha256-BFtMT6eccBWUyq6b8UXRAbB1R1XD3CrrFf1DM3aUI5c=",
-            "type": "git",
-            "url": "https://github.com/serenadeai/tree-sitter-scss"
+            "type": "github"
         },
         "version": "c478c6868648eff49eb04a4df90d703dc45b312a"
     },
@@ -4305,10 +4525,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "aheber",
+            "repo": "tree-sitter-sfapex",
             "rev": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
             "sha256": "sha256-OEaeH+iVWOtDKVBAAbFPN96uyKlcuDHIObsk6SP78SY=",
-            "type": "git",
-            "url": "https://github.com/aheber/tree-sitter-sfapex"
+            "type": "github"
         },
         "version": "602cc4b050ef1e14a69acc2ea094968bf928fa59"
     },
@@ -4324,10 +4545,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "theHamsta",
+            "repo": "tree-sitter-slang",
             "rev": "d84b43d75d65bbc4ba57166ce17555f32c0b8983",
             "sha256": "sha256-KcFntOBXADBu7nSFQ5XVY6/nfSl2uLJfhsfVFFjudd8=",
-            "type": "git",
-            "url": "https://github.com/theHamsta/tree-sitter-slang"
+            "type": "github"
         },
         "version": "d84b43d75d65bbc4ba57166ce17555f32c0b8983"
     },
@@ -4343,10 +4565,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "slint-ui",
+            "repo": "tree-sitter-slint",
             "rev": "34ccfd58d3baee7636f62d9326f32092264e8407",
             "sha256": "sha256-2R+TxjM3Pd2a9pyr2SwZd9+YYj1o8KsS+4n5dFxEMMM=",
-            "type": "git",
-            "url": "https://github.com/slint-ui/tree-sitter-slint"
+            "type": "github"
         },
         "version": "34ccfd58d3baee7636f62d9326f32092264e8407"
     },
@@ -4362,10 +4585,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter-grammars",
+            "repo": "tree-sitter-smali",
             "rev": "fdfa6a1febc43c7467aa7e937b87b607956f2346",
             "sha256": "sha256-S0U6Xuntz16DrpYwSqMQu8Cu7UuD/JufHUxIHv826yw=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter-grammars/tree-sitter-smali"
+            "type": "github"
         },
         "version": "fdfa6a1febc43c7467aa7e937b87b607956f2346"
     },
@@ -4381,10 +4605,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "indoorvivants",
+            "repo": "tree-sitter-smithy",
             "rev": "fa898ac0885d1da9a253695c3e0e91f5efc587cd",
             "sha256": "sha256-tB+q4RNru4Zi3jU9fBLKdzsXT0uP1PECLfeCCNTyaIo=",
-            "type": "git",
-            "url": "https://github.com/indoorvivants/tree-sitter-smithy"
+            "type": "github"
         },
         "version": "fa898ac0885d1da9a253695c3e0e91f5efc587cd"
     },
@@ -4400,10 +4625,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "osthomas",
+            "repo": "tree-sitter-snakemake",
             "rev": "e909815acdbe37e69440261ebb1091ed52e1dec6",
             "sha256": "sha256-d2n1fsdt4+1hv4In+o6GpGyfeyVHpn39Njm7tQ2zyYQ=",
-            "type": "git",
-            "url": "https://github.com/osthomas/tree-sitter-snakemake"
+            "type": "github"
         },
         "version": "e909815acdbe37e69440261ebb1091ed52e1dec6"
     },
@@ -4419,10 +4645,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "JoranHonig",
+            "repo": "tree-sitter-solidity",
             "rev": "ee5a2d2ba30b487c4bbf613d2ef310a454c09c7c",
             "sha256": "sha256-q9SFHnxBUDet65WuxxYFS3N8xDHuQz7K2LWED7uSaWA=",
-            "type": "git",
-            "url": "https://github.com/JoranHonig/tree-sitter-solidity"
+            "type": "github"
         },
         "version": "ee5a2d2ba30b487c4bbf613d2ef310a454c09c7c"
     },
@@ -4440,10 +4667,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "aheber",
+            "repo": "tree-sitter-sfapex",
             "rev": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
             "sha256": "sha256-OEaeH+iVWOtDKVBAAbFPN96uyKlcuDHIObsk6SP78SY=",
-            "type": "git",
-            "url": "https://github.com/aheber/tree-sitter-sfapex"
+            "type": "github"
         },
         "version": "602cc4b050ef1e14a69acc2ea094968bf928fa59"
     },
@@ -4461,10 +4689,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "aheber",
+            "repo": "tree-sitter-sfapex",
             "rev": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
             "sha256": "sha256-OEaeH+iVWOtDKVBAAbFPN96uyKlcuDHIObsk6SP78SY=",
-            "type": "git",
-            "url": "https://github.com/aheber/tree-sitter-sfapex"
+            "type": "github"
         },
         "version": "602cc4b050ef1e14a69acc2ea094968bf928fa59"
     },
@@ -4480,10 +4709,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "nilshelmig",
+            "repo": "tree-sitter-sourcepawn",
             "rev": "6b9bf9cbab91443380d2ca8a2f6c491cc7fac5bf",
             "sha256": "sha256-2DjGCZ701c2rMxQZM4YF61rZokZUov4ECb0gwAmyuVk=",
-            "type": "git",
-            "url": "https://github.com/nilshelmig/tree-sitter-sourcepawn"
+            "type": "github"
         },
         "version": "6b9bf9cbab91443380d2ca8a2f6c491cc7fac5bf"
     },
@@ -4499,10 +4729,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "GordianDziwis",
+            "repo": "tree-sitter-sparql",
             "rev": "d853661ca680d8ff7f8d800182d5782b61d0dd58",
             "sha256": "sha256-0BV0y8IyeIPpuxTixlJL1PsDCuhXbGaImu8JU8WFoPU=",
-            "type": "git",
-            "url": "https://github.com/GordianDziwis/tree-sitter-sparql"
+            "type": "github"
         },
         "version": "d853661ca680d8ff7f8d800182d5782b61d0dd58"
     },
@@ -4518,10 +4749,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "derekstride",
+            "repo": "tree-sitter-sql",
             "rev": "a8b10c76759a372d0f92bb070b4f5c993e0ce5f9",
-            "sha256": "sha256-wfoov9KfIadouF3HTJ9hOpnIouCHvDffgSrXow8zQ5I=",
-            "type": "git",
-            "url": "https://github.com/derekstride/tree-sitter-sql"
+            "sha256": "sha256-13RvViBheuKQ+WgEiZG3SGFwp0H/xqFz4bbdYtMnako=",
+            "type": "github"
         },
         "version": "a8b10c76759a372d0f92bb070b4f5c993e0ce5f9"
     },
@@ -4537,10 +4769,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-squirrel",
             "rev": "072c969749e66f000dba35a33c387650e203e96e",
             "sha256": "sha256-tJBmxTD4hi9zxXMEuAX+uslo45zEawh09+tgv56s/AU=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-squirrel"
+            "type": "github"
         },
         "version": "072c969749e66f000dba35a33c387650e203e96e"
     },
@@ -4556,10 +4789,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ObserverOfTime",
+            "repo": "tree-sitter-ssh-config",
             "rev": "77450e8bce8853921512348f83c73c168c71fdfb",
             "sha256": "sha256-V7JI1o30+mzGA4X1oh+pyu3rSWOfHFKfCUbYaFPLOmM=",
-            "type": "git",
-            "url": "https://github.com/ObserverOfTime/tree-sitter-ssh-config"
+            "type": "github"
         },
         "version": "77450e8bce8853921512348f83c73c168c71fdfb"
     },
@@ -4575,10 +4809,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-starlark",
             "rev": "018d0e09d9d0f0dd6740a37682b8ee4512e8b2ac",
             "sha256": "sha256-Qp7FvREjO+FP7ovj6UE8JA3Se8W46iGxNrmmSsruOdA=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-starlark"
+            "type": "github"
         },
         "version": "018d0e09d9d0f0dd6740a37682b8ee4512e8b2ac"
     },
@@ -4594,10 +4829,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "sigmaSd",
+            "repo": "tree-sitter-strace",
             "rev": "d819cdd5dbe455bd3c859193633c8d91c0df7c36",
             "sha256": "sha256-u2LznohljEq7WEoVbwr1ZyV+qbchDuoktJFCeh4iePg=",
-            "type": "git",
-            "url": "https://github.com/sigmaSd/tree-sitter-strace"
+            "type": "github"
         },
         "version": "d819cdd5dbe455bd3c859193633c8d91c0df7c36"
     },
@@ -4613,10 +4849,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "mskelton",
+            "repo": "tree-sitter-styled",
             "rev": "e8bf912db4996b32515639d42fe2b258517f135e",
             "sha256": "sha256-TX030FGkcNXPnzDZS6n8EYP7Tb+91XIHTWBPY1JAEq0=",
-            "type": "git",
-            "url": "https://github.com/mskelton/tree-sitter-styled"
+            "type": "github"
         },
         "version": "e8bf912db4996b32515639d42fe2b258517f135e"
     },
@@ -4632,10 +4869,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "madskjeldgaard",
+            "repo": "tree-sitter-supercollider",
             "rev": "affa4389186b6939d89673e1e9d2b28364f5ca6f",
             "sha256": "sha256-j4CTKkSdKnSGdgC3zGglmZ6uQvbC2ObQ+WWlY0afSwo=",
-            "type": "git",
-            "url": "https://github.com/madskjeldgaard/tree-sitter-supercollider"
+            "type": "github"
         },
         "version": "affa4389186b6939d89673e1e9d2b28364f5ca6f"
     },
@@ -4651,10 +4889,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "connorlay",
+            "repo": "tree-sitter-surface",
             "rev": "f4586b35ac8548667a9aaa4eae44456c1f43d032",
             "sha256": "sha256-Fn/pF8yvU+Ll7WmoMHnEcNxb3dsfNhuKhXA1UgXeviA=",
-            "type": "git",
-            "url": "https://github.com/connorlay/tree-sitter-surface"
+            "type": "github"
         },
         "version": "f4586b35ac8548667a9aaa4eae44456c1f43d032"
     },
@@ -4670,16 +4909,17 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter-grammars",
+            "repo": "tree-sitter-svelte",
             "rev": "7ab8221e3f378a3b04b4b488f07c1f408c5bd0d8",
             "sha256": "sha256-ooeQNwFgDZrn+Vj6nFOS8TJMknl/DgbEghfm0e1EJDE=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter-grammars/tree-sitter-svelte"
+            "type": "github"
         },
         "version": "7ab8221e3f378a3b04b4b488f07c1f408c5bd0d8"
     },
     "treesitter-grammar-swift": {
         "cargoLocks": null,
-        "date": "2024-08-24",
+        "date": "2024-08-31",
         "extract": null,
         "name": "treesitter-grammar-swift",
         "passthru": {
@@ -4691,12 +4931,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "d627a54d7266f0a8ee61b447b34d0ad07dadf1d6",
-            "sha256": "sha256-Lf/zwnakSY5cSsMpZL4oK1uWXbcqo7FNN4ktfOtMMNg=",
-            "type": "git",
-            "url": "https://github.com/alex-pinkus/tree-sitter-swift"
+            "owner": "alex-pinkus",
+            "repo": "tree-sitter-swift",
+            "rev": "5254a12fae5ddcb62ca8cbf57eca83c1c41cd884",
+            "sha256": "sha256-3JtHTwKFJ5q0ACLfQy8b5XCk9aieoSoQTYCWoPVrYSw=",
+            "type": "github"
         },
-        "version": "d627a54d7266f0a8ee61b447b34d0ad07dadf1d6"
+        "version": "5254a12fae5ddcb62ca8cbf57eca83c1c41cd884"
     },
     "treesitter-grammar-sxhkdrc": {
         "cargoLocks": null,
@@ -4710,10 +4951,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "RaafatTurki",
+            "repo": "tree-sitter-sxhkdrc",
             "rev": "440d5f913d9465c9c776a1bd92334d32febcf065",
             "sha256": "sha256-AGhGYomrMe6Wj+EHLQT4v0BiU4jxhxXpVQkU2xU/1ZI=",
-            "type": "git",
-            "url": "https://github.com/RaafatTurki/tree-sitter-sxhkdrc"
+            "type": "github"
         },
         "version": "440d5f913d9465c9c776a1bd92334d32febcf065"
     },
@@ -4729,10 +4971,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ok-ryoko",
+            "repo": "tree-sitter-systemtap",
             "rev": "f2b378a9af0b7e1192cff67a5fb45508c927205d",
             "sha256": "sha256-HzV6RZMTSa41Q5hMiM1FwiHLbho62fuywtKzqrwjNDQ=",
-            "type": "git",
-            "url": "https://github.com/ok-ryoko/tree-sitter-systemtap"
+            "type": "github"
         },
         "version": "f2b378a9af0b7e1192cff67a5fb45508c927205d"
     },
@@ -4748,10 +4991,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "zhangwwpeng",
+            "repo": "tree-sitter-systemverilog",
             "rev": "4f897d5e3f0e38bf8fbb55e8f39dc97d2bc2229e",
             "sha256": "sha256-guNdS07QqbqegFICNHP1ECX9bc+ZCW9li3ILIZVHRwM=",
-            "type": "git",
-            "url": "https://github.com/zhangwwpeng/tree-sitter-systemverilog"
+            "type": "github"
         },
         "version": "4f897d5e3f0e38bf8fbb55e8f39dc97d2bc2229e"
     },
@@ -4786,10 +5030,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-tablegen",
             "rev": "b1170880c61355aaf38fc06f4af7d3c55abdabc4",
             "sha256": "sha256-uJCn2RdTnOf/guBUhfodgQ8pMshNh+xUJZunoLwNgrM=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-tablegen"
+            "type": "github"
         },
         "version": "b1170880c61355aaf38fc06f4af7d3c55abdabc4"
     },
@@ -4805,10 +5050,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tact-lang",
+            "repo": "tree-sitter-tact",
             "rev": "b3710fe2723bd9b285de7f3d0c0717bebf3f17bd",
             "sha256": "sha256-FJj9kAPHyk0ZenwrwbPJJD+4rs5QTrh6KFIa4tmBr3w=",
-            "type": "git",
-            "url": "https://github.com/tact-lang/tree-sitter-tact"
+            "type": "github"
         },
         "version": "b3710fe2723bd9b285de7f3d0c0717bebf3f17bd"
     },
@@ -4824,10 +5070,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter-grammars",
+            "repo": "tree-sitter-tcl",
             "rev": "8784024358c233efd0f3a6fd9e7a3c5852e628bc",
             "sha256": "sha256-/uw+Nb5A+DklN+BxMpufSCMb/VOE/zqJNnLZVFwjWtc=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter-grammars/tree-sitter-tcl"
+            "type": "github"
         },
         "version": "8784024358c233efd0f3a6fd9e7a3c5852e628bc"
     },
@@ -4845,10 +5092,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "euclidianAce",
+            "repo": "tree-sitter-teal",
             "rev": "19b02da829d1721a521bf7b802eb80a50bd53aab",
             "sha256": "sha256-xIws9Q8AsaIowv6nc01ZpF87Dy8rL78EoZgXuBmg6Kg=",
-            "type": "git",
-            "url": "https://github.com/euclidianAce/tree-sitter-teal"
+            "type": "github"
         },
         "version": "19b02da829d1721a521bf7b802eb80a50bd53aab"
     },
@@ -4864,10 +5112,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "vrischmann",
+            "repo": "tree-sitter-templ",
             "rev": "5c19fba6dc99315d02160ed928bbc5cd8ac9ffe1",
             "sha256": "sha256-eGc1IaaB5v3zrghDpHgnn6FuEriMdnJxZqBTSRIdDOM=",
-            "type": "git",
-            "url": "https://github.com/vrischmann/tree-sitter-templ"
+            "type": "github"
         },
         "version": "5c19fba6dc99315d02160ed928bbc5cd8ac9ffe1"
     },
@@ -4885,10 +5134,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "MichaHoffmann",
+            "repo": "tree-sitter-hcl",
             "rev": "9e3ec9848f28d26845ba300fd73c740459b83e9b",
             "sha256": "sha256-HM77BXavgP+H3XwHSqRdLlylmkH+idtuZqLeOV2VUiM=",
-            "type": "git",
-            "url": "https://github.com/MichaHoffmann/tree-sitter-hcl"
+            "type": "github"
         },
         "version": "9e3ec9848f28d26845ba300fd73c740459b83e9b"
     },
@@ -4904,10 +5154,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "PorterAtGoogle",
+            "repo": "tree-sitter-textproto",
             "rev": "8dacf02aa402892c91079f8577998ed5148c0496",
             "sha256": "sha256-MpQTrNjjNO2Bj5qR6ESwI9SZtJPmcS6ckqjAR0qaLx8=",
-            "type": "git",
-            "url": "https://github.com/PorterAtGoogle/tree-sitter-textproto"
+            "type": "github"
         },
         "version": "8dacf02aa402892c91079f8577998ed5148c0496"
     },
@@ -4923,10 +5174,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "duskmoon314",
+            "repo": "tree-sitter-thrift",
             "rev": "68fd0d80943a828d9e6f49c58a74be1e9ca142cf",
             "sha256": "sha256-owZbs8ttjKrqTA8fQ/NmBGyIUUItSUvvW4hRv0NPV8Y=",
-            "type": "git",
-            "url": "https://github.com/duskmoon314/tree-sitter-thrift"
+            "type": "github"
         },
         "version": "68fd0d80943a828d9e6f49c58a74be1e9ca142cf"
     },
@@ -4942,10 +5194,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ambroisie",
+            "repo": "tree-sitter-tiger",
             "rev": "a7f11d946b44244f71df41d2a78af0665d618dae",
             "sha256": "sha256-zGrbf5cCkgKGw+dQiEqUyHqj8Fu42MfAhEEADoC8DIA=",
-            "type": "git",
-            "url": "https://github.com/ambroisie/tree-sitter-tiger"
+            "type": "github"
         },
         "version": "a7f11d946b44244f71df41d2a78af0665d618dae"
     },
@@ -4961,10 +5214,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tlaplus-community",
+            "repo": "tree-sitter-tlaplus",
             "rev": "bba02e79f85e335f310fc95e21c677e49f2c4439",
             "sha256": "sha256-FbOBkEtsFFD9jIWM2+fETstnvQyIj2DAF81v0dXjouo=",
-            "type": "git",
-            "url": "https://github.com/tlaplus-community/tree-sitter-tlaplus"
+            "type": "github"
         },
         "version": "bba02e79f85e335f310fc95e21c677e49f2c4439"
     },
@@ -4980,10 +5234,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Freed-Wu",
+            "repo": "tree-sitter-tmux",
             "rev": "0252ecd080016e45e6305ef1a943388f5ae2f4b4",
             "sha256": "sha256-8f78qYxqoiOAnl3HzEbF4Rci3rFy0SnELoU+QP7pUlk=",
-            "type": "git",
-            "url": "https://github.com/Freed-Wu/tree-sitter-tmux"
+            "type": "github"
         },
         "version": "0252ecd080016e45e6305ef1a943388f5ae2f4b4"
     },
@@ -4999,10 +5254,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "arnarg",
+            "repo": "tree-sitter-todotxt",
             "rev": "3937c5cd105ec4127448651a21aef45f52d19609",
             "sha256": "sha256-OeAh51rcFTiexAraRzIZUR/A8h9RPwKY7rmtc3ZzoRQ=",
-            "type": "git",
-            "url": "https://github.com/arnarg/tree-sitter-todotxt"
+            "type": "github"
         },
         "version": "3937c5cd105ec4127448651a21aef45f52d19609"
     },
@@ -5018,10 +5274,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter-grammars",
+            "repo": "tree-sitter-toml",
             "rev": "16a30c83ce427385b8d14939c45c137fcfca6c42",
             "sha256": "sha256-VYsPM0NVxegfanVaaKkSkEzJ502xkKSjZWrsJpDmack=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter-grammars/tree-sitter-toml"
+            "type": "github"
         },
         "version": "16a30c83ce427385b8d14939c45c137fcfca6c42"
     },
@@ -5039,10 +5296,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-csv",
             "rev": "7eb7297823605392d2bbcc4c09b1cd18d6fa9529",
             "sha256": "sha256-5VL7uREH0lloAWo9rdJXsjDsWxgL6fngWJSmi4fM7UQ=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-csv"
+            "type": "github"
         },
         "version": "7eb7297823605392d2bbcc4c09b1cd18d6fa9529"
     },
@@ -5060,10 +5318,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-typescript",
             "rev": "198d03553f43a45b92ac5d0ee167db3fec6a6fd6",
             "sha256": "sha256-U597+o8gakd4nU9H2FE2aVhGqSG/eRh6BUhtEmwMzrU=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-typescript"
+            "type": "github"
         },
         "version": "198d03553f43a45b92ac5d0ee167db3fec6a6fd6"
     },
@@ -5079,10 +5338,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "GordianDziwis",
+            "repo": "tree-sitter-turtle",
             "rev": "7f789ea7ef765080f71a298fc96b7c957fa24422",
             "sha256": "sha256-z6f73euFAG9du5owz7V9WLbWK81Jg0DwxN1metKPbTA=",
-            "type": "git",
-            "url": "https://github.com/GordianDziwis/tree-sitter-turtle"
+            "type": "github"
         },
         "version": "7f789ea7ef765080f71a298fc96b7c957fa24422"
     },
@@ -5098,10 +5358,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "gbprod",
+            "repo": "tree-sitter-twig",
             "rev": "085648e01d1422163a1702a44e72303b4e2a0bd1",
             "sha256": "sha256-87jFYAAnblTeEdlXqTjyiiNee/OgasPam1b2xyKQIHY=",
-            "type": "git",
-            "url": "https://github.com/gbprod/tree-sitter-twig"
+            "type": "github"
         },
         "version": "085648e01d1422163a1702a44e72303b4e2a0bd1"
     },
@@ -5119,10 +5380,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-typescript",
             "rev": "198d03553f43a45b92ac5d0ee167db3fec6a6fd6",
             "sha256": "sha256-U597+o8gakd4nU9H2FE2aVhGqSG/eRh6BUhtEmwMzrU=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-typescript"
+            "type": "github"
         },
         "version": "198d03553f43a45b92ac5d0ee167db3fec6a6fd6"
     },
@@ -5138,10 +5400,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "happenslol",
+            "repo": "tree-sitter-typespec",
             "rev": "0ee05546d73d8eb64635ed8125de6f35c77759fe",
             "sha256": "sha256-qXA87soeEdlpzj8svEao8L0F5V14NSZc1WsX9z0PVB0=",
-            "type": "git",
-            "url": "https://github.com/happenslol/tree-sitter-typespec"
+            "type": "github"
         },
         "version": "0ee05546d73d8eb64635ed8125de6f35c77759fe"
     },
@@ -5157,10 +5420,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Teddytrombone",
+            "repo": "tree-sitter-typoscript",
             "rev": "43b221c0b76e77244efdaa9963e402a17c930fbc",
             "sha256": "sha256-7ottrupSWC83rDP59yceDG/TuikNHoyCBnAlns/x6Tc=",
-            "type": "git",
-            "url": "https://github.com/Teddytrombone/tree-sitter-typoscript"
+            "type": "github"
         },
         "version": "43b221c0b76e77244efdaa9963e402a17c930fbc"
     },
@@ -5176,10 +5440,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "uben0",
+            "repo": "tree-sitter-typst",
             "rev": "abe60cbed7986ee475d93f816c1be287f220c5d8",
             "sha256": "sha256-hwM1oEzABe9sqY0mpDXSfwT+tQsLV5ZNSG8yJhES6Qg=",
-            "type": "git",
-            "url": "https://github.com/uben0/tree-sitter-typst"
+            "type": "github"
         },
         "version": "abe60cbed7986ee475d93f816c1be287f220c5d8"
     },
@@ -5195,10 +5460,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ObserverOfTime",
+            "repo": "tree-sitter-udev",
             "rev": "8f58696e79092b4ad6bf197415bbd0970acf15cd",
             "sha256": "sha256-4vkEHlK8r69cvSu7CAXOmyiSSuIRlZcnQAGHtWqx41w=",
-            "type": "git",
-            "url": "https://github.com/ObserverOfTime/tree-sitter-udev"
+            "type": "github"
         },
         "version": "8f58696e79092b4ad6bf197415bbd0970acf15cd"
     },
@@ -5214,10 +5480,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Philipp-M",
+            "repo": "tree-sitter-ungrammar",
             "rev": "debd26fed283d80456ebafa33a06957b0c52e451",
             "sha256": "sha256-ftvcD8I+hYqH3EGxaRZ0w8FHjBA34OSTTsrUsAOtayU=",
-            "type": "git",
-            "url": "https://github.com/Philipp-M/tree-sitter-ungrammar"
+            "type": "github"
         },
         "version": "debd26fed283d80456ebafa33a06957b0c52e451"
     },
@@ -5235,10 +5502,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "kylegoetz",
+            "repo": "tree-sitter-unison",
             "rev": "59d36a09282be7e4d3374854126590f3dcebee6e",
             "sha256": "sha256-89vFguMlPfKzQ4nmMNdTNFcEiCYH0eSws87Llm88e+I=",
-            "type": "git",
-            "url": "https://github.com/kylegoetz/tree-sitter-unison"
+            "type": "github"
         },
         "version": "59d36a09282be7e4d3374854126590f3dcebee6e"
     },
@@ -5254,10 +5522,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ColinKennedy",
+            "repo": "tree-sitter-usd",
             "rev": "4e0875f724d94d0c2ff36f9b8cb0b12f8b20d216",
             "sha256": "sha256-r6Sm8FiTgxdYc5cAG5JXVtA5/2jID5H/xmKbjSYn/zI=",
-            "type": "git",
-            "url": "https://github.com/ColinKennedy/tree-sitter-usd"
+            "type": "github"
         },
         "version": "4e0875f724d94d0c2ff36f9b8cb0b12f8b20d216"
     },
@@ -5273,10 +5542,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "amaanq",
+            "repo": "tree-sitter-uxntal",
             "rev": "ad9b638b914095320de85d59c49ab271603af048",
             "sha256": "sha256-hR0EaYv1++MJ0pdBl3ZtyEljitnp5hgFWQa9F6b1KE4=",
-            "type": "git",
-            "url": "https://github.com/amaanq/tree-sitter-uxntal"
+            "type": "github"
         },
         "version": "ad9b638b914095320de85d59c49ab271603af048"
     },
@@ -5294,10 +5564,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "vlang",
+            "repo": "v-analyzer",
             "rev": "a18d695ec105f0cda1903d1974f493207e122b35",
             "sha256": "sha256-0kgpcb9tTZREQmm9ebvLFZ30hdiYQAv3oegAxgG8bSg=",
-            "type": "git",
-            "url": "https://github.com/vlang/v-analyzer"
+            "type": "github"
         },
         "version": "a18d695ec105f0cda1903d1974f493207e122b35"
     },
@@ -5313,10 +5584,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "vala-lang",
+            "repo": "tree-sitter-vala",
             "rev": "8f690bfa639f2b83d1fb938ed3dd98a7ba453e8b",
             "sha256": "sha256-YZTE3PkBPCEkMXnLC0HSQ86v5+3/J7/ETDQp8eguFW8=",
-            "type": "git",
-            "url": "https://github.com/vala-lang/tree-sitter-vala"
+            "type": "github"
         },
         "version": "8f690bfa639f2b83d1fb938ed3dd98a7ba453e8b"
     },
@@ -5332,10 +5604,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ventojs",
+            "repo": "tree-sitter-vento",
             "rev": "3321077d7446c1b3b017c294fd56ce028ed817fe",
             "sha256": "sha256-/U8hZiYC9/pWscAYDIFgttLDMTq6RLNuHKNTZ/Q4bAc=",
-            "type": "git",
-            "url": "https://github.com/ventojs/tree-sitter-vento"
+            "type": "github"
         },
         "version": "3321077d7446c1b3b017c294fd56ce028ed817fe"
     },
@@ -5351,10 +5624,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter",
+            "repo": "tree-sitter-verilog",
             "rev": "075ebfc84543675f12e79a955f79d717772dcef3",
             "sha256": "sha256-k0Q+MOcZWtXZ99+I+ZyFJ0PZQp2oat2O/7u2UjHzsUg=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter/tree-sitter-verilog"
+            "type": "github"
         },
         "version": "075ebfc84543675f12e79a955f79d717772dcef3"
     },
@@ -5370,10 +5644,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "jpt13653903",
+            "repo": "tree-sitter-vhdl",
             "rev": "4ab3e251eae8890a020d083d00acd1b8c2653c07",
             "sha256": "sha256-egNgZ1GgRNvIdH08cf6V83bMeOECs23yiV5RzcXZENg=",
-            "type": "git",
-            "url": "https://github.com/jpt13653903/tree-sitter-vhdl"
+            "type": "github"
         },
         "version": "4ab3e251eae8890a020d083d00acd1b8c2653c07"
     },
@@ -5389,10 +5664,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "charmbracelet",
+            "repo": "tree-sitter-vhs",
             "rev": "09f8fbfe40a3a699b200daca7d92e65fbbe9f9e6",
             "sha256": "sha256-TUA94sJVWGK0KdvMueyQDmU+AlhdCOg0mlwcfL0XG8E=",
-            "type": "git",
-            "url": "https://github.com/charmbracelet/tree-sitter-vhs"
+            "type": "github"
         },
         "version": "09f8fbfe40a3a699b200daca7d92e65fbbe9f9e6"
     },
@@ -5408,10 +5684,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "neovim",
+            "repo": "tree-sitter-vim",
             "rev": "f3cd62d8bd043ef20507e84bb6b4b53731ccf3a7",
             "sha256": "sha256-KVaTJKU7r7zk57Fn9zl5s34oq8tsLkSRV3VHM6Q6F+s=",
-            "type": "git",
-            "url": "https://github.com/neovim/tree-sitter-vim"
+            "type": "github"
         },
         "version": "f3cd62d8bd043ef20507e84bb6b4b53731ccf3a7"
     },
@@ -5427,10 +5704,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "neovim",
+            "repo": "tree-sitter-vimdoc",
             "rev": "2249c44ecd3f5cf22da3dcccfb74f816ddb29245",
             "sha256": "sha256-v+XSWGm2Wdn9/rxNFMqXYACkGn6AvxZdxkClLuKnWGU=",
-            "type": "git",
-            "url": "https://github.com/neovim/tree-sitter-vimdoc"
+            "type": "github"
         },
         "version": "2249c44ecd3f5cf22da3dcccfb74f816ddb29245"
     },
@@ -5446,10 +5724,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "belltoy",
+            "repo": "tree-sitter-vrl",
             "rev": "274b3ce63f72aa8ffea18e7fc280d3062d28f0ba",
             "sha256": "sha256-R+wuG8UkvGA11uTiiUAdzzgjRv1ik4W+qh3YwIREUd4=",
-            "type": "git",
-            "url": "https://github.com/belltoy/tree-sitter-vrl"
+            "type": "github"
         },
         "version": "274b3ce63f72aa8ffea18e7fc280d3062d28f0ba"
     },
@@ -5465,10 +5744,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter-grammars",
+            "repo": "tree-sitter-vue",
             "rev": "22bdfa6c9fc0f5ffa44c6e938ec46869ac8a99ff",
             "sha256": "sha256-LnmUtJJpBIZPTJqrQQ7WI8V44hPw3yxR+j2jR0pHIdY=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter-grammars/tree-sitter-vue"
+            "type": "github"
         },
         "version": "22bdfa6c9fc0f5ffa44c6e938ec46869ac8a99ff"
     },
@@ -5484,10 +5764,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "szebniok",
+            "repo": "tree-sitter-wgsl",
             "rev": "40259f3c77ea856841a4e0c4c807705f3e4a2b65",
             "sha256": "sha256-voLkcJ/062hzipb3Ak/mgQvFbrLUJdnXq1IupzjMJXA=",
-            "type": "git",
-            "url": "https://github.com/szebniok/tree-sitter-wgsl"
+            "type": "github"
         },
         "version": "40259f3c77ea856841a4e0c4c807705f3e4a2b65"
     },
@@ -5503,10 +5784,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "theHamsta",
+            "repo": "tree-sitter-wgsl-bevy",
             "rev": "0f06f24e259ac725045956436b9025dab008ff9f",
             "sha256": "sha256-/HNDdI2Tg6YG/lAvubZtN2g6pUCk0Kl4kRTRsABIm0Y=",
-            "type": "git",
-            "url": "https://github.com/theHamsta/tree-sitter-wgsl-bevy"
+            "type": "github"
         },
         "version": "0f06f24e259ac725045956436b9025dab008ff9f"
     },
@@ -5522,10 +5804,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "winglang",
+            "repo": "tree-sitter-wing",
             "rev": "bd1d35cf3e013dc7e189b46a593bdc2b281b0dd7",
             "sha256": "sha256-jygMTswZ8r4tUJQ0lUH8GHz56dyGd6rV1wL5i75Ni88=",
-            "type": "git",
-            "url": "https://github.com/winglang/tree-sitter-wing"
+            "type": "github"
         },
         "version": "bd1d35cf3e013dc7e189b46a593bdc2b281b0dd7"
     },
@@ -5541,10 +5824,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "liamwh",
+            "repo": "tree-sitter-wit",
             "rev": "c52f0b07786603df17ad0197f6cef680f312eb2c",
             "sha256": "sha256-0MyRMippVOdb0RzyJQhPwX7GlWzFV9Z+/mghYuUW7NU=",
-            "type": "git",
-            "url": "https://github.com/liamwh/tree-sitter-wit"
+            "type": "github"
         },
         "version": "c52f0b07786603df17ad0197f6cef680f312eb2c"
     },
@@ -5560,10 +5844,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "ObserverOfTime",
+            "repo": "tree-sitter-xcompose",
             "rev": "fff3e72242aa110ebba6441946ea4d12d200fa68",
             "sha256": "sha256-PNg1z+7CuvpQdksKJOCQ59dZrv4PORdYo6CSw3GrBtk=",
-            "type": "git",
-            "url": "https://github.com/ObserverOfTime/tree-sitter-xcompose"
+            "type": "github"
         },
         "version": "fff3e72242aa110ebba6441946ea4d12d200fa68"
     },
@@ -5581,10 +5866,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter-grammars",
+            "repo": "tree-sitter-xml",
             "rev": "809266ed1694d64dedc168a18893cc254e3edf7e",
             "sha256": "sha256-Kxmk9v2oTTYtoLQ2n0LyNziouG56ZSgcirS8JukUmZE=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml"
+            "type": "github"
         },
         "version": "809266ed1694d64dedc168a18893cc254e3edf7e"
     },
@@ -5600,10 +5886,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter-grammars",
+            "repo": "tree-sitter-yaml",
             "rev": "7b03feefd36b5f155465ca736c6304aca983b267",
             "sha256": "sha256-hjZQv8kMpjJ29Rl6CEBwb090rFNWP1HPkSECbmTr0zQ=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter-grammars/tree-sitter-yaml"
+            "type": "github"
         },
         "version": "7b03feefd36b5f155465ca736c6304aca983b267"
     },
@@ -5619,10 +5906,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Hubro",
+            "repo": "tree-sitter-yang",
             "rev": "2c0e6be8dd4dcb961c345fa35c309ad4f5bd3502",
             "sha256": "sha256-6EIK1EStHrUHBLZBsZqd1LL05ZAJ6PKUyIzBBsTVjO8=",
-            "type": "git",
-            "url": "https://github.com/Hubro/tree-sitter-yang"
+            "type": "github"
         },
         "version": "2c0e6be8dd4dcb961c345fa35c309ad4f5bd3502"
     },
@@ -5638,10 +5926,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Philipp-M",
+            "repo": "tree-sitter-yuck",
             "rev": "e877f6ade4b77d5ef8787075141053631ba12318",
             "sha256": "sha256-l8c1/7q8S78jGyl+VAVVgs8wq58PrrjycyJfWXsCgAI=",
-            "type": "git",
-            "url": "https://github.com/Philipp-M/tree-sitter-yuck"
+            "type": "github"
         },
         "version": "e877f6ade4b77d5ef8787075141053631ba12318"
     },
@@ -5657,10 +5946,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "Freed-Wu",
+            "repo": "tree-sitter-zathurarc",
             "rev": "0554b4a5d313244b7fc000cbb41c04afae4f4e31",
             "sha256": "sha256-edwLcz1WlcRJOoV2Unpho8wmi7TmcpwysBOAdRKprNw=",
-            "type": "git",
-            "url": "https://github.com/Freed-Wu/tree-sitter-zathurarc"
+            "type": "github"
         },
         "version": "0554b4a5d313244b7fc000cbb41c04afae4f4e31"
     },
@@ -5676,10 +5966,11 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
+            "owner": "tree-sitter-grammars",
+            "repo": "tree-sitter-zig",
             "rev": "21e2218e0ec7f4e3c0640d16bf8c67e6f0a61e18",
             "sha256": "sha256-BJ7rexbUbi92FRg5rhXTUpips4T9YtkEA/hVtd1tBFY=",
-            "type": "git",
-            "url": "https://github.com/tree-sitter-grammars/tree-sitter-zig"
+            "type": "github"
         },
         "version": "21e2218e0ec7f4e3c0640d16bf8c67e6f0a61e18"
     }

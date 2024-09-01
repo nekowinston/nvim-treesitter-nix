@@ -42,8 +42,15 @@ for _, lang in pairs(keys) do
 	local info = parsers[lang].install_info
 
 	file:write("[treesitter-grammar-" .. lang .. "]\n")
-	file:write('fetch.git = "' .. info.url .. '"\n')
 	file:write('src.git = "' .. info.url .. '"\n')
+
+	if string.match(info.url, "github.com") then
+		repo = info.url:gsub("https://github.com/", "")
+		file:write('fetch.github = "' .. repo .. '"\n')
+	else
+		file:write('fetch.git = "' .. info.url .. '"\n')
+	end
+
 	if info.branch then
 		file:write('src.branch = "' .. info.branch .. '"\n')
 	end
