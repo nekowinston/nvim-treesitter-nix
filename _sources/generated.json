@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2024-09-08",
+        "date": "2024-09-15",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "4770d9a1a77b0cc2b723c646c3dbe43a9133e5db",
-            "sha256": "sha256-wFgxqSkFEtJWVe/ORUgeFVKnMkYellLPCc+6Vr7YvQI=",
+            "rev": "b7160e87aadbb3f5f6ee87ce139406fe3433044e",
+            "sha256": "sha256-SvqbLwHtRdUe0YNIY7wMt1ZLY/cOP1KNUINW3vy/97s=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "4770d9a1a77b0cc2b723c646c3dbe43a9133e5db"
+        "version": "b7160e87aadbb3f5f6ee87ce139406fe3433044e"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -80,7 +80,7 @@
     },
     "treesitter-grammar-apex": {
         "cargoLocks": null,
-        "date": "2024-08-22",
+        "date": "2024-09-15",
         "extract": null,
         "name": "treesitter-grammar-apex",
         "passthru": {
@@ -94,11 +94,11 @@
             "name": null,
             "owner": "aheber",
             "repo": "tree-sitter-sfapex",
-            "rev": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
-            "sha256": "sha256-OEaeH+iVWOtDKVBAAbFPN96uyKlcuDHIObsk6SP78SY=",
+            "rev": "3cb650c4f85aa9d92266c2d7f6c0090bff6819c9",
+            "sha256": "sha256-EnLbCqax5ehIfEnK1F7L/lXj5EmO814cLNwpp7rD9pU=",
             "type": "github"
         },
-        "version": "602cc4b050ef1e14a69acc2ea094968bf928fa59"
+        "version": "3cb650c4f85aa9d92266c2d7f6c0090bff6819c9"
     },
     "treesitter-grammar-arduino": {
         "cargoLocks": null,
@@ -322,7 +322,7 @@
     },
     "treesitter-grammar-blade": {
         "cargoLocks": null,
-        "date": "2024-09-02",
+        "date": "2024-09-11",
         "extract": null,
         "name": "treesitter-grammar-blade",
         "passthru": null,
@@ -334,11 +334,11 @@
             "name": null,
             "owner": "EmranMR",
             "repo": "tree-sitter-blade",
-            "rev": "5eae5e1677191bb42506bf160906e34612a438b0",
-            "sha256": "sha256-ABbId48TDHwIRFtM3WpHoQR07BpXimdZbUCzRXyicYM=",
+            "rev": "335b2a44b4cdd9446f1c01434226267a61851405",
+            "sha256": "sha256-wXzmlg79Xva08wn3NoJDJ2cIHuShXPIlf+UK0TsZdbY=",
             "type": "github"
         },
-        "version": "5eae5e1677191bb42506bf160906e34612a438b0"
+        "version": "335b2a44b4cdd9446f1c01434226267a61851405"
     },
     "treesitter-grammar-blueprint": {
         "cargoLocks": null,
@@ -1047,7 +1047,7 @@
     },
     "treesitter-grammar-elixir": {
         "cargoLocks": null,
-        "date": "2024-09-06",
+        "date": "2024-09-09",
         "extract": null,
         "name": "treesitter-grammar-elixir",
         "passthru": null,
@@ -1059,11 +1059,11 @@
             "name": null,
             "owner": "elixir-lang",
             "repo": "tree-sitter-elixir",
-            "rev": "27efab52e7c955ccd68e0fd82a1c6d83002bc7c8",
-            "sha256": "sha256-wRkIpOgxOC6NsHc2teWtcMVBb03MtTng6/HbZ+hVN58=",
+            "rev": "2c6e93171477973b38de4b1d2be427cc99f990a6",
+            "sha256": "sha256-WBvpJ0r7cp/xWvnqSk6q4mpyfLAAdIR//2ju6Xri3EY=",
             "type": "github"
         },
-        "version": "27efab52e7c955ccd68e0fd82a1c6d83002bc7c8"
+        "version": "2c6e93171477973b38de4b1d2be427cc99f990a6"
     },
     "treesitter-grammar-elm": {
         "cargoLocks": null,
@@ -1546,7 +1546,7 @@
     },
     "treesitter-grammar-gleam": {
         "cargoLocks": null,
-        "date": "2024-09-01",
+        "date": "2024-09-09",
         "extract": null,
         "name": "treesitter-grammar-gleam",
         "passthru": null,
@@ -1558,11 +1558,11 @@
             "name": null,
             "owner": "gleam-lang",
             "repo": "tree-sitter-gleam",
-            "rev": "0d38bfdc04cc90d7541c21e39089e35e40c429d3",
-            "sha256": "sha256-Rb9dEi7AwjTrRE6XQ4VYQNfhRBdva8qBGMG5HND0H8w=",
+            "rev": "9586f38658da115c90e2d01099c83479eb0eea99",
+            "sha256": "sha256-EfuYnfz0E1I5F+9nFvp/uB+S4p6/9evlDlEEbWXCfBc=",
             "type": "github"
         },
-        "version": "0d38bfdc04cc90d7541c21e39089e35e40c429d3"
+        "version": "9586f38658da115c90e2d01099c83479eb0eea99"
     },
     "treesitter-grammar-glimmer": {
         "cargoLocks": null,
@@ -1576,7 +1576,7 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "owner": "ember-tooling",
+            "owner": "alexlafroscia",
             "repo": "tree-sitter-glimmer",
             "rev": "da605af8c5999b43e6839b575eae5e6cafabb06f",
             "sha256": "sha256-2ofCBhp/Trj5ivZpMGFm6dvAGic+w8Tl0osRk+IRLL4=",
@@ -1584,49 +1584,9 @@
         },
         "version": "da605af8c5999b43e6839b575eae5e6cafabb06f"
     },
-    "treesitter-grammar-glimmer_javascript": {
-        "cargoLocks": null,
-        "date": "2024-08-20",
-        "extract": null,
-        "name": "treesitter-grammar-glimmer_javascript",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "owner": "NullVoxPopuli",
-            "repo": "tree-sitter-glimmer-javascript",
-            "rev": "a260911201684f80cf815418b3771e6c39309f81",
-            "sha256": "sha256-fpVlfYjVI1ricwNfuzI5AV3RV4ijFTYOf/2NhCirCvU=",
-            "type": "github"
-        },
-        "version": "a260911201684f80cf815418b3771e6c39309f81"
-    },
-    "treesitter-grammar-glimmer_typescript": {
-        "cargoLocks": null,
-        "date": "2024-08-20",
-        "extract": null,
-        "name": "treesitter-grammar-glimmer_typescript",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "owner": "NullVoxPopuli",
-            "repo": "tree-sitter-glimmer-typescript",
-            "rev": "9d018a0f93417e6951264a26093b89ee63df7315",
-            "sha256": "sha256-ZV6q4OEwj0ulGh5PO5XEMvT4WJQHkMmMXFJs8mcJqXk=",
-            "type": "github"
-        },
-        "version": "9d018a0f93417e6951264a26093b89ee63df7315"
-    },
     "treesitter-grammar-glsl": {
         "cargoLocks": null,
-        "date": "2024-07-20",
+        "date": "2024-09-12",
         "extract": null,
         "name": "treesitter-grammar-glsl",
         "passthru": null,
@@ -1638,11 +1598,11 @@
             "name": null,
             "owner": "theHamsta",
             "repo": "tree-sitter-glsl",
-            "rev": "ddc3137a2d775aca93084ff997fa13cc1691058a",
-            "sha256": "sha256-q1xL3/4W442z1wjYL0HQNdz4sPZqqEijyLSvECHugXw=",
+            "rev": "66aec57f7119c7e8e40665b723cd7af5594f15ee",
+            "sha256": "sha256-EO8p3BhoyemCXlWq4BI5Y1KqU04F9KpEwbn8HoZd4z4=",
             "type": "github"
         },
-        "version": "ddc3137a2d775aca93084ff997fa13cc1691058a"
+        "version": "66aec57f7119c7e8e40665b723cd7af5594f15ee"
     },
     "treesitter-grammar-gn": {
         "cargoLocks": null,
@@ -1746,7 +1706,7 @@
     },
     "treesitter-grammar-gomod": {
         "cargoLocks": null,
-        "date": "2024-07-31",
+        "date": "2024-09-11",
         "extract": null,
         "name": "treesitter-grammar-gomod",
         "passthru": null,
@@ -1758,11 +1718,11 @@
             "name": null,
             "owner": "camdencheek",
             "repo": "tree-sitter-go-mod",
-            "rev": "1f55029bacd0a6a11f6eb894c4312d429dcf735c",
-            "sha256": "sha256-/sjC117YAFniFws4F/8+Q5Wrd4l4v4nBUaO9IdkixSE=",
+            "rev": "3b01edce2b9ea6766ca19328d1850e456fde3103",
+            "sha256": "sha256-C3pPBgm68mmaPmstyIpIvvDHsx29yZ0ZX/QoUqwjb+0=",
             "type": "github"
         },
-        "version": "1f55029bacd0a6a11f6eb894c4312d429dcf735c"
+        "version": "3b01edce2b9ea6766ca19328d1850e456fde3103"
     },
     "treesitter-grammar-gosum": {
         "cargoLocks": null,
@@ -2068,7 +2028,7 @@
     },
     "treesitter-grammar-hlsl": {
         "cargoLocks": null,
-        "date": "2024-09-03",
+        "date": "2024-09-12",
         "extract": null,
         "name": "treesitter-grammar-hlsl",
         "passthru": null,
@@ -2080,11 +2040,11 @@
             "name": null,
             "owner": "theHamsta",
             "repo": "tree-sitter-hlsl",
-            "rev": "cf432a7420eb71e9b40954aa829dcb8a9bf6b546",
-            "sha256": "sha256-LnbEEV8N9undyrC0ziH2nfbFOOEAPKVPXTyl7Xq0KG0=",
+            "rev": "543930235970a04c2f0d549c9e88815847c7a74a",
+            "sha256": "sha256-MElmidivJtIywWm4dRslrmtc/vVwGDO1f6k/0P3gb4E=",
             "type": "github"
         },
-        "version": "cf432a7420eb71e9b40954aa829dcb8a9bf6b546"
+        "version": "543930235970a04c2f0d549c9e88815847c7a74a"
     },
     "treesitter-grammar-hlsplaylist": {
         "cargoLocks": null,
@@ -2208,7 +2168,7 @@
     },
     "treesitter-grammar-hurl": {
         "cargoLocks": null,
-        "date": "2024-07-30",
+        "date": "2024-09-14",
         "extract": null,
         "name": "treesitter-grammar-hurl",
         "passthru": null,
@@ -2220,11 +2180,11 @@
             "name": null,
             "owner": "pfeiferj",
             "repo": "tree-sitter-hurl",
-            "rev": "fba6ed8db3a009b9e7d656511931b181a3ee5b08",
-            "sha256": "sha256-JWFEk1R19YIeDNm3LkBmdL+mmfhtBDhHfg6GESwruU0=",
+            "rev": "ff07a42d9ec95443b5c1b57ed793414bf7b79be5",
+            "sha256": "sha256-9uRRlJWT0knZ3vvzGEq9CjyffQnYF53rnoBnsQ68zyE=",
             "type": "github"
         },
-        "version": "fba6ed8db3a009b9e7d656511931b181a3ee5b08"
+        "version": "ff07a42d9ec95443b5c1b57ed793414bf7b79be5"
     },
     "treesitter-grammar-hyprlang": {
         "cargoLocks": null,
@@ -2667,7 +2627,7 @@
     },
     "treesitter-grammar-latex": {
         "cargoLocks": null,
-        "date": "2024-08-18",
+        "date": "2024-09-11",
         "extract": null,
         "name": "treesitter-grammar-latex",
         "passthru": {
@@ -2681,11 +2641,11 @@
             "name": null,
             "owner": "latex-lsp",
             "repo": "tree-sitter-latex",
-            "rev": "90fd9894bebddce79f5b8041e7f82523364a619b",
-            "sha256": "sha256-+wUGNYpw2udCrF4+qMD/4TAPkBCB7q/49Qx/k/FQa3U=",
+            "rev": "1e4e30342b7a3b3a24886a632fbac53035d98871",
+            "sha256": "sha256-A2uvHRoe9xtgsHSLYdZiztGLXdqXzsfw4BYeZ/Cmr4k=",
             "type": "github"
         },
-        "version": "90fd9894bebddce79f5b8041e7f82523364a619b"
+        "version": "1e4e30342b7a3b3a24886a632fbac53035d98871"
     },
     "treesitter-grammar-ledger": {
         "cargoLocks": null,
@@ -2809,7 +2769,7 @@
     },
     "treesitter-grammar-lua": {
         "cargoLocks": null,
-        "date": "2024-03-11",
+        "date": "2024-09-09",
         "extract": null,
         "name": "treesitter-grammar-lua",
         "passthru": null,
@@ -2821,11 +2781,11 @@
             "name": null,
             "owner": "MunifTanjim",
             "repo": "tree-sitter-lua",
-            "rev": "a24dab177e58c9c6832f96b9a73102a0cfbced4a",
-            "sha256": "sha256-uFaEptW4wPrqgHfB1mYmVltf+4no61L2cPgpsr5qBIU=",
+            "rev": "99fc677e6971c425e8d407f59c77ab897e585c92",
+            "sha256": "sha256-Q2LtrifoKf16N1dRBf2xLi12kpMkcFncZL4jaVbtK3M=",
             "type": "github"
         },
-        "version": "a24dab177e58c9c6832f96b9a73102a0cfbced4a"
+        "version": "99fc677e6971c425e8d407f59c77ab897e585c92"
     },
     "treesitter-grammar-luadoc": {
         "cargoLocks": null,
@@ -2929,7 +2889,7 @@
     },
     "treesitter-grammar-markdown": {
         "cargoLocks": null,
-        "date": "2024-04-02",
+        "date": "2024-09-11",
         "extract": null,
         "name": "treesitter-grammar-markdown",
         "passthru": {
@@ -2943,15 +2903,15 @@
             "name": null,
             "owner": "MDeiml",
             "repo": "tree-sitter-markdown",
-            "rev": "7fe453beacecf02c86f7736439f238f5bb8b5c9b",
-            "sha256": "sha256-Ai8w5fVtN6NofEGG3VQNd8pNPVijYw6nDzrhedKMOe4=",
+            "rev": "d9287a6f36347064e55c36858e9e522eb652c1ad",
+            "sha256": "sha256-QFHPlvoJMTMepV1KxKXKjpiKMMmGzBO5mxxNcWKLO7s=",
             "type": "github"
         },
-        "version": "7fe453beacecf02c86f7736439f238f5bb8b5c9b"
+        "version": "d9287a6f36347064e55c36858e9e522eb652c1ad"
     },
     "treesitter-grammar-markdown_inline": {
         "cargoLocks": null,
-        "date": "2024-04-02",
+        "date": "2024-09-11",
         "extract": null,
         "name": "treesitter-grammar-markdown_inline",
         "passthru": {
@@ -2965,11 +2925,11 @@
             "name": null,
             "owner": "MDeiml",
             "repo": "tree-sitter-markdown",
-            "rev": "7fe453beacecf02c86f7736439f238f5bb8b5c9b",
-            "sha256": "sha256-Ai8w5fVtN6NofEGG3VQNd8pNPVijYw6nDzrhedKMOe4=",
+            "rev": "d9287a6f36347064e55c36858e9e522eb652c1ad",
+            "sha256": "sha256-QFHPlvoJMTMepV1KxKXKjpiKMMmGzBO5mxxNcWKLO7s=",
             "type": "github"
         },
-        "version": "7fe453beacecf02c86f7736439f238f5bb8b5c9b"
+        "version": "d9287a6f36347064e55c36858e9e522eb652c1ad"
     },
     "treesitter-grammar-matlab": {
         "cargoLocks": null,
@@ -3521,7 +3481,7 @@
     },
     "treesitter-grammar-perl": {
         "cargoLocks": null,
-        "date": "2024-08-30",
+        "date": "2024-09-11",
         "extract": null,
         "name": "treesitter-grammar-perl",
         "passthru": null,
@@ -3533,11 +3493,11 @@
             "name": null,
             "owner": "tree-sitter-perl",
             "repo": "tree-sitter-perl",
-            "rev": "05d6a22c903ab7d12e93a039332ad6687c8c7b7d",
-            "sha256": "sha256-3Ka/yCZcKP0PqAelAMdbKgAjvlwzWsYgXdzYROPic4U=",
+            "rev": "465983954cae2d2f984eae82de5ed5f11ca291dc",
+            "sha256": "sha256-jSVmxGkumDXExLjT+Nnsu+E0IBB3z6wBb4y8hpp5IQs=",
             "type": "github"
         },
-        "version": "05d6a22c903ab7d12e93a039332ad6687c8c7b7d"
+        "version": "465983954cae2d2f984eae82de5ed5f11ca291dc"
     },
     "treesitter-grammar-php": {
         "cargoLocks": null,
@@ -4091,7 +4051,7 @@
     },
     "treesitter-grammar-r": {
         "cargoLocks": null,
-        "date": "2024-09-06",
+        "date": "2024-09-13",
         "extract": null,
         "name": "treesitter-grammar-r",
         "passthru": null,
@@ -4103,11 +4063,11 @@
             "name": null,
             "owner": "r-lib",
             "repo": "tree-sitter-r",
-            "rev": "c8b6e5f3f3c055cfc76471ebc912286e9e73d7d2",
-            "sha256": "sha256-B+pDrkXIaWd16hN5FzunrdmO/hbqQdHI6pgGUdWZYEg=",
+            "rev": "4279b699c47fa87956045980c46c7d30f8c0121b",
+            "sha256": "sha256-9IjhdtkQNshRJq48jBW6cvDd/tVNwgYfRK2YWhdFG84=",
             "type": "github"
         },
-        "version": "c8b6e5f3f3c055cfc76471ebc912286e9e73d7d2"
+        "version": "4279b699c47fa87956045980c46c7d30f8c0121b"
     },
     "treesitter-grammar-racket": {
         "cargoLocks": null,
@@ -4471,7 +4431,7 @@
     },
     "treesitter-grammar-scala": {
         "cargoLocks": null,
-        "date": "2024-09-02",
+        "date": "2024-09-12",
         "extract": null,
         "name": "treesitter-grammar-scala",
         "passthru": null,
@@ -4483,11 +4443,11 @@
             "name": null,
             "owner": "tree-sitter",
             "repo": "tree-sitter-scala",
-            "rev": "a366c0d52485b84d2d9ba66dee530398526acb01",
-            "sha256": "sha256-CLoUcx3JApJPZpA91Qhv7hfb6UvxkjjPfAkxfht2exw=",
+            "rev": "ec13dd674bb8dd89213e0d6b1fe45efb68d5878f",
+            "sha256": "sha256-ireSo04kG2RMlCZD1hf6BJcjT7eXjYdOqOsoMtQAwKQ=",
             "type": "github"
         },
-        "version": "a366c0d52485b84d2d9ba66dee530398526acb01"
+        "version": "ec13dd674bb8dd89213e0d6b1fe45efb68d5878f"
     },
     "treesitter-grammar-scfg": {
         "cargoLocks": null,
@@ -4553,7 +4513,7 @@
     },
     "treesitter-grammar-sflog": {
         "cargoLocks": null,
-        "date": "2024-08-22",
+        "date": "2024-09-15",
         "extract": null,
         "name": "treesitter-grammar-sflog",
         "passthru": {
@@ -4567,15 +4527,15 @@
             "name": null,
             "owner": "aheber",
             "repo": "tree-sitter-sfapex",
-            "rev": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
-            "sha256": "sha256-OEaeH+iVWOtDKVBAAbFPN96uyKlcuDHIObsk6SP78SY=",
+            "rev": "3cb650c4f85aa9d92266c2d7f6c0090bff6819c9",
+            "sha256": "sha256-EnLbCqax5ehIfEnK1F7L/lXj5EmO814cLNwpp7rD9pU=",
             "type": "github"
         },
-        "version": "602cc4b050ef1e14a69acc2ea094968bf928fa59"
+        "version": "3cb650c4f85aa9d92266c2d7f6c0090bff6819c9"
     },
     "treesitter-grammar-slang": {
         "cargoLocks": null,
-        "date": "2024-09-03",
+        "date": "2024-09-12",
         "extract": null,
         "name": "treesitter-grammar-slang",
         "passthru": null,
@@ -4587,11 +4547,11 @@
             "name": null,
             "owner": "theHamsta",
             "repo": "tree-sitter-slang",
-            "rev": "4a3fabd26b09efd7431ea4899e5f2d81b568a4b9",
-            "sha256": "sha256-SlLN4KkuSuywWtZlP8J0/bf4sFIres1er3HiK+gj4vA=",
+            "rev": "dd991eb3b6957a33d9044e0f5914588f7f449a78",
+            "sha256": "sha256-Kt396lw3O3X4I3sEadfhoRVi598UCknOmdCPIMpqgdA=",
             "type": "github"
         },
-        "version": "4a3fabd26b09efd7431ea4899e5f2d81b568a4b9"
+        "version": "dd991eb3b6957a33d9044e0f5914588f7f449a78"
     },
     "treesitter-grammar-slint": {
         "cargoLocks": null,
@@ -4695,7 +4655,7 @@
     },
     "treesitter-grammar-soql": {
         "cargoLocks": null,
-        "date": "2024-08-22",
+        "date": "2024-09-15",
         "extract": null,
         "name": "treesitter-grammar-soql",
         "passthru": {
@@ -4709,15 +4669,15 @@
             "name": null,
             "owner": "aheber",
             "repo": "tree-sitter-sfapex",
-            "rev": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
-            "sha256": "sha256-OEaeH+iVWOtDKVBAAbFPN96uyKlcuDHIObsk6SP78SY=",
+            "rev": "3cb650c4f85aa9d92266c2d7f6c0090bff6819c9",
+            "sha256": "sha256-EnLbCqax5ehIfEnK1F7L/lXj5EmO814cLNwpp7rD9pU=",
             "type": "github"
         },
-        "version": "602cc4b050ef1e14a69acc2ea094968bf928fa59"
+        "version": "3cb650c4f85aa9d92266c2d7f6c0090bff6819c9"
     },
     "treesitter-grammar-sosl": {
         "cargoLocks": null,
-        "date": "2024-08-22",
+        "date": "2024-09-15",
         "extract": null,
         "name": "treesitter-grammar-sosl",
         "passthru": {
@@ -4731,11 +4691,11 @@
             "name": null,
             "owner": "aheber",
             "repo": "tree-sitter-sfapex",
-            "rev": "602cc4b050ef1e14a69acc2ea094968bf928fa59",
-            "sha256": "sha256-OEaeH+iVWOtDKVBAAbFPN96uyKlcuDHIObsk6SP78SY=",
+            "rev": "3cb650c4f85aa9d92266c2d7f6c0090bff6819c9",
+            "sha256": "sha256-EnLbCqax5ehIfEnK1F7L/lXj5EmO814cLNwpp7rD9pU=",
             "type": "github"
         },
-        "version": "602cc4b050ef1e14a69acc2ea094968bf928fa59"
+        "version": "3cb650c4f85aa9d92266c2d7f6c0090bff6819c9"
     },
     "treesitter-grammar-sourcepawn": {
         "cargoLocks": null,
@@ -4792,7 +4752,7 @@
             "owner": "derekstride",
             "repo": "tree-sitter-sql",
             "rev": "a8b10c76759a372d0f92bb070b4f5c993e0ce5f9",
-            "sha256": "sha256-wfoov9KfIadouF3HTJ9hOpnIouCHvDffgSrXow8zQ5I=",
+            "sha256": "sha256-13RvViBheuKQ+WgEiZG3SGFwp0H/xqFz4bbdYtMnako=",
             "type": "github"
         },
         "version": "a8b10c76759a372d0f92bb070b4f5c993e0ce5f9"
@@ -4959,7 +4919,7 @@
     },
     "treesitter-grammar-swift": {
         "cargoLocks": null,
-        "date": "2024-09-06",
+        "date": "2024-09-10",
         "extract": null,
         "name": "treesitter-grammar-swift",
         "passthru": {
@@ -4973,11 +4933,11 @@
             "name": null,
             "owner": "alex-pinkus",
             "repo": "tree-sitter-swift",
-            "rev": "caa953d26c9479d18a373873125733f01342c40a",
-            "sha256": "sha256-IHTy8bnb7/FBax2Qqruf5mCXDgFO5kN7DR2JHSEmQZM=",
+            "rev": "7d303df70012edb7385a6a3b3938e0e7b89ecfbd",
+            "sha256": "sha256-aTzbNyg248RG00qj7LiLDQAI63c7cXx++TGoANkyp2c=",
             "type": "github"
         },
-        "version": "caa953d26c9479d18a373873125733f01342c40a"
+        "version": "7d303df70012edb7385a6a3b3938e0e7b89ecfbd"
     },
     "treesitter-grammar-sxhkdrc": {
         "cargoLocks": null,
@@ -5592,7 +5552,7 @@
     },
     "treesitter-grammar-v": {
         "cargoLocks": null,
-        "date": "2024-09-05",
+        "date": "2024-09-14",
         "extract": null,
         "name": "treesitter-grammar-v",
         "passthru": {
@@ -5606,11 +5566,11 @@
             "name": null,
             "owner": "vlang",
             "repo": "v-analyzer",
-            "rev": "d63bc6c08a88715c89f4b1b06642e130dd899aba",
-            "sha256": "sha256-RYYxkYGaWKFvkAgthchwxWqA3WYNzwd9dAJPv4um4jc=",
+            "rev": "83b7286d8f4f33c88dff102bad22149d8e29d9eb",
+            "sha256": "sha256-O9NXsijpl7+7KWLYwH95Pa4QeWfik6i+wAK5OWV/xgc=",
             "type": "github"
         },
-        "version": "d63bc6c08a88715c89f4b1b06642e130dd899aba"
+        "version": "83b7286d8f4f33c88dff102bad22149d8e29d9eb"
     },
     "treesitter-grammar-vala": {
         "cargoLocks": null,

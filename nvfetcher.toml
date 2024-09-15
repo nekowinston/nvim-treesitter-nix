@@ -319,16 +319,8 @@ src.git = "https://github.com/gleam-lang/tree-sitter-gleam"
 fetch.github = "gleam-lang/tree-sitter-gleam"
 
 [treesitter-grammar-glimmer]
-src.git = "https://github.com/ember-tooling/tree-sitter-glimmer"
-fetch.github = "ember-tooling/tree-sitter-glimmer"
-
-[treesitter-grammar-glimmer_javascript]
-src.git = "https://github.com/NullVoxPopuli/tree-sitter-glimmer-javascript"
-fetch.github = "NullVoxPopuli/tree-sitter-glimmer-javascript"
-
-[treesitter-grammar-glimmer_typescript]
-src.git = "https://github.com/NullVoxPopuli/tree-sitter-glimmer-typescript"
-fetch.github = "NullVoxPopuli/tree-sitter-glimmer-typescript"
+src.git = "https://github.com/alexlafroscia/tree-sitter-glimmer"
+fetch.github = "alexlafroscia/tree-sitter-glimmer"
 
 [treesitter-grammar-glsl]
 src.git = "https://github.com/theHamsta/tree-sitter-glsl"
