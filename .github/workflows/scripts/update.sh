@@ -1,5 +1,7 @@
 #!/usr/bin/env nix
 #!nix develop .# --command bash
+set -euxo pipefail
+
 nvfetcher -f '^nvim-treesitter$'
 echo 'Updating nvfetcher.toml...'
 nvim -l ./generate-nvfetcher.lua
