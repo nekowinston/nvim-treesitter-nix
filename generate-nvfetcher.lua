@@ -40,29 +40,29 @@ file:write("\n")
 -- all available grammars
 for _, lang in pairs(keys) do
 	local info = parsers[lang].install_info
+	local url = info.url:gsub("%.git$", "")
 
 	file:write("[treesitter-grammar-" .. lang .. "]\n")
-	file:write('src.git = "' .. info.url .. '"\n')
+	file:write('src.git = "' .. url .. '"\n')
 
 	if string.match(info.url, "github.com") then
-		repo = info.url:gsub("https://github.com/", "")
+		local repo = url:gsub("https://github.com/", "")
 		file:write('fetch.github = "' .. repo .. '"\n')
 	else
-		file:write('fetch.git = "' .. info.url .. '"\n')
+		file:write('fetch.git = "' .. url .. '"\n')
 	end
 
 	if info.branch then
 		file:write('src.branch = "' .. info.branch .. '"\n')
 	end
 
-	if info.location or info.requires_generate_from_grammar then
-		file:write("[treesitter-grammar-" .. lang .. ".passthru]\n")
-		if info.requires_generate_from_grammar then
-			file:write('generate = "true"\n')
-		end
-		if info.location then
-			file:write('location = "' .. info.location .. '"\n')
-		end
+	file:write("[treesitter-grammar-" .. lang .. ".passthru]\n")
+	file:write('isGrammar = "true"\n')
+	if info.requires_generate_from_grammar then
+		file:write('generate = "true"\n')
+	end
+	if info.location then
+		file:write('location = "' .. info.location .. '"\n')
 	end
 	file:write("\n")
 end

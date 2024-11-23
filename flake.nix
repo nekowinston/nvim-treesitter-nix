@@ -6,32 +6,44 @@
   outputs =
     { self, nixpkgs }:
     let
+      inherit (nixpkgs) lib;
       systems = [
         "aarch64-darwin"
         "aarch64-linux"
         "x86_64-darwin"
         "x86_64-linux"
       ];
-      eachSystem = fn: nixpkgs.lib.genAttrs systems (system: fn nixpkgs.legacyPackages.${system});
+      eachSystem =
+        fn:
+        lib.genAttrs systems (
+          system:
+          fn (
+            import nixpkgs {
+              config = { };
+              overlays = [ self.overlays.default ];
+              inherit system;
+            }
+          )
+        );
     in
     {
       devShells = eachSystem (pkgs: {
         default = pkgs.mkShellNoCC {
           packages = with pkgs; [
             nvfetcher
-            (pkgs.callPackage ./neovim.nix { })
+            (wrapNeovimUnstable neovim-unwrapped (
+              neovimUtils.makeNeovimConfig {
+                plugins = with vimPlugins; [ nvim-treesitter.withAllGrammars ];
+              }
+            ))
           ];
         };
       });
 
-      overlays.default = final: prev: {
-        vimPlugins = prev.vimPlugins // {
-          nvim-treesitter = self.packages.${prev.hostPlatform.system}.default;
-        };
-      };
+      overlays.default = import ./overlay.nix;
 
       packages = eachSystem (pkgs: {
-        default = pkgs.callPackage ./default.nix { };
+        nvim-treesitter = pkgs.vimPlugins.nvim-treesitter;
       });
 
       formatter = eachSystem (pkgs: pkgs.nixfmt-rfc-style);
