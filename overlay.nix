@@ -6,20 +6,22 @@ let
   nv = prev.callPackage ./_sources/generated.nix { };
   nvGrammars = lib.filterAttrs (_: v: v ? isGrammar && v.isGrammar == "true") nv;
 
+  grammarOverrides = import ./overrides.nix;
+
   grammars = lib.mapAttrs' (
     _: meta:
     let
       language = lib.removePrefix "treesitter-grammar-" meta.pname;
       version = "0.0.0+rev=${builtins.substring 0 7 meta.version}";
-    in
-    lib.nameValuePair language (
-      prev.tree-sitter.buildGrammar {
+      drv = prev.tree-sitter.buildGrammar {
         inherit language version;
         inherit (meta) src;
         location = meta.location or null;
         generate = meta ? generate;
-      }
-    )
+      };
+      overrides = grammarOverrides.${language} or { };
+    in
+    lib.nameValuePair language (drv.overrideAttrs overrides)
   ) nvGrammars;
   allGrammars = lib.attrValues grammars;
 
