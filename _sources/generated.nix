@@ -3,17 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "d14bc4bd15a7b9b5a9e7977c6a28f2cab6c4ad4a";
+    version = "28591731d84c2fc18ddda60e1d53da24c31c4987";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "d14bc4bd15a7b9b5a9e7977c6a28f2cab6c4ad4a";
+      rev = "28591731d84c2fc18ddda60e1d53da24c31c4987";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sparseCheckout = [ ];
-      sha256 = "sha256-vLhfjJ+0Y7WVL7YPgOIBXI1wT4ipZmH84QHKGhHflMM=";
+      sha256 = "sha256-1Fxt+aQW4fj4KY73uDV9UzAao55MkSgTZCtcAL4ksls=";
     };
-    date = "2024-11-25";
+    date = "2024-11-26";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -233,7 +232,6 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sparseCheckout = [ ];
       sha256 = "sha256-ojm6OKgriKUqUcRBf8WgHv+BvPjUuYOaabC8VXE+Kwk=";
     };
     isGrammar = "true";
@@ -954,7 +952,6 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sparseCheckout = [ ];
       sha256 = "sha256-195q39pZYipT0G08kQlwnDE28ODjAz2/Sq1tzpEGFmU=";
     };
     isGrammar = "true";
@@ -1698,7 +1695,6 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sparseCheckout = [ ];
       sha256 = "sha256-iWc2ePRiQnZ0FEdMAaAwa3iYt/SY0bEjQrZyqE9EhlU=";
     };
     isGrammar = "true";
@@ -3395,7 +3391,6 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sparseCheckout = [ ];
       sha256 = "sha256-zyMThhLjjiL/wtz5DGmjbfGTfcIj4JNSVCKfBIEw/0w=";
     };
     isGrammar = "true";
