@@ -32,9 +32,16 @@
           packages = with pkgs; [
             nvfetcher
             (wrapNeovimUnstable neovim-unwrapped (
-              neovimUtils.makeNeovimConfig {
-                plugins = with vimPlugins; [ nvim-treesitter.withAllGrammars ];
-              }
+              neovimUtils.makeNeovimConfig { plugins = with vimPlugins; [ nvim-treesitter.withAllGrammars ]; }
+            ))
+          ];
+        };
+        # ci devShell with built-in grammars only
+        ci = pkgs.mkShellNoCC {
+          packages = with pkgs; [
+            nvfetcher
+            (wrapNeovimUnstable neovim-unwrapped (
+              neovimUtils.makeNeovimConfig { plugins = with vimPlugins; [ nvim-treesitter ]; }
             ))
           ];
         };

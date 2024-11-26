@@ -1,5 +1,5 @@
 #!/usr/bin/env nix
-#!nix develop .# --command bash
+#!nix develop .#ci --command bash
 set -euxo pipefail
 
 nvfetcher -f '^nvim-treesitter$'
