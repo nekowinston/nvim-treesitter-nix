@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2024-11-26",
+        "date": "2024-11-27",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "28591731d84c2fc18ddda60e1d53da24c31c4987",
-            "sha256": "sha256-1Fxt+aQW4fj4KY73uDV9UzAao55MkSgTZCtcAL4ksls=",
+            "rev": "cc292c869ff7d54cf4426b2fa5bbfb319cab20ee",
+            "sha256": "sha256-gfqYlhMWiSiAXngeFUEe+PCPevrWWLkOrCK1hLGAWHU=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "28591731d84c2fc18ddda60e1d53da24c31c4987"
+        "version": "cc292c869ff7d54cf4426b2fa5bbfb319cab20ee"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -5695,7 +5695,7 @@
     },
     "treesitter-grammar-t32": {
         "cargoLocks": null,
-        "date": "2024-11-11",
+        "date": "2024-11-26",
         "extract": null,
         "name": "treesitter-grammar-t32",
         "passthru": {
@@ -5707,12 +5707,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "476f0d8ab4b012d3b6f9598890217ada70f1a8ba",
-            "sha256": "sha256-zyMThhLjjiL/wtz5DGmjbfGTfcIj4JNSVCKfBIEw/0w=",
+            "rev": "6f8509f7d310386544fa8855f3486759f6e04c08",
+            "sha256": "sha256-XrexzOZDU/lczXB1ekRMVpMZ29WXsCA9ZtY7HSN/AOA=",
             "type": "git",
             "url": "https://gitlab.com/xasc/tree-sitter-t32"
         },
-        "version": "476f0d8ab4b012d3b6f9598890217ada70f1a8ba"
+        "version": "6f8509f7d310386544fa8855f3486759f6e04c08"
     },
     "treesitter-grammar-tablegen": {
         "cargoLocks": null,
