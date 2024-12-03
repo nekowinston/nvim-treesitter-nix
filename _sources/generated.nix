@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "70d44dad700512460aa76e9299ed00e0f53f3164";
+    version = "b31188671d8a060022dbbeb6905019e69e310108";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "70d44dad700512460aa76e9299ed00e0f53f3164";
+      rev = "b31188671d8a060022dbbeb6905019e69e310108";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-zdQu3RKjC+ynnfoY2TheaG6bmkjd/EpbGOUaCHXM1F8=";
+      sha256 = "sha256-/MfoCC3OnCJDOWIZzVVjMYcSA29azdBV0nV+DFG+5cQ=";
     };
-    date = "2024-12-01";
+    date = "2024-12-03";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -55,17 +55,17 @@
   };
   treesitter-grammar-apex = {
     pname = "treesitter-grammar-apex";
-    version = "0dc9e80dfeee2330a4793eb379515dac1607b4a9";
+    version = "f5a1d2188ff711a06c6a8daa65bbf2f17c8378a5";
     src = fetchFromGitHub {
       owner = "aheber";
       repo = "tree-sitter-sfapex";
-      rev = "0dc9e80dfeee2330a4793eb379515dac1607b4a9";
+      rev = "f5a1d2188ff711a06c6a8daa65bbf2f17c8378a5";
       fetchSubmodules = false;
-      sha256 = "sha256-tV6dbORu5ukRNNML0GrrGQ/W4c+oATYs04xOGD7HZrQ=";
+      sha256 = "sha256-iNoMqyZmS3CoazDQv9/hJb1CRXojEM4IyE5ReqHV4k8=";
     };
     location = "apex";
     isGrammar = "true";
-    date = "2024-12-01";
+    date = "2024-12-02";
   };
   treesitter-grammar-arduino = {
     pname = "treesitter-grammar-arduino";
@@ -3054,17 +3054,17 @@
   };
   treesitter-grammar-sflog = {
     pname = "treesitter-grammar-sflog";
-    version = "0dc9e80dfeee2330a4793eb379515dac1607b4a9";
+    version = "f5a1d2188ff711a06c6a8daa65bbf2f17c8378a5";
     src = fetchFromGitHub {
       owner = "aheber";
       repo = "tree-sitter-sfapex";
-      rev = "0dc9e80dfeee2330a4793eb379515dac1607b4a9";
+      rev = "f5a1d2188ff711a06c6a8daa65bbf2f17c8378a5";
       fetchSubmodules = false;
-      sha256 = "sha256-tV6dbORu5ukRNNML0GrrGQ/W4c+oATYs04xOGD7HZrQ=";
+      sha256 = "sha256-iNoMqyZmS3CoazDQv9/hJb1CRXojEM4IyE5ReqHV4k8=";
     };
     location = "sflog";
     isGrammar = "true";
-    date = "2024-12-01";
+    date = "2024-12-02";
   };
   treesitter-grammar-slang = {
     pname = "treesitter-grammar-slang";
@@ -3146,31 +3146,31 @@
   };
   treesitter-grammar-soql = {
     pname = "treesitter-grammar-soql";
-    version = "0dc9e80dfeee2330a4793eb379515dac1607b4a9";
+    version = "f5a1d2188ff711a06c6a8daa65bbf2f17c8378a5";
     src = fetchFromGitHub {
       owner = "aheber";
       repo = "tree-sitter-sfapex";
-      rev = "0dc9e80dfeee2330a4793eb379515dac1607b4a9";
+      rev = "f5a1d2188ff711a06c6a8daa65bbf2f17c8378a5";
       fetchSubmodules = false;
-      sha256 = "sha256-tV6dbORu5ukRNNML0GrrGQ/W4c+oATYs04xOGD7HZrQ=";
+      sha256 = "sha256-iNoMqyZmS3CoazDQv9/hJb1CRXojEM4IyE5ReqHV4k8=";
     };
     location = "soql";
     isGrammar = "true";
-    date = "2024-12-01";
+    date = "2024-12-02";
   };
   treesitter-grammar-sosl = {
     pname = "treesitter-grammar-sosl";
-    version = "0dc9e80dfeee2330a4793eb379515dac1607b4a9";
+    version = "f5a1d2188ff711a06c6a8daa65bbf2f17c8378a5";
     src = fetchFromGitHub {
       owner = "aheber";
       repo = "tree-sitter-sfapex";
-      rev = "0dc9e80dfeee2330a4793eb379515dac1607b4a9";
+      rev = "f5a1d2188ff711a06c6a8daa65bbf2f17c8378a5";
       fetchSubmodules = false;
-      sha256 = "sha256-tV6dbORu5ukRNNML0GrrGQ/W4c+oATYs04xOGD7HZrQ=";
+      sha256 = "sha256-iNoMqyZmS3CoazDQv9/hJb1CRXojEM4IyE5ReqHV4k8=";
     };
     location = "sosl";
     isGrammar = "true";
-    date = "2024-12-01";
+    date = "2024-12-02";
   };
   treesitter-grammar-sourcepawn = {
     pname = "treesitter-grammar-sourcepawn";
@@ -3291,17 +3291,17 @@
   };
   treesitter-grammar-superhtml = {
     pname = "treesitter-grammar-superhtml";
-    version = "dbb0d1fc54f8525f41289a413ea6c0722e92bf9c";
+    version = "1fda813bd9dc108e962e018e6a327434767ad616";
     src = fetchFromGitHub {
       owner = "kristoff-it";
       repo = "superhtml";
-      rev = "dbb0d1fc54f8525f41289a413ea6c0722e92bf9c";
+      rev = "1fda813bd9dc108e962e018e6a327434767ad616";
       fetchSubmodules = false;
-      sha256 = "sha256-c0JjQ3RZyKtP4ayDT9M+riYhK6JlMF/oVJfkfY17/7k=";
+      sha256 = "sha256-+32toY540h92Xk5xoYvZaMYNDxXWI4pRbkrBnU4xRjM=";
     };
     location = "tree-sitter-superhtml";
     isGrammar = "true";
-    date = "2024-11-06";
+    date = "2024-12-02";
   };
   treesitter-grammar-surface = {
     pname = "treesitter-grammar-surface";
@@ -3344,17 +3344,17 @@
   };
   treesitter-grammar-swift = {
     pname = "treesitter-grammar-swift";
-    version = "247d159ea87d2653ad0e669f69b638cd476fe699";
+    version = "77fbac9b574105a12d08dde1ed8d6273331e7d13";
     src = fetchFromGitHub {
       owner = "alex-pinkus";
       repo = "tree-sitter-swift";
-      rev = "247d159ea87d2653ad0e669f69b638cd476fe699";
+      rev = "77fbac9b574105a12d08dde1ed8d6273331e7d13";
       fetchSubmodules = false;
-      sha256 = "sha256-BzA+MsCBQU8zhWHO5UrRJwA8QtPkT8X9NFIuPlrabRc=";
+      sha256 = "sha256-K5NuZX5/MZrA3fZQxZcUWrM4BhRvuN9WV7jAU1EY1Kk=";
     };
     generate = "true";
     isGrammar = "true";
-    date = "2024-12-01";
+    date = "2024-12-02";
   };
   treesitter-grammar-sxhkdrc = {
     pname = "treesitter-grammar-sxhkdrc";
@@ -3384,17 +3384,17 @@
   };
   treesitter-grammar-t32 = {
     pname = "treesitter-grammar-t32";
-    version = "f82ee0035b6553f6771d5bb51b0798602c7b54ab";
+    version = "7c8579685e34116c61971240780b316c54be698b";
     src = fetchgit {
       url = "https://gitlab.com/xasc/tree-sitter-t32";
-      rev = "f82ee0035b6553f6771d5bb51b0798602c7b54ab";
+      rev = "7c8579685e34116c61971240780b316c54be698b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-PketefIQKD5sVlFxucowEVlhzxVVknO3etf2+gCHRrg=";
+      sha256 = "sha256-WfF0Eczk+n/xCxxeYlfv+KG3LSErBwceih2n7ddfces=";
     };
     isGrammar = "true";
-    date = "2024-11-30";
+    date = "2024-12-01";
   };
   treesitter-grammar-tablegen = {
     pname = "treesitter-grammar-tablegen";
@@ -3556,16 +3556,16 @@
   };
   treesitter-grammar-toml = {
     pname = "treesitter-grammar-toml";
-    version = "16a30c83ce427385b8d14939c45c137fcfca6c42";
+    version = "64b56832c2cffe41758f28e05c756a3a98d16f41";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-toml";
-      rev = "16a30c83ce427385b8d14939c45c137fcfca6c42";
+      rev = "64b56832c2cffe41758f28e05c756a3a98d16f41";
       fetchSubmodules = false;
-      sha256 = "sha256-VYsPM0NVxegfanVaaKkSkEzJ502xkKSjZWrsJpDmack=";
+      sha256 = "sha256-m9RlGkHiOL/PNENrdEPqtPlahSqGymsx7gZrCoN/Lsk=";
     };
     isGrammar = "true";
-    date = "2024-05-03";
+    date = "2024-12-02";
   };
   treesitter-grammar-tsv = {
     pname = "treesitter-grammar-tsv";
@@ -3795,16 +3795,16 @@
   };
   treesitter-grammar-vhdl = {
     pname = "treesitter-grammar-vhdl";
-    version = "0703da905ba3b7331f4431790951bd347539e6f1";
+    version = "c438173a3cbb92b349c994f2acf822a0f3b961a0";
     src = fetchFromGitHub {
       owner = "jpt13653903";
       repo = "tree-sitter-vhdl";
-      rev = "0703da905ba3b7331f4431790951bd347539e6f1";
+      rev = "c438173a3cbb92b349c994f2acf822a0f3b961a0";
       fetchSubmodules = false;
-      sha256 = "sha256-dy31BjTaSho84jyGy7kLft1MgnF7dhBvi/pPBQKuNX0=";
+      sha256 = "sha256-R4Gcs1EA3iFCOSuXwUrSgvKlt9t+l9kqZC58EtureV8=";
     };
     isGrammar = "true";
-    date = "2024-11-17";
+    date = "2024-12-03";
   };
   treesitter-grammar-vhs = {
     pname = "treesitter-grammar-vhs";
