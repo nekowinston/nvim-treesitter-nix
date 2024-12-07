@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "c56507f6a16d6a9bd73ab8827a49fa5533aa8fc3",
-            "sha256": "sha256-PLJnbzjJF3KEN7qmd3dkw/nBh2h7cc8PswnFMQqi6Nw=",
+            "rev": "53e20aa728713af5cb4a3e0e2dcfea18975d49fc",
+            "sha256": "sha256-gK6wX2yGZ5CgmpLtjzHj88mQ5yvM4wDU0lfnSGxtenc=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "c56507f6a16d6a9bd73ab8827a49fa5533aa8fc3"
+        "version": "53e20aa728713af5cb4a3e0e2dcfea18975d49fc"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -3745,7 +3745,7 @@
     },
     "treesitter-grammar-nu": {
         "cargoLocks": null,
-        "date": "2024-11-29",
+        "date": "2024-12-06",
         "extract": null,
         "name": "treesitter-grammar-nu",
         "passthru": {
@@ -3759,11 +3759,11 @@
             "name": null,
             "owner": "nushell",
             "repo": "tree-sitter-nu",
-            "rev": "41a1c570b57987386ed9a928fc214928f8ddc669",
-            "sha256": "sha256-wHehCdT79O5f0pRSuCG1Feo3hZ6xJ+c70i4NS44fnKE=",
+            "rev": "a94fdf1df5deba1aa1a3fff23e1276333b5ab666",
+            "sha256": "sha256-5hZRTL7lKDHiwtxn+xhQpsLTrXZoFGc2wjCPtjZApjk=",
             "type": "github"
         },
-        "version": "41a1c570b57987386ed9a928fc214928f8ddc669"
+        "version": "a94fdf1df5deba1aa1a3fff23e1276333b5ab666"
     },
     "treesitter-grammar-objc": {
         "cargoLocks": null,
@@ -5707,12 +5707,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "8b367f7ce2b2e4cbc0adea033edd94a8e2282969",
-            "sha256": "sha256-l0xItkugVOMlRKP6VKgNH3HYgm9OXZryy7+dNoMc3Bo=",
+            "rev": "e9e334539a07ca044128592c41946daa68d626dd",
+            "sha256": "sha256-LHpJHzbxGrx4k4oQYqz8or9GDy5nnm58vQ9d+vATC+4=",
             "type": "git",
             "url": "https://gitlab.com/xasc/tree-sitter-t32"
         },
-        "version": "8b367f7ce2b2e4cbc0adea033edd94a8e2282969"
+        "version": "e9e334539a07ca044128592c41946daa68d626dd"
     },
     "treesitter-grammar-tablegen": {
         "cargoLocks": null,
@@ -6117,7 +6117,7 @@
     },
     "treesitter-grammar-typespec": {
         "cargoLocks": null,
-        "date": "2024-11-29",
+        "date": "2024-12-06",
         "extract": null,
         "name": "treesitter-grammar-typespec",
         "passthru": {
@@ -6131,11 +6131,11 @@
             "name": null,
             "owner": "happenslol",
             "repo": "tree-sitter-typespec",
-            "rev": "53d892fd975da3f81374f7732af3cd3abb6b85d9",
-            "sha256": "sha256-vosf8sf+8FSOSFpdkxy99e0jGgzwjEf0ViCxC1CDWnk=",
+            "rev": "8455e6601de80c9641b6e6f54c7320573eec0300",
+            "sha256": "sha256-Ezl5MuGHqtPhpb6tq7a2z6PDDDiEVzoQCNFCp+Pcang=",
             "type": "github"
         },
-        "version": "53d892fd975da3f81374f7732af3cd3abb6b85d9"
+        "version": "8455e6601de80c9641b6e6f54c7320573eec0300"
     },
     "treesitter-grammar-typoscript": {
         "cargoLocks": null,
