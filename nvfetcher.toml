@@ -141,6 +141,12 @@ fetch.github = "ObserverOfTime/tree-sitter-chatito"
 [treesitter-grammar-chatito.passthru]
 isGrammar = "true"
 
+[treesitter-grammar-circom]
+src.git = "https://github.com/Decurity/tree-sitter-circom"
+fetch.github = "Decurity/tree-sitter-circom"
+[treesitter-grammar-circom.passthru]
+isGrammar = "true"
+
 [treesitter-grammar-clojure]
 src.git = "https://github.com/sogaiu/tree-sitter-clojure"
 fetch.github = "sogaiu/tree-sitter-clojure"
