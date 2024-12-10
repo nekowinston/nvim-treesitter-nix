@@ -351,7 +351,7 @@
     },
     "treesitter-grammar-blade": {
         "cargoLocks": null,
-        "date": "2024-09-18",
+        "date": "2024-12-09",
         "extract": null,
         "name": "treesitter-grammar-blade",
         "passthru": {
@@ -365,11 +365,11 @@
             "name": null,
             "owner": "EmranMR",
             "repo": "tree-sitter-blade",
-            "rev": "4ad4d56aca189bf4fa18b8896f9ed4a5e5ddf618",
-            "sha256": "sha256-qRjgWWsFZ9TUVqcGuAFfL/6DW6AqdUuD8tjTkwxpxYM=",
+            "rev": "47baa7ba1f9d5f436c7a72b052d2dac2166abf92",
+            "sha256": "sha256-N3QUylMqhX5aZGyIx1zfMe4xZRAwwE7e4MyhOiawCXw=",
             "type": "github"
         },
-        "version": "4ad4d56aca189bf4fa18b8896f9ed4a5e5ddf618"
+        "version": "47baa7ba1f9d5f436c7a72b052d2dac2166abf92"
     },
     "treesitter-grammar-blueprint": {
         "cargoLocks": null,
@@ -1211,7 +1211,7 @@
     },
     "treesitter-grammar-elixir": {
         "cargoLocks": null,
-        "date": "2024-12-02",
+        "date": "2024-12-09",
         "extract": null,
         "name": "treesitter-grammar-elixir",
         "passthru": {
@@ -1225,11 +1225,11 @@
             "name": null,
             "owner": "elixir-lang",
             "repo": "tree-sitter-elixir",
-            "rev": "d30189581a8b2802f237884287fdb7c40f32a041",
-            "sha256": "sha256-xaQ9NZUt0eE7IB1SmhBZqMM8KluI5mid//jJNsLuS4M=",
+            "rev": "02a6f7fd4be28dd94ee4dd2ca19cb777053ea74e",
+            "sha256": "sha256-OM2RWQNdYMltYwmbU5f4ZK5a8Wx4JxBMYx9R5n2B4jg=",
             "type": "github"
         },
-        "version": "d30189581a8b2802f237884287fdb7c40f32a041"
+        "version": "02a6f7fd4be28dd94ee4dd2ca19cb777053ea74e"
     },
     "treesitter-grammar-elm": {
         "cargoLocks": null,
@@ -4212,7 +4212,7 @@
     },
     "treesitter-grammar-powershell": {
         "cargoLocks": null,
-        "date": "2024-12-05",
+        "date": "2024-12-09",
         "extract": null,
         "name": "treesitter-grammar-powershell",
         "passthru": {
@@ -4226,11 +4226,11 @@
             "name": null,
             "owner": "airbus-cert",
             "repo": "tree-sitter-powershell",
-            "rev": "7e6ccf19774a098bb3c996690c65cc1a6f439dc0",
-            "sha256": "sha256-VL7wQc27n7IK+mU6zmbmAKcA37bku1Z5jHxonni6aAE=",
+            "rev": "b3fe65637fca35e426dc8c889d86c8724aaa73d5",
+            "sha256": "sha256-28InoRD7B0qxkhE2Rh++QEklFss1T/6Vm5jJDkbm1Wk=",
             "type": "github"
         },
-        "version": "7e6ccf19774a098bb3c996690c65cc1a6f439dc0"
+        "version": "b3fe65637fca35e426dc8c889d86c8724aaa73d5"
     },
     "treesitter-grammar-printf": {
         "cargoLocks": null,
