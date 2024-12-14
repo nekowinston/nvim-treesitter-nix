@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2024-12-13",
+        "date": "2024-12-14",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "33d27173876499a0f037cb9edff90d583711b6ae",
-            "sha256": "sha256-UxqeZPQPWXKnWIVRWGoAh9lxyQWfOqCwYSd98MGk3o8=",
+            "rev": "cfbbdd5effbde3d47d2d662e67cfcd62a93b783f",
+            "sha256": "sha256-Qlq5GbPrJBLoLEc0xc2nJwZAQ2uEpQ5JfdB8maGgTbQ=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "33d27173876499a0f037cb9edff90d583711b6ae"
+        "version": "cfbbdd5effbde3d47d2d662e67cfcd62a93b783f"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -5295,7 +5295,7 @@
     },
     "treesitter-grammar-solidity": {
         "cargoLocks": null,
-        "date": "2024-11-27",
+        "date": "2024-12-13",
         "extract": null,
         "name": "treesitter-grammar-solidity",
         "passthru": {
@@ -5309,11 +5309,11 @@
             "name": null,
             "owner": "JoranHonig",
             "repo": "tree-sitter-solidity",
-            "rev": "bf268722bc6406429776f71f012e6d1a88801931",
-            "sha256": "sha256-mpKLES5tHhQFMldjOYLzh7a29DbtImENwM2+y0wJ3hk=",
+            "rev": "f7f5251a3f5b1d04f0799b3571b12918af177fc8",
+            "sha256": "sha256-Tt8lXaHrRFbbATUoWK+Y9FZohY1IeDTCXaaom4yZYb4=",
             "type": "github"
         },
-        "version": "bf268722bc6406429776f71f012e6d1a88801931"
+        "version": "f7f5251a3f5b1d04f0799b3571b12918af177fc8"
     },
     "treesitter-grammar-soql": {
         "cargoLocks": null,
@@ -6316,7 +6316,7 @@
     },
     "treesitter-grammar-v": {
         "cargoLocks": null,
-        "date": "2024-11-18",
+        "date": "2024-12-13",
         "extract": null,
         "name": "treesitter-grammar-v",
         "passthru": {
@@ -6331,11 +6331,11 @@
             "name": null,
             "owner": "vlang",
             "repo": "v-analyzer",
-            "rev": "bbba20d654a764c2d2de272fd5f45a2433870640",
-            "sha256": "sha256-icEa8TeoF/MZILYwS/ZqTUaiBEqoHKVV7etUPwyuIkw=",
+            "rev": "bc2aa2993851ed5ad10caf4571aa2aaee3c80a7f",
+            "sha256": "sha256-SW48kJShPJFgsw8tfI9CwDQvbXj6L09aHl1g+Sl5+mU=",
             "type": "github"
         },
-        "version": "bbba20d654a764c2d2de272fd5f45a2433870640"
+        "version": "bc2aa2993851ed5ad10caf4571aa2aaee3c80a7f"
     },
     "treesitter-grammar-vala": {
         "cargoLocks": null,
