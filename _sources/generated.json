@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2024-12-17",
+        "date": "2024-12-18",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "d20db847aaa5c023a040e8453b4dd82b00f8dcfd",
-            "sha256": "sha256-gDdC10NXyW67v6dN5L38KhWGnvKnPnwMObLAdNq9Ue0=",
+            "rev": "102bc74e093ef54aab57a368db15befeb9ba9d58",
+            "sha256": "sha256-TqHvIaRQQxQ9xr3XDBy31J6lGOASUsfL4W4t3oM/WRU=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "d20db847aaa5c023a040e8453b4dd82b00f8dcfd"
+        "version": "102bc74e093ef54aab57a368db15befeb9ba9d58"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -2488,7 +2488,7 @@
     },
     "treesitter-grammar-hoon": {
         "cargoLocks": null,
-        "date": "2024-12-11",
+        "date": "2024-12-17",
         "extract": null,
         "name": "treesitter-grammar-hoon",
         "passthru": {
@@ -2502,11 +2502,11 @@
             "name": null,
             "owner": "urbit-pilled",
             "repo": "tree-sitter-hoon",
-            "rev": "16d4a5fd4a52069fcc6491f0ec6a5bad21f1d705",
-            "sha256": "sha256-iKn6w7anp1f3kwDnr0VCYnTO5UmHESlNvbI/MQi7D24=",
+            "rev": "1545137aadcc63660c47db9ad98d02fa602655d0",
+            "sha256": "sha256-RkSPoscrinmuSTWHzXkRNaiqECDXpKAbQ4z7a6Tpvek=",
             "type": "github"
         },
-        "version": "16d4a5fd4a52069fcc6491f0ec6a5bad21f1d705"
+        "version": "1545137aadcc63660c47db9ad98d02fa602655d0"
     },
     "treesitter-grammar-html": {
         "cargoLocks": null,
@@ -3767,7 +3767,7 @@
     },
     "treesitter-grammar-nu": {
         "cargoLocks": null,
-        "date": "2024-12-16",
+        "date": "2024-12-17",
         "extract": null,
         "name": "treesitter-grammar-nu",
         "passthru": {
@@ -3781,11 +3781,11 @@
             "name": null,
             "owner": "nushell",
             "repo": "tree-sitter-nu",
-            "rev": "e36dde8d98549da7c9ef9e8f8698a3e77d4015ac",
-            "sha256": "sha256-mQ+fQ8F4yB+ApZ+R/DPy+NyDmkjzenwgFJknEu48jSQ=",
+            "rev": "dc22e2577eb09d1d0de50802c59da2eca98a0e7b",
+            "sha256": "sha256-9/8UnbbjI/65+CnIzJGfEl1Scltz3KUHh3/6Gb5kbwY=",
             "type": "github"
         },
-        "version": "e36dde8d98549da7c9ef9e8f8698a3e77d4015ac"
+        "version": "dc22e2577eb09d1d0de50802c59da2eca98a0e7b"
     },
     "treesitter-grammar-objc": {
         "cargoLocks": null,
