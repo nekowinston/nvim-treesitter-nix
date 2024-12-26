@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2024-12-25",
+        "date": "2024-12-26",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "ac6a72a6f83218216948e898362f09029b8035dc",
-            "sha256": "sha256-9UEPTtba6gW+1FR2S+BKPmoD1M4+GzeaH+QBgw9PN1c=",
+            "rev": "17678b00fa5c2712890a0ec2e269d0a4de1207df",
+            "sha256": "sha256-FSNMuairig+DgMyujoVi3r5N7Et0/QliVxSuAkTgzjQ=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "ac6a72a6f83218216948e898362f09029b8035dc"
+        "version": "17678b00fa5c2712890a0ec2e269d0a4de1207df"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -153,7 +153,7 @@
     },
     "treesitter-grammar-astro": {
         "cargoLocks": null,
-        "date": "2024-12-08",
+        "date": "2024-12-26",
         "extract": null,
         "name": "treesitter-grammar-astro",
         "passthru": {
@@ -167,11 +167,11 @@
             "name": null,
             "owner": "virchau13",
             "repo": "tree-sitter-astro",
-            "rev": "6e3bad36a8c12d579e73ed4f05676141a4ccf68d",
-            "sha256": "sha256-ZsItSpYeSPnHn4avpHS54P4J069X9cW8VCRTM9Gfefg=",
+            "rev": "0ad33e32ae9726e151d16ca20ba3e507ff65e01f",
+            "sha256": "sha256-LhehKOhCDPExEgEiOj3TiuFk8/DohzYhy/9GmUSxaIg=",
             "type": "github"
         },
-        "version": "6e3bad36a8c12d579e73ed4f05676141a4ccf68d"
+        "version": "0ad33e32ae9726e151d16ca20ba3e507ff65e01f"
     },
     "treesitter-grammar-authzed": {
         "cargoLocks": null,

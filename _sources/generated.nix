@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "ac6a72a6f83218216948e898362f09029b8035dc";
+    version = "17678b00fa5c2712890a0ec2e269d0a4de1207df";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "ac6a72a6f83218216948e898362f09029b8035dc";
+      rev = "17678b00fa5c2712890a0ec2e269d0a4de1207df";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-9UEPTtba6gW+1FR2S+BKPmoD1M4+GzeaH+QBgw9PN1c=";
+      sha256 = "sha256-FSNMuairig+DgMyujoVi3r5N7Et0/QliVxSuAkTgzjQ=";
     };
-    date = "2024-12-25";
+    date = "2024-12-26";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -95,16 +95,16 @@
   };
   treesitter-grammar-astro = {
     pname = "treesitter-grammar-astro";
-    version = "6e3bad36a8c12d579e73ed4f05676141a4ccf68d";
+    version = "0ad33e32ae9726e151d16ca20ba3e507ff65e01f";
     src = fetchFromGitHub {
       owner = "virchau13";
       repo = "tree-sitter-astro";
-      rev = "6e3bad36a8c12d579e73ed4f05676141a4ccf68d";
+      rev = "0ad33e32ae9726e151d16ca20ba3e507ff65e01f";
       fetchSubmodules = false;
-      sha256 = "sha256-ZsItSpYeSPnHn4avpHS54P4J069X9cW8VCRTM9Gfefg=";
+      sha256 = "sha256-LhehKOhCDPExEgEiOj3TiuFk8/DohzYhy/9GmUSxaIg=";
     };
     isGrammar = "true";
-    date = "2024-12-08";
+    date = "2024-12-26";
   };
   treesitter-grammar-authzed = {
     pname = "treesitter-grammar-authzed";
