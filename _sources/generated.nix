@@ -972,29 +972,29 @@
   };
   treesitter-grammar-gap = {
     pname = "treesitter-grammar-gap";
-    version = "141b063335e85299bde3f61b4888d02d674a1abc";
+    version = "ea70c228dd1d3875aeb264bf99903dc9a696894f";
     src = fetchFromGitHub {
       owner = "gap-system";
       repo = "tree-sitter-gap";
-      rev = "141b063335e85299bde3f61b4888d02d674a1abc";
+      rev = "ea70c228dd1d3875aeb264bf99903dc9a696894f";
       fetchSubmodules = false;
-      sha256 = "sha256-vl0bqJXTxpAfaMOIgQpX60I4dfPOJF6wpt10GiftuR0=";
+      sha256 = "sha256-uEcKZ2gisxYON2GsiYOnfgEdbe6OwQDQIzX2l8Tlics=";
     };
     isGrammar = "true";
-    date = "2024-08-29";
+    date = "2024-12-27";
   };
   treesitter-grammar-gaptst = {
     pname = "treesitter-grammar-gaptst";
-    version = "e0723dc6136309b3d5904dad2c73ef71267428c1";
+    version = "69086d7627c03e1f4baf766bcef14c60d9e92331";
     src = fetchFromGitHub {
       owner = "gap-system";
       repo = "tree-sitter-gaptst";
-      rev = "e0723dc6136309b3d5904dad2c73ef71267428c1";
+      rev = "69086d7627c03e1f4baf766bcef14c60d9e92331";
       fetchSubmodules = false;
-      sha256 = "sha256-m8lxSM/c99KLnu5hbxaTol645DFqFwjTSzdaRUtHDAI=";
+      sha256 = "sha256-U0P9QoOZST1h6XI83CI0/6/CDTvqkv1Yiq62h6YdHpI=";
     };
     isGrammar = "true";
-    date = "2024-08-29";
+    date = "2024-12-27";
   };
   treesitter-grammar-gdscript = {
     pname = "treesitter-grammar-gdscript";
@@ -3014,16 +3014,16 @@
   };
   treesitter-grammar-scala = {
     pname = "treesitter-grammar-scala";
-    version = "fb999c77139f6bd972f014b728e2f0bd32b4d602";
+    version = "d3b9553b47d7ab413a146c4b6498e527265b966e";
     src = fetchFromGitHub {
       owner = "tree-sitter";
       repo = "tree-sitter-scala";
-      rev = "fb999c77139f6bd972f014b728e2f0bd32b4d602";
+      rev = "d3b9553b47d7ab413a146c4b6498e527265b966e";
       fetchSubmodules = false;
-      sha256 = "sha256-GHx8tB36EypFqLk2qaFp9pTj/48SKZSRfCb8A5JodqM=";
+      sha256 = "sha256-xoscL/Z1GZbwDaTSUfXEgdA5s+q+fx9G9K/WIlWOXAk=";
     };
     isGrammar = "true";
-    date = "2024-12-17";
+    date = "2024-12-26";
   };
   treesitter-grammar-scfg = {
     pname = "treesitter-grammar-scfg";
