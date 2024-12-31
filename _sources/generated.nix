@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "34d78baa86a37e86fe64b642860144c28ab9f0c8";
+    version = "0a0e2e354b770d709a327bc51f7b4ddeae927ba7";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "34d78baa86a37e86fe64b642860144c28ab9f0c8";
+      rev = "0a0e2e354b770d709a327bc51f7b4ddeae927ba7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-JoY1LESMU1hf9lnn318eqnX0RPAkwytmKlawkott0kA=";
+      sha256 = "sha256-9XkVjAylOBCW19td6xDoUMtqDKowRDK12ev8xS0uTus=";
     };
-    date = "2024-12-30";
+    date = "2024-12-31";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -931,17 +931,17 @@
   };
   treesitter-grammar-fsharp = {
     pname = "treesitter-grammar-fsharp";
-    version = "971da5ff0266bfe4a6ecfb94616548032d6d1ba0";
+    version = "207f1c988f4649e12fe207e4a7e4f83b9da037d1";
     src = fetchFromGitHub {
       owner = "ionide";
       repo = "tree-sitter-fsharp";
-      rev = "971da5ff0266bfe4a6ecfb94616548032d6d1ba0";
+      rev = "207f1c988f4649e12fe207e4a7e4f83b9da037d1";
       fetchSubmodules = false;
-      sha256 = "sha256-0jrbznAXcjXrbJ5jnxWMzPKxRopxKCtoQXGl80R1M0M=";
+      sha256 = "sha256-NKK83ZwhpFY3TtSxLlAbaY8bBaQ7TXcVT4wMMm4Zm0A=";
     };
     location = "fsharp";
     isGrammar = "true";
-    date = "2024-10-15";
+    date = "2024-12-30";
   };
   treesitter-grammar-func = {
     pname = "treesitter-grammar-func";
