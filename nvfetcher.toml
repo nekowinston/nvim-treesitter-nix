@@ -734,6 +734,12 @@ fetch.github = "inko-lang/tree-sitter-inko"
 [treesitter-grammar-inko.passthru]
 isGrammar = "true"
 
+[treesitter-grammar-ipkg]
+src.git = "https://github.com/srghma/tree-sitter-ipkg"
+fetch.github = "srghma/tree-sitter-ipkg"
+[treesitter-grammar-ipkg.passthru]
+isGrammar = "true"
+
 [treesitter-grammar-ispc]
 src.git = "https://github.com/fab4100/tree-sitter-ispc"
 fetch.github = "fab4100/tree-sitter-ispc"
