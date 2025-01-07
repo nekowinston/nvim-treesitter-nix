@@ -265,16 +265,16 @@
   };
   treesitter-grammar-c_sharp = {
     pname = "treesitter-grammar-c_sharp";
-    version = "4bf615f8d688f50d69fc5677187dc35f22e03ad6";
+    version = "acff8cbb53a1d7b9cd07b209c9933a0e2da9ef35";
     src = fetchFromGitHub {
       owner = "tree-sitter";
       repo = "tree-sitter-c-sharp";
-      rev = "4bf615f8d688f50d69fc5677187dc35f22e03ad6";
+      rev = "acff8cbb53a1d7b9cd07b209c9933a0e2da9ef35";
       fetchSubmodules = false;
-      sha256 = "sha256-jcZcmqQEOPzkiT1jJ4wuE9Ryg10XXpwBoyANNAhCbZg=";
+      sha256 = "sha256-Mdcr4UuoKiNodrNV7/NRfQkmgynPa798Rv9f6Qm3cFw=";
     };
     isGrammar = "true";
-    date = "2024-12-05";
+    date = "2025-01-06";
   };
   treesitter-grammar-cairo = {
     pname = "treesitter-grammar-cairo";
@@ -2148,16 +2148,16 @@
   };
   treesitter-grammar-nickel = {
     pname = "treesitter-grammar-nickel";
-    version = "ddaa2bc22355effd97c0d6b09ff5962705c6368d";
+    version = "25464b33522c3f609fa512aa9651707c0b66d48b";
     src = fetchFromGitHub {
       owner = "nickel-lang";
       repo = "tree-sitter-nickel";
-      rev = "ddaa2bc22355effd97c0d6b09ff5962705c6368d";
+      rev = "25464b33522c3f609fa512aa9651707c0b66d48b";
       fetchSubmodules = false;
-      sha256 = "sha256-jL054OJj+1eXksNYOTTTFzZjwPqTFp06syC3TInN8rc=";
+      sha256 = "sha256-dQeUoHQHkPYywYIm3TMnTWPXUlh2xh8M5CVUiXASBu8=";
     };
     isGrammar = "true";
-    date = "2024-10-01";
+    date = "2025-01-06";
   };
   treesitter-grammar-nim = {
     pname = "treesitter-grammar-nim";
