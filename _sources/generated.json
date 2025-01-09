@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2025-01-08",
+        "date": "2025-01-09",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "10a9464a82fb540cca912a1d25810f242cb97b5f",
-            "sha256": "sha256-kvgKhIlZv5bKwCcLTBLqWJIvoDKJEdzH7HHOohT8Jyc=",
+            "rev": "6df6e80417b58abe377c90f5e3f7fe94cf7dfc55",
+            "sha256": "sha256-nte4zY3WiB4y1YQAiJP/q7e9cuwu7BZZa46sQBMXh1g=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "10a9464a82fb540cca912a1d25810f242cb97b5f"
+        "version": "6df6e80417b58abe377c90f5e3f7fe94cf7dfc55"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -3855,7 +3855,7 @@
     },
     "treesitter-grammar-ocaml": {
         "cargoLocks": null,
-        "date": "2025-01-05",
+        "date": "2025-01-08",
         "extract": null,
         "name": "treesitter-grammar-ocaml",
         "passthru": {
@@ -3870,15 +3870,15 @@
             "name": null,
             "owner": "tree-sitter",
             "repo": "tree-sitter-ocaml",
-            "rev": "781514ec0b786e516e4da3edc64fdfcf76400e4e",
-            "sha256": "sha256-+EKd3uz0DyBjU5g1WgctBuXNuXFr5aMyOq0VD3oE0YY=",
+            "rev": "57644edfbba0edb38ac17dba2add4c243fa3539b",
+            "sha256": "sha256-eRCO7hNbNXd6k6I+cSLHMX8Ry68fKXTjJXLFmBvnQro=",
             "type": "github"
         },
-        "version": "781514ec0b786e516e4da3edc64fdfcf76400e4e"
+        "version": "57644edfbba0edb38ac17dba2add4c243fa3539b"
     },
     "treesitter-grammar-ocaml_interface": {
         "cargoLocks": null,
-        "date": "2025-01-05",
+        "date": "2025-01-08",
         "extract": null,
         "name": "treesitter-grammar-ocaml_interface",
         "passthru": {
@@ -3893,11 +3893,11 @@
             "name": null,
             "owner": "tree-sitter",
             "repo": "tree-sitter-ocaml",
-            "rev": "781514ec0b786e516e4da3edc64fdfcf76400e4e",
-            "sha256": "sha256-+EKd3uz0DyBjU5g1WgctBuXNuXFr5aMyOq0VD3oE0YY=",
+            "rev": "57644edfbba0edb38ac17dba2add4c243fa3539b",
+            "sha256": "sha256-eRCO7hNbNXd6k6I+cSLHMX8Ry68fKXTjJXLFmBvnQro=",
             "type": "github"
         },
-        "version": "781514ec0b786e516e4da3edc64fdfcf76400e4e"
+        "version": "57644edfbba0edb38ac17dba2add4c243fa3539b"
     },
     "treesitter-grammar-ocamllex": {
         "cargoLocks": null,

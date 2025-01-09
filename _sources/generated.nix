@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "10a9464a82fb540cca912a1d25810f242cb97b5f";
+    version = "6df6e80417b58abe377c90f5e3f7fe94cf7dfc55";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "10a9464a82fb540cca912a1d25810f242cb97b5f";
+      rev = "6df6e80417b58abe377c90f5e3f7fe94cf7dfc55";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-kvgKhIlZv5bKwCcLTBLqWJIvoDKJEdzH7HHOohT8Jyc=";
+      sha256 = "sha256-nte4zY3WiB4y1YQAiJP/q7e9cuwu7BZZa46sQBMXh1g=";
     };
-    date = "2025-01-08";
+    date = "2025-01-09";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -2291,31 +2291,31 @@
   };
   treesitter-grammar-ocaml = {
     pname = "treesitter-grammar-ocaml";
-    version = "781514ec0b786e516e4da3edc64fdfcf76400e4e";
+    version = "57644edfbba0edb38ac17dba2add4c243fa3539b";
     src = fetchFromGitHub {
       owner = "tree-sitter";
       repo = "tree-sitter-ocaml";
-      rev = "781514ec0b786e516e4da3edc64fdfcf76400e4e";
+      rev = "57644edfbba0edb38ac17dba2add4c243fa3539b";
       fetchSubmodules = false;
-      sha256 = "sha256-+EKd3uz0DyBjU5g1WgctBuXNuXFr5aMyOq0VD3oE0YY=";
+      sha256 = "sha256-eRCO7hNbNXd6k6I+cSLHMX8Ry68fKXTjJXLFmBvnQro=";
     };
     location = "grammars/ocaml";
     isGrammar = "true";
-    date = "2025-01-05";
+    date = "2025-01-08";
   };
   treesitter-grammar-ocaml_interface = {
     pname = "treesitter-grammar-ocaml_interface";
-    version = "781514ec0b786e516e4da3edc64fdfcf76400e4e";
+    version = "57644edfbba0edb38ac17dba2add4c243fa3539b";
     src = fetchFromGitHub {
       owner = "tree-sitter";
       repo = "tree-sitter-ocaml";
-      rev = "781514ec0b786e516e4da3edc64fdfcf76400e4e";
+      rev = "57644edfbba0edb38ac17dba2add4c243fa3539b";
       fetchSubmodules = false;
-      sha256 = "sha256-+EKd3uz0DyBjU5g1WgctBuXNuXFr5aMyOq0VD3oE0YY=";
+      sha256 = "sha256-eRCO7hNbNXd6k6I+cSLHMX8Ry68fKXTjJXLFmBvnQro=";
     };
     location = "grammars/interface";
     isGrammar = "true";
-    date = "2025-01-05";
+    date = "2025-01-08";
   };
   treesitter-grammar-ocamllex = {
     pname = "treesitter-grammar-ocamllex";
