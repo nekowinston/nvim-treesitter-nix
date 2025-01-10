@@ -1806,16 +1806,16 @@
   };
   treesitter-grammar-koto = {
     pname = "treesitter-grammar-koto";
-    version = "7258681498ac92f24b2d7ebb844b5e79dc3cf9ac";
+    version = "329b0e84ef6cc6950665de4accd0bdda1601a2f1";
     src = fetchFromGitHub {
       owner = "koto-lang";
       repo = "tree-sitter-koto";
-      rev = "7258681498ac92f24b2d7ebb844b5e79dc3cf9ac";
+      rev = "329b0e84ef6cc6950665de4accd0bdda1601a2f1";
       fetchSubmodules = false;
-      sha256 = "sha256-dBx0iyG1p+Lij/yKKhBZLZcnoB70P6A4Xd9UYzq2iVU=";
+      sha256 = "sha256-2TfRbqmUQlRGVRieffKg0fMzKBXzLkiHHHXQ9iZiRcs=";
     };
     isGrammar = "true";
-    date = "2025-01-03";
+    date = "2025-01-07";
   };
   treesitter-grammar-kusto = {
     pname = "treesitter-grammar-kusto";
