@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "b952a0ab6caabd7839af6b562023bbdf149feb90",
-            "sha256": "sha256-XlVB/Q9rMr8sd1TP8DQcB2LOc7FwRQGPoZRVcWrvy50=",
+            "rev": "5da195ac3dfafd08d8b10756d975f0e01e1d563a",
+            "sha256": "sha256-Mp8SCh6Sk3lxCqyF4SbpeMdwPs9EHuf0JE+zeaBqCbE=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "b952a0ab6caabd7839af6b562023bbdf149feb90"
+        "version": "5da195ac3dfafd08d8b10756d975f0e01e1d563a"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -2639,6 +2639,28 @@
             "type": "github"
         },
         "version": "86ff7f19747a761dc8ba72f4045fd64aed94ba4c"
+    },
+    "treesitter-grammar-idris": {
+        "cargoLocks": null,
+        "date": "2024-11-05",
+        "extract": null,
+        "name": "treesitter-grammar-idris",
+        "passthru": {
+            "isGrammar": "true"
+        },
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "kayhide",
+            "repo": "tree-sitter-idris",
+            "rev": "c56a25cf57c68ff929356db25505c1cc4c7820f6",
+            "sha256": "sha256-aOAxb0KjhSwlNX/IDvGwEysYvImgUEIDeNDOWRl1qNk=",
+            "type": "github"
+        },
+        "version": "c56a25cf57c68ff929356db25505c1cc4c7820f6"
     },
     "treesitter-grammar-ini": {
         "cargoLocks": null,

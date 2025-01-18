@@ -3,14 +3,14 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "b952a0ab6caabd7839af6b562023bbdf149feb90";
+    version = "5da195ac3dfafd08d8b10756d975f0e01e1d563a";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "b952a0ab6caabd7839af6b562023bbdf149feb90";
+      rev = "5da195ac3dfafd08d8b10756d975f0e01e1d563a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-XlVB/Q9rMr8sd1TP8DQcB2LOc7FwRQGPoZRVcWrvy50=";
+      sha256 = "sha256-Mp8SCh6Sk3lxCqyF4SbpeMdwPs9EHuf0JE+zeaBqCbE=";
     };
     date = "2025-01-17";
   };
@@ -1568,6 +1568,19 @@
     };
     isGrammar = "true";
     date = "2024-11-12";
+  };
+  treesitter-grammar-idris = {
+    pname = "treesitter-grammar-idris";
+    version = "c56a25cf57c68ff929356db25505c1cc4c7820f6";
+    src = fetchFromGitHub {
+      owner = "kayhide";
+      repo = "tree-sitter-idris";
+      rev = "c56a25cf57c68ff929356db25505c1cc4c7820f6";
+      fetchSubmodules = false;
+      sha256 = "sha256-aOAxb0KjhSwlNX/IDvGwEysYvImgUEIDeNDOWRl1qNk=";
+    };
+    isGrammar = "true";
+    date = "2024-11-05";
   };
   treesitter-grammar-ini = {
     pname = "treesitter-grammar-ini";

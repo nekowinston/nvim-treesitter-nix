@@ -722,6 +722,12 @@ fetch.github = "cathaysia/tree-sitter-idl"
 [treesitter-grammar-idl.passthru]
 isGrammar = "true"
 
+[treesitter-grammar-idris]
+src.git = "https://github.com/kayhide/tree-sitter-idris"
+fetch.github = "kayhide/tree-sitter-idris"
+[treesitter-grammar-idris.passthru]
+isGrammar = "true"
+
 [treesitter-grammar-ini]
 src.git = "https://github.com/justinmk/tree-sitter-ini"
 fetch.github = "justinmk/tree-sitter-ini"
