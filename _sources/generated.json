@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2025-01-17",
+        "date": "2025-01-19",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "5da195ac3dfafd08d8b10756d975f0e01e1d563a",
-            "sha256": "sha256-Mp8SCh6Sk3lxCqyF4SbpeMdwPs9EHuf0JE+zeaBqCbE=",
+            "rev": "4423f3053964461656c7432fd33f205ef88a6168",
+            "sha256": "sha256-VGi5lIGk+camFMIFi1eQKfgIvf6UAYOVZTuuMQlNZFg=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "5da195ac3dfafd08d8b10756d975f0e01e1d563a"
+        "version": "4423f3053964461656c7432fd33f205ef88a6168"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -1453,7 +1453,7 @@
     },
     "treesitter-grammar-fish": {
         "cargoLocks": null,
-        "date": "2024-04-02",
+        "date": "2025-01-18",
         "extract": null,
         "name": "treesitter-grammar-fish",
         "passthru": {
@@ -1467,11 +1467,11 @@
             "name": null,
             "owner": "ram02z",
             "repo": "tree-sitter-fish",
-            "rev": "a78aef9abc395c600c38a037ac779afc7e3cc9e0",
-            "sha256": "sha256-D7s3ZsHQeGf+pYdbXvi5GMFqbkgajBuqTQwvjnjnrVo=",
+            "rev": "70640c0696abde32622afc43291a385681afbd32",
+            "sha256": "sha256-d+z43w7nl0ZzVjypwxk+xPivb/W6xJ21Uc63Ux9S74k=",
             "type": "github"
         },
-        "version": "a78aef9abc395c600c38a037ac779afc7e3cc9e0"
+        "version": "70640c0696abde32622afc43291a385681afbd32"
     },
     "treesitter-grammar-foam": {
         "cargoLocks": null,
