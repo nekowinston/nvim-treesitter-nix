@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2025-01-25",
+        "date": "2025-01-26",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "dce72085933bdf2edde3dfabdfd6c915e03542e8",
-            "sha256": "sha256-bdYgNlQ2MH4OI53gyuw5zfChOqGfrJ5a44xtRdVrJHY=",
+            "rev": "d34e62afd3e483fe0fa2f24b6323f3bb1d35ddcc",
+            "sha256": "sha256-SNehY0Oj15n6o+B7RflaTamCydN+VVVE7nAsZB3K1pk=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "dce72085933bdf2edde3dfabdfd6c915e03542e8"
+        "version": "d34e62afd3e483fe0fa2f24b6323f3bb1d35ddcc"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -769,7 +769,7 @@
     },
     "treesitter-grammar-cuda": {
         "cargoLocks": null,
-        "date": "2024-09-05",
+        "date": "2025-01-25",
         "extract": null,
         "name": "treesitter-grammar-cuda",
         "passthru": {
@@ -783,11 +783,11 @@
             "name": null,
             "owner": "theHamsta",
             "repo": "tree-sitter-cuda",
-            "rev": "635e8aa3747823a0c4e9660c07cef76fe8d3ef93",
-            "sha256": "sha256-+KHenEgo9wMncjEIJZoqS0x089hjdR3J1t+x663qy1M=",
+            "rev": "757e0a61f9d38b3d9eaa299e8d866e8283ffc284",
+            "sha256": "sha256-66tJ1GVAWKqXBCzBXUGdzG/Rl2vw/eJ6mQnWnnnpBcU=",
             "type": "github"
         },
-        "version": "635e8aa3747823a0c4e9660c07cef76fe8d3ef93"
+        "version": "757e0a61f9d38b3d9eaa299e8d866e8283ffc284"
     },
     "treesitter-grammar-cue": {
         "cargoLocks": null,
@@ -2752,7 +2752,7 @@
     },
     "treesitter-grammar-janet_simple": {
         "cargoLocks": null,
-        "date": "2025-01-21",
+        "date": "2025-01-25",
         "extract": null,
         "name": "treesitter-grammar-janet_simple",
         "passthru": {
@@ -2766,11 +2766,11 @@
             "name": null,
             "owner": "sogaiu",
             "repo": "tree-sitter-janet-simple",
-            "rev": "81f17db9a8ab0a97ff20986ef9065eb628db7408",
-            "sha256": "sha256-Qm5PGByMy/iGA0bOzsR+K3JErNTddUJdAsCGHYNqs/E=",
+            "rev": "ca4785b47a4ff15653f0408a49c764dec533e0d3",
+            "sha256": "sha256-pRB5G4lR0t2E9MQN/a2AC8OQppwD6gZ1AfCNPon6TIE=",
             "type": "github"
         },
-        "version": "81f17db9a8ab0a97ff20986ef9065eb628db7408"
+        "version": "ca4785b47a4ff15653f0408a49c764dec533e0d3"
     },
     "treesitter-grammar-java": {
         "cargoLocks": null,
