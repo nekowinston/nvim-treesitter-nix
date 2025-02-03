@@ -1312,6 +1312,12 @@ fetch.github = "Fymyte/tree-sitter-rasi"
 [treesitter-grammar-rasi.passthru]
 isGrammar = "true"
 
+[treesitter-grammar-razor]
+src.git = "https://github.com/tris203/tree-sitter-razor"
+fetch.github = "tris203/tree-sitter-razor"
+[treesitter-grammar-razor.passthru]
+isGrammar = "true"
+
 [treesitter-grammar-rbs]
 src.git = "https://github.com/joker1007/tree-sitter-rbs"
 fetch.github = "joker1007/tree-sitter-rbs"
