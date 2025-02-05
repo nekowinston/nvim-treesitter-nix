@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "285ec451234898cc91a7223f224150106c89bad6";
+    version = "cced713b4993ddbfba8f82e9e60fcab7cbee8101";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "285ec451234898cc91a7223f224150106c89bad6";
+      rev = "cced713b4993ddbfba8f82e9e60fcab7cbee8101";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-yHcsjSt2QY/DRdgxXLjEJVv/2ih6CLVc8iCIBfry5r8=";
+      sha256 = "sha256-qzLJFiAA++RV+44OBGYy8j6pwV1GyOwkL8A7smPzbY8=";
     };
-    date = "2025-02-04";
+    date = "2025-02-05";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -788,16 +788,16 @@
   };
   treesitter-grammar-erlang = {
     pname = "treesitter-grammar-erlang";
-    version = "cd1679d6e0ab03159001a39dc599523ed4fc5971";
+    version = "54d95b5e7750140c42ec2c8fda4d67fe11a045c3";
     src = fetchFromGitHub {
       owner = "WhatsApp";
       repo = "tree-sitter-erlang";
-      rev = "cd1679d6e0ab03159001a39dc599523ed4fc5971";
+      rev = "54d95b5e7750140c42ec2c8fda4d67fe11a045c3";
       fetchSubmodules = false;
-      sha256 = "sha256-ZxN0SYWmWYDA7gmPqGBRBD7qL1wRhHk5ooXUhz1w15Q=";
+      sha256 = "sha256-qwuhQj2tH8fOc+oRPUkyVIawHHt2sXIJ/Twv9tc37Ik=";
     };
     isGrammar = "true";
-    date = "2025-02-03";
+    date = "2025-02-04";
   };
   treesitter-grammar-facility = {
     pname = "treesitter-grammar-facility";
@@ -931,17 +931,17 @@
   };
   treesitter-grammar-fsharp = {
     pname = "treesitter-grammar-fsharp";
-    version = "207f1c988f4649e12fe207e4a7e4f83b9da037d1";
+    version = "ad824dea984734406b50699c5f388a7412e85946";
     src = fetchFromGitHub {
       owner = "ionide";
       repo = "tree-sitter-fsharp";
-      rev = "207f1c988f4649e12fe207e4a7e4f83b9da037d1";
+      rev = "ad824dea984734406b50699c5f388a7412e85946";
       fetchSubmodules = false;
-      sha256 = "sha256-NKK83ZwhpFY3TtSxLlAbaY8bBaQ7TXcVT4wMMm4Zm0A=";
+      sha256 = "sha256-pjNBd6egwdrVpMNcLvcv8dPvEhdHZ3ey6xCRKJ70z5M=";
     };
     location = "fsharp";
     isGrammar = "true";
-    date = "2024-12-30";
+    date = "2025-02-04";
   };
   treesitter-grammar-func = {
     pname = "treesitter-grammar-func";

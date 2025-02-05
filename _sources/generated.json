@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2025-02-04",
+        "date": "2025-02-05",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "285ec451234898cc91a7223f224150106c89bad6",
-            "sha256": "sha256-yHcsjSt2QY/DRdgxXLjEJVv/2ih6CLVc8iCIBfry5r8=",
+            "rev": "cced713b4993ddbfba8f82e9e60fcab7cbee8101",
+            "sha256": "sha256-qzLJFiAA++RV+44OBGYy8j6pwV1GyOwkL8A7smPzbY8=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "285ec451234898cc91a7223f224150106c89bad6"
+        "version": "cced713b4993ddbfba8f82e9e60fcab7cbee8101"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -1321,7 +1321,7 @@
     },
     "treesitter-grammar-erlang": {
         "cargoLocks": null,
-        "date": "2025-02-03",
+        "date": "2025-02-04",
         "extract": null,
         "name": "treesitter-grammar-erlang",
         "passthru": {
@@ -1335,11 +1335,11 @@
             "name": null,
             "owner": "WhatsApp",
             "repo": "tree-sitter-erlang",
-            "rev": "cd1679d6e0ab03159001a39dc599523ed4fc5971",
-            "sha256": "sha256-ZxN0SYWmWYDA7gmPqGBRBD7qL1wRhHk5ooXUhz1w15Q=",
+            "rev": "54d95b5e7750140c42ec2c8fda4d67fe11a045c3",
+            "sha256": "sha256-qwuhQj2tH8fOc+oRPUkyVIawHHt2sXIJ/Twv9tc37Ik=",
             "type": "github"
         },
-        "version": "cd1679d6e0ab03159001a39dc599523ed4fc5971"
+        "version": "54d95b5e7750140c42ec2c8fda4d67fe11a045c3"
     },
     "treesitter-grammar-facility": {
         "cargoLocks": null,
@@ -1563,7 +1563,7 @@
     },
     "treesitter-grammar-fsharp": {
         "cargoLocks": null,
-        "date": "2024-12-30",
+        "date": "2025-02-04",
         "extract": null,
         "name": "treesitter-grammar-fsharp",
         "passthru": {
@@ -1578,11 +1578,11 @@
             "name": null,
             "owner": "ionide",
             "repo": "tree-sitter-fsharp",
-            "rev": "207f1c988f4649e12fe207e4a7e4f83b9da037d1",
-            "sha256": "sha256-NKK83ZwhpFY3TtSxLlAbaY8bBaQ7TXcVT4wMMm4Zm0A=",
+            "rev": "ad824dea984734406b50699c5f388a7412e85946",
+            "sha256": "sha256-pjNBd6egwdrVpMNcLvcv8dPvEhdHZ3ey6xCRKJ70z5M=",
             "type": "github"
         },
-        "version": "207f1c988f4649e12fe207e4a7e4f83b9da037d1"
+        "version": "ad824dea984734406b50699c5f388a7412e85946"
     },
     "treesitter-grammar-func": {
         "cargoLocks": null,
