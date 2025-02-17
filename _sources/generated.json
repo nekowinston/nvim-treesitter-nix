@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "38e46a6d7ade5c8718f77b2b9fd98a0f7ab32c1e",
-            "sha256": "sha256-9kyWu7znDHbBFr75XO7O9wNmD77+YsMdfCcEoX90AWg=",
+            "rev": "2cade9e3d105732b794bc37e7cb2dc53b1cf99dc",
+            "sha256": "sha256-cHCgs1HwJZu8BpTYY6nfBOLZI80shHvzm0Y+wgp3JAM=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "38e46a6d7ade5c8718f77b2b9fd98a0f7ab32c1e"
+        "version": "2cade9e3d105732b794bc37e7cb2dc53b1cf99dc"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
