@@ -1109,12 +1109,6 @@ fetch.github = "amaanq/tree-sitter-odin"
 [treesitter-grammar-odin.passthru]
 isGrammar = "true"
 
-[treesitter-grammar-org]
-src.git = "https://github.com/milisims/tree-sitter-org"
-fetch.github = "milisims/tree-sitter-org"
-[treesitter-grammar-org.passthru]
-isGrammar = "true"
-
 [treesitter-grammar-pascal]
 src.git = "https://github.com/Isopod/tree-sitter-pascal"
 fetch.github = "Isopod/tree-sitter-pascal"
