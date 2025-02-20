@@ -3,16 +3,16 @@
 {
   nvim-treesitter = {
     pname = "nvim-treesitter";
-    version = "1a6e42bb8c5c23d8e2c0acb842dcacac5ee06761";
+    version = "cb8e810a1ea3f562e95a259df3065c7c23decf7a";
     src = fetchgit {
       url = "https://github.com/nvim-treesitter/nvim-treesitter";
-      rev = "1a6e42bb8c5c23d8e2c0acb842dcacac5ee06761";
+      rev = "cb8e810a1ea3f562e95a259df3065c7c23decf7a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-VMIKnjvIt/OYrvgkcPdcoQuRGKhRnhzRSEpUL5Z2kAk=";
+      sha256 = "sha256-NC/bBfM6nFbF81vr8En/rbg5spxQFpd1DLK53E6GDog=";
     };
-    date = "2025-02-18";
+    date = "2025-02-20";
   };
   treesitter-grammar-ada = {
     pname = "treesitter-grammar-ada";
@@ -2400,16 +2400,16 @@
   };
   treesitter-grammar-pascal = {
     pname = "treesitter-grammar-pascal";
-    version = "d0ebabefaea9ac3f6fc3004cf08cd121b66da9e4";
+    version = "78426d96bde7114af979e314283e45d087603428";
     src = fetchFromGitHub {
       owner = "Isopod";
       repo = "tree-sitter-pascal";
-      rev = "d0ebabefaea9ac3f6fc3004cf08cd121b66da9e4";
+      rev = "78426d96bde7114af979e314283e45d087603428";
       fetchSubmodules = false;
-      sha256 = "sha256-T47xDjEbcDLg1IOu2HsIGA7j/CFMCagfV4xKdFYYoec=";
+      sha256 = "sha256-KNVrXS7sYMXqZ5+sMnmp87vHr8NYrY+BTVVIdV2wnm0=";
     };
     isGrammar = "true";
-    date = "2024-08-07";
+    date = "2025-02-19";
   };
   treesitter-grammar-passwd = {
     pname = "treesitter-grammar-passwd";
@@ -3835,17 +3835,17 @@
   };
   treesitter-grammar-v = {
     pname = "treesitter-grammar-v";
-    version = "1047c9d876451c3fcf78343fff26cdfff3855b8c";
+    version = "154017bdd3a0eb0130a989823f5c1da263b239f3";
     src = fetchFromGitHub {
       owner = "vlang";
       repo = "v-analyzer";
-      rev = "1047c9d876451c3fcf78343fff26cdfff3855b8c";
+      rev = "154017bdd3a0eb0130a989823f5c1da263b239f3";
       fetchSubmodules = false;
-      sha256 = "sha256-whqBsuRY4QqkXfMGAF0ZrP4iSQYIpuGkGvXcXCbmelM=";
+      sha256 = "sha256-XULw5FxiI2EksMbERj9VOhE1z228hp2g/QiEQFDOSgQ=";
     };
     location = "tree_sitter_v";
     isGrammar = "true";
-    date = "2025-02-15";
+    date = "2025-02-20";
   };
   treesitter-grammar-vala = {
     pname = "treesitter-grammar-vala";
