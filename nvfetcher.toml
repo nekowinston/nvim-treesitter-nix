@@ -838,6 +838,12 @@ fetch.github = "IndianBoy42/tree-sitter-just"
 [treesitter-grammar-just.passthru]
 isGrammar = "true"
 
+[treesitter-grammar-kcl]
+src.git = "https://github.com/kcl-lang/tree-sitter-kcl"
+fetch.github = "kcl-lang/tree-sitter-kcl"
+[treesitter-grammar-kcl.passthru]
+isGrammar = "true"
+
 [treesitter-grammar-kconfig]
 src.git = "https://github.com/amaanq/tree-sitter-kconfig"
 fetch.github = "amaanq/tree-sitter-kconfig"
