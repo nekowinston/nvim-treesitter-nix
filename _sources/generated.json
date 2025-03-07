@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2025-03-06",
+        "date": "2025-03-07",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "794cf2f6309691d4e9d3945ae33943a3d90ddd84",
-            "sha256": "sha256-0bfKCIOkwuKtu4jHI6+4zYp9RAYQG7RvTctXs9Rj450=",
+            "rev": "71ac531a6301b6d5f4dc4d7157ffd8bd8d6d769e",
+            "sha256": "sha256-M3KFPaCxhm0f7/vfut9coH3YOM6rUJF4zOhRiuaL0ls=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "794cf2f6309691d4e9d3945ae33943a3d90ddd84"
+        "version": "71ac531a6301b6d5f4dc4d7157ffd8bd8d6d769e"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -1849,7 +1849,7 @@
     },
     "treesitter-grammar-gleam": {
         "cargoLocks": null,
-        "date": "2025-02-07",
+        "date": "2025-03-06",
         "extract": null,
         "name": "treesitter-grammar-gleam",
         "passthru": {
@@ -1863,11 +1863,11 @@
             "name": null,
             "owner": "gleam-lang",
             "repo": "tree-sitter-gleam",
-            "rev": "af6043419f5aa0f8b6c2a26db0187aefa46c7f5f",
-            "sha256": "sha256-6OVt35LcFMDu3y2eWMPenxZldwBu1L93jToJdaAS8yw=",
+            "rev": "e01c88449b53e2ee5dad222d4020cc7006c5b700",
+            "sha256": "sha256-clkf5DxLvvDJDcNYQgAPLQYw+hz05UBdOmPK8kjlVDA=",
             "type": "github"
         },
-        "version": "af6043419f5aa0f8b6c2a26db0187aefa46c7f5f"
+        "version": "e01c88449b53e2ee5dad222d4020cc7006c5b700"
     },
     "treesitter-grammar-glimmer": {
         "cargoLocks": null,
@@ -5185,7 +5185,7 @@
     },
     "treesitter-grammar-rust": {
         "cargoLocks": null,
-        "date": "2025-03-05",
+        "date": "2025-03-06",
         "extract": null,
         "name": "treesitter-grammar-rust",
         "passthru": {
@@ -5199,11 +5199,11 @@
             "name": null,
             "owner": "tree-sitter",
             "repo": "tree-sitter-rust",
-            "rev": "5edb201282b79aba611c763d11a84dcde15fcae6",
-            "sha256": "sha256-KYkLKJOwMdrE4XdvhkfZDm9c1iE74UEhBazQCdJRwH0=",
+            "rev": "e86119bdb4968b9799f6a014ca2401c178d54b5f",
+            "sha256": "sha256-zJHUx5ZQVJ80hWWWh/PlO0jrOcCHDm9EPUTmZChab6g=",
             "type": "github"
         },
-        "version": "5edb201282b79aba611c763d11a84dcde15fcae6"
+        "version": "e86119bdb4968b9799f6a014ca2401c178d54b5f"
     },
     "treesitter-grammar-scala": {
         "cargoLocks": null,
