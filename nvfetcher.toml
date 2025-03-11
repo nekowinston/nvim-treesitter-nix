@@ -1658,6 +1658,12 @@ fetch.github = "vrischmann/tree-sitter-templ"
 [treesitter-grammar-templ.passthru]
 isGrammar = "true"
 
+[treesitter-grammar-tera]
+src.git = "https://github.com/uncenter/tree-sitter-tera"
+fetch.github = "uncenter/tree-sitter-tera"
+[treesitter-grammar-tera.passthru]
+isGrammar = "true"
+
 [treesitter-grammar-terraform]
 src.git = "https://github.com/MichaHoffmann/tree-sitter-hcl"
 fetch.github = "MichaHoffmann/tree-sitter-hcl"
