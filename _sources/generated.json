@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2025-03-14",
+        "date": "2025-03-15",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "8b79cddc708cb8549562f0101f7f509ad7cebf97",
-            "sha256": "sha256-vjGO7XFB28xYDh86a1Jr1Q7cvHeIQCyneo4/UITJWqw=",
+            "rev": "2586ea65faf45dcf1caf8d34510d50bb545c215a",
+            "sha256": "sha256-YCfKK0Ym4kFrtg3QFEglrRmgI6VzzMNB/Qr5pmEHAkQ=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "8b79cddc708cb8549562f0101f7f509ad7cebf97"
+        "version": "2586ea65faf45dcf1caf8d34510d50bb545c215a"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -5806,7 +5806,7 @@
     },
     "treesitter-grammar-swift": {
         "cargoLocks": null,
-        "date": "2025-03-11",
+        "date": "2025-03-14",
         "extract": null,
         "name": "treesitter-grammar-swift",
         "passthru": {
@@ -5821,11 +5821,11 @@
             "name": null,
             "owner": "alex-pinkus",
             "repo": "tree-sitter-swift",
-            "rev": "02db52e14bc303322d22019fff7823d72904dfe5",
-            "sha256": "sha256-Uh1YVc871KdYXeAhF/lRDv58NW/XdHqasfZw0jDUSBE=",
+            "rev": "6b1ebb86c97fca00835e7fce4a95c5069172145e",
+            "sha256": "sha256-VR6GmMWueFa/4PXRtnTNWeI0N19vD1qd5XBM+e9HalM=",
             "type": "github"
         },
-        "version": "02db52e14bc303322d22019fff7823d72904dfe5"
+        "version": "6b1ebb86c97fca00835e7fce4a95c5069172145e"
     },
     "treesitter-grammar-sxhkdrc": {
         "cargoLocks": null,
@@ -6561,7 +6561,7 @@
     },
     "treesitter-grammar-verilog": {
         "cargoLocks": null,
-        "date": "2025-03-10",
+        "date": "2025-03-14",
         "extract": null,
         "name": "treesitter-grammar-verilog",
         "passthru": {
@@ -6575,11 +6575,11 @@
             "name": null,
             "owner": "gmlarumbe",
             "repo": "tree-sitter-systemverilog",
-            "rev": "d5899210c623b799a93f40439f3ff8981a7fa187",
-            "sha256": "sha256-bMo/ish2J29Nrpf/JkXA7A2NSarhppxm0MpV/bdBWJQ=",
+            "rev": "f6be2c3c1d6c73a06c70b797631a02c90b133360",
+            "sha256": "sha256-hxacduvnal35jX1Fvrs8I5CYi8aF8EolKxtWri8NemI=",
             "type": "github"
         },
-        "version": "d5899210c623b799a93f40439f3ff8981a7fa187"
+        "version": "f6be2c3c1d6c73a06c70b797631a02c90b133360"
     },
     "treesitter-grammar-vhdl": {
         "cargoLocks": null,
