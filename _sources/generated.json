@@ -1,7 +1,7 @@
 {
     "nvim-treesitter": {
         "cargoLocks": null,
-        "date": "2025-03-22",
+        "date": "2025-03-23",
         "extract": null,
         "name": "nvim-treesitter",
         "passthru": null,
@@ -11,12 +11,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "e70cb73e943db7483b0ea86a55e80d471bcb995c",
-            "sha256": "sha256-O1B0iKjng5R5XDLggp/NamVVyEBwC4q14bw+Q/89ebs=",
+            "rev": "20a7e40203dab3454686e057adecd805f3d6d334",
+            "sha256": "sha256-p9i4Mbwq+CfnQ3hLXlRxXhyJQWy+nfvvcOzpXNPHh2k=",
             "type": "git",
             "url": "https://github.com/nvim-treesitter/nvim-treesitter"
         },
-        "version": "e70cb73e943db7483b0ea86a55e80d471bcb995c"
+        "version": "20a7e40203dab3454686e057adecd805f3d6d334"
     },
     "treesitter-grammar-ada": {
         "cargoLocks": null,
@@ -5806,7 +5806,7 @@
     },
     "treesitter-grammar-swift": {
         "cargoLocks": null,
-        "date": "2025-03-14",
+        "date": "2025-03-22",
         "extract": null,
         "name": "treesitter-grammar-swift",
         "passthru": {
@@ -5821,11 +5821,11 @@
             "name": null,
             "owner": "alex-pinkus",
             "repo": "tree-sitter-swift",
-            "rev": "6b1ebb86c97fca00835e7fce4a95c5069172145e",
-            "sha256": "sha256-VR6GmMWueFa/4PXRtnTNWeI0N19vD1qd5XBM+e9HalM=",
+            "rev": "aca5a52aa3cab858944d3c02701ccf5b2d8fd0f9",
+            "sha256": "sha256-F0Fijad6Yry71Xc5b92EiqgtEkvVqRM8WKRt6U07TxY=",
             "type": "github"
         },
-        "version": "6b1ebb86c97fca00835e7fce4a95c5069172145e"
+        "version": "aca5a52aa3cab858944d3c02701ccf5b2d8fd0f9"
     },
     "treesitter-grammar-sxhkdrc": {
         "cargoLocks": null,
