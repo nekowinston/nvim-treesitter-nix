@@ -394,7 +394,7 @@
     },
     "treesitter-grammar-bp": {
         "cargoLocks": null,
-        "date": "2025-03-12",
+        "date": "2025-03-24",
         "extract": null,
         "name": "treesitter-grammar-bp",
         "passthru": {
@@ -408,11 +408,11 @@
             "name": null,
             "owner": "ambroisie",
             "repo": "tree-sitter-bp",
-            "rev": "4c2a1d00126a9672f6ddd855850a913f3fae32c9",
-            "sha256": "sha256-NGmnfFqOUAEippWQUgazpFLFssOHrKPreZa/XCJnJWc=",
+            "rev": "2b7323eaf0d115d5697c623b4348ffc2bf43c91b",
+            "sha256": "sha256-4qnS4LG7jWj0UffWgdQsM2XWTv53htV+c2HHWwFLIiI=",
             "type": "github"
         },
-        "version": "4c2a1d00126a9672f6ddd855850a913f3fae32c9"
+        "version": "2b7323eaf0d115d5697c623b4348ffc2bf43c91b"
     },
     "treesitter-grammar-c": {
         "cargoLocks": null,
@@ -457,6 +457,28 @@
             "type": "github"
         },
         "version": "b5eb5742f6a7e9438bee22ce8026d6b927be2cd7"
+    },
+    "treesitter-grammar-caddy": {
+        "cargoLocks": null,
+        "date": "2025-01-26",
+        "extract": null,
+        "name": "treesitter-grammar-caddy",
+        "passthru": {
+            "isGrammar": "true"
+        },
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "opa-oz",
+            "repo": "tree-sitter-caddy",
+            "rev": "2686186edb61be47960431c93a204fb249681360",
+            "sha256": "sha256-pKKx2qCqP/8JLhNebTogM24qzxh6bdX5i4mqGzTJKkw=",
+            "type": "github"
+        },
+        "version": "2686186edb61be47960431c93a204fb249681360"
     },
     "treesitter-grammar-cairo": {
         "cargoLocks": null,
@@ -2815,6 +2837,28 @@
             "type": "github"
         },
         "version": "a7db5227ec40fcfe94489559d8c9bc7c8181e25a"
+    },
+    "treesitter-grammar-javadoc": {
+        "cargoLocks": null,
+        "date": "2025-03-23",
+        "extract": null,
+        "name": "treesitter-grammar-javadoc",
+        "passthru": {
+            "isGrammar": "true"
+        },
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "rmuir",
+            "repo": "tree-sitter-javadoc",
+            "rev": "db9589e9c61cff7d7fcc207744c711b10b60a7a3",
+            "sha256": "sha256-yW2gtK7rG0bmyJL6emp4YyfKO0UEgOHLFbjAP+rmQZg=",
+            "type": "github"
+        },
+        "version": "db9589e9c61cff7d7fcc207744c711b10b60a7a3"
     },
     "treesitter-grammar-javascript": {
         "cargoLocks": null,

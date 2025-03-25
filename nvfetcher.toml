@@ -123,6 +123,12 @@ fetch.github = "tree-sitter/tree-sitter-c-sharp"
 [treesitter-grammar-c_sharp.passthru]
 isGrammar = "true"
 
+[treesitter-grammar-caddy]
+src.git = "https://github.com/opa-oz/tree-sitter-caddy"
+fetch.github = "opa-oz/tree-sitter-caddy"
+[treesitter-grammar-caddy.passthru]
+isGrammar = "true"
+
 [treesitter-grammar-cairo]
 src.git = "https://github.com/amaanq/tree-sitter-cairo"
 fetch.github = "amaanq/tree-sitter-cairo"
@@ -768,6 +774,12 @@ isGrammar = "true"
 src.git = "https://github.com/tree-sitter/tree-sitter-java"
 fetch.github = "tree-sitter/tree-sitter-java"
 [treesitter-grammar-java.passthru]
+isGrammar = "true"
+
+[treesitter-grammar-javadoc]
+src.git = "https://github.com/rmuir/tree-sitter-javadoc"
+fetch.github = "rmuir/tree-sitter-javadoc"
+[treesitter-grammar-javadoc.passthru]
 isGrammar = "true"
 
 [treesitter-grammar-javascript]
